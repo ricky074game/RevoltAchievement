@@ -1,0 +1,21 @@
+{
+  "name": "POLYGON",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1241100,
+  "achievements": [
+    {
+      "name": "Guest of the Full Moon",
+      "description": "Participation in the Halloween Event",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241100/8bf678c633e114520cba35e8c6b2bc6dfaaf5280.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_EVENT_HALLOWEEN_2024_1",
+      "getglobalpercentage": 0.1,
+      "difficulty": 4
+    }
+  ]
+}

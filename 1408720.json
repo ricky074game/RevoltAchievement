@@ -1,0 +1,21 @@
+{
+  "name": "Krunker",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1408720,
+  "achievements": [
+    {
+      "name": "First Steps",
+      "description": "Launched the Steam Client",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1408720/83c7ee7aefea742985a8163ddde23894008879c1.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "NOOB",
+      "getglobalpercentage": 91.0,
+      "difficulty": 1
+    }
+  ]
+}

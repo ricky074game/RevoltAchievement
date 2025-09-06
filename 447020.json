@@ -1,0 +1,197 @@
+{
+  "name": "Farming Simulator 17",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 447020,
+  "achievements": [
+    {
+      "name": "In for the Long Haul",
+      "description": "Reach 10 hours playing time in a single savegame",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/fd353e964f1f33ca087c8825368e3a919fb63ccd.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "2",
+      "getglobalpercentage": 42.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Breakneck Bankruptcy",
+      "description": "Reach a negative balance on your very first day",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/439d625994aa594c07d6e5e45c35e393fefe4a38.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "3",
+      "getglobalpercentage": 14.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Financial Independence",
+      "description": "Pay back an entire bank loan",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/fc4547286f3b6ddc4d135deede97a7c72474461c.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "4",
+      "getglobalpercentage": 39.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Peak Profits",
+      "description": "Own a bank account with 1 million ingame money",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/2af7276b1071dfcff73dfa7d8bfa6b9af443eb28.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "5",
+      "getglobalpercentage": 49.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Help a Fella out",
+      "description": "Complete a task for another farmer",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/d38b5acd0c603d01dcabc2243b0cc9c2f91c2931.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "6",
+      "getglobalpercentage": 41.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Farmers' Favorite",
+      "description": "Help each farmer at least once",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/ca5a165ab7e1aa848ae54c922f03a3b7141aaf9f.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "7",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Three-Pointer",
+      "description": "Score a three-point field goal in basketball",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/347ffd9c4a5f83e0c4ab1e63d4a5b2f78e8e0921.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "8",
+      "getglobalpercentage": 7.6,
+      "difficulty": 3
+    },
+    {
+      "name": "All That Glitters...",
+      "description": "Find all 100 gold nuggets",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/94ca211278468ca02c2feec3cf256782f7bf34a4.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "9",
+      "getglobalpercentage": 10.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Preparation Is Key",
+      "description": "Cultivate 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/05c1c35814e6bb45b0d9ed879ea395ee423b085e.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "10",
+      "getglobalpercentage": 31.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Into the Soil",
+      "description": "Sow 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/da046179f9434429fd02280f772ad261770031a5.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "11",
+      "getglobalpercentage": 38.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Make 'em Grow",
+      "description": "Fertilize 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/1ea89bc8279fd1375feb71f4f068dfbeed78bf12.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "12",
+      "getglobalpercentage": 49.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Bumper Harvest",
+      "description": "Harvest 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/38a1a08ed618772aa9eb2bf19f6546537425f4e8.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "13",
+      "getglobalpercentage": 43.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Lumber...",
+      "description": "Cut down a tree",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/32d77ee107b979deff9059df0fb5cacabffeff52.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "14",
+      "getglobalpercentage": 46.3,
+      "difficulty": 2
+    },
+    {
+      "name": "...jack",
+      "description": "Cut down 50 trees",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/7b39e6ddef11ab26d6798618e577a32cbb13a6a4.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "15",
+      "getglobalpercentage": 12.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Cowboy",
+      "description": "Breed 20 cows",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/ba9c8949580cf7d5a1c92691d49f23d287f43247.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "16",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Sweet Dreams",
+      "description": "Breed 30 sheep",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/ef93d8fca4be510ffca31aa91122673fd8866c70.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "17",
+      "getglobalpercentage": 7.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Oink Oink!",
+      "description": "Breed 50 pigs",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447020/089476c0e26c269dcae585be9fcd6bd3778fc549.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "18",
+      "getglobalpercentage": 7.1,
+      "difficulty": 3
+    }
+  ]
+}

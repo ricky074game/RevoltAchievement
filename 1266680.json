@@ -1,0 +1,230 @@
+{
+  "name": "Strobophagia | Rave Horror",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1266680,
+  "achievements": [
+    {
+      "name": "DJ in training",
+      "description": "Activate the DJ's sound system at their beach setup",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/d7a32796ff438b71054e56e145403e3e0de2c587.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_rookie_dj",
+      "getglobalpercentage": 72.0,
+      "difficulty": 1
+    },
+    {
+      "name": "It hAs BEgun. Let us parTAKE",
+      "description": "Take part of the opening ceremony of the Headless festival",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/fb8a453de051745d4315c89995d74d4173080ba1.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ach_start_rave",
+      "getglobalpercentage": 57.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Sinister is Latin for left",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/8016a4305cfbb923127987c6631605643f22ec36.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ach_puzzle_nax",
+      "getglobalpercentage": 35.7,
+      "difficulty": 2
+    },
+    {
+      "name": "I thought we were friends",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/792f244ebed153e1220f4ad665dae89f8c8ea980.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ach_betrayal_cd",
+      "getglobalpercentage": 24.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Ultimate expression of Gluttony",
+      "description": "Complete the Gluttony ending",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/194cdbdfe9e420da10f3b0e33fb893dcfc550e85.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ach_end_gluttony",
+      "getglobalpercentage": 22.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Ultimate expression of Avarice",
+      "description": "Complete the Avarice ending",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/e7ffad985d49119dfcb2d11ce55fe7f5fb8976b8.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ach_end_avarice",
+      "getglobalpercentage": 23.2,
+      "difficulty": 2
+    },
+    {
+      "name": "For your personal collection",
+      "description": "Collect every picture",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/32a429c1fa0af10df73b7b29796d2d5df6974f30.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ach_collect_snaps",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Follow the signal",
+      "description": "Connect to every wifi hotspot",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/c9c3937488e653bb69d9b3ac37c2829df549a731.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ach_collect_wifi",
+      "getglobalpercentage": 10.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Creep",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/dc3e108cbde1421d27642726d6f239c3a7244a1d.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ach_fate_oedipa",
+      "getglobalpercentage": 6.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Occupied!",
+      "description": "Take a load off",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/bcfca4b91d9d65b8409c1c00eb8e06490b7e4a8f.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ach_goofy_toilets",
+      "getglobalpercentage": 22.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Lovers' quarrel",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/ea2bda1f318c7e0b27dbfdb215499c5e12372c41.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ach_lore_lovers",
+      "getglobalpercentage": 18.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Fast food",
+      "description": "Complete the game without being killed or knocked down outside the beach area",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/3882f6296c81ed7b6a7c05cc8fa7b511b091d74d.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ach_ironman",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Bottoms up",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/43100a2dcac756b6b8ff70d699e88991d2c880ae.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ach_drunkard",
+      "getglobalpercentage": 33.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Self-isolation",
+      "description": "Get to the Quarantine on your own",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/507469256370bc1790c0088488135e95824d853b.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ach_self_isolation",
+      "getglobalpercentage": 16.7,
+      "difficulty": 3
+    },
+    {
+      "name": "I stan",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/7e186f496d29ad5192890d41a6b44af8f6acdb9e.jpg",
+      "hidden": 1,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ach_goofy_fanperson",
+      "getglobalpercentage": 17.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Down the rabbithole",
+      "description": "Complete the rites mural",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/2a1396e413cae1ed79474219222a7394d65a3b0d.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ach_start_avarice",
+      "getglobalpercentage": 25.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Bloodlust",
+      "description": "Fulfill your blood-drenched potential with a grand feast",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/9467e5023b68f6bd54edb27d07d374a749d84a82.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ach_bloodlust",
+      "getglobalpercentage": 16.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Pathetic",
+      "description": "Try to hurt the horned monster",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/08336e3cac85371f086ba833fd1a216f85d126df.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ach_futile_horned",
+      "getglobalpercentage": 17.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Blaze 'em!",
+      "description": "Be near 420 ravers as they get knocked out",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/7e7b03096be15002a6e7da8ce21a1a64193062e2.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ach_brawler",
+      "getglobalpercentage": 6.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Obsessed much?",
+      "description": "Find the shrine to the horned monster",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1266680/51ee0b4b824f7388d566f3b1adf14b1b082d2dd2.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "ach_shrine_horned",
+      "getglobalpercentage": 11.6,
+      "difficulty": 3
+    }
+  ]
+}

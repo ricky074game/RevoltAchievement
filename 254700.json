@@ -1,0 +1,142 @@
+{
+  "name": "Resident Evil Test",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 254700,
+  "achievements": [
+    {
+      "name": "It Begins With a Ring",
+      "description": "Ring the mysterious bell. What happens after that, is up to you.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/6876868f9fd77810e44c6a3a1f8df8c87a07f6c8.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_1",
+      "getglobalpercentage": 70.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Do Not Shoot the Water!",
+      "description": "Summon the master of the lake. Don't rock the boat.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/544ee87d1d54eca009048694b735b0f01751f611.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_2",
+      "getglobalpercentage": 19.2,
+      "difficulty": 3
+    },
+    {
+      "name": "A Rock and a Hard Place",
+      "description": "Outmaneuver the rampaging beast, El Gigante.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/222e606d8133205f98d2b4709559a7ae0e683a54.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_3",
+      "getglobalpercentage": 49.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Secure the Ballistics",
+      "description": "Rescue the president's daughter, Ashley. Afterwards, the real fun begins.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/47b8f351ab4587433723f718fe2a09245149bb57.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_4",
+      "getglobalpercentage": 49.4,
+      "difficulty": 2
+    },
+    {
+      "name": "A Bloodline Severed",
+      "description": "Defeat the village chief in battle. ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/cfd2e9dd70302c22c9e30ee620cb061d55fcf338.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_5",
+      "getglobalpercentage": 44.7,
+      "difficulty": 2
+    },
+    {
+      "name": "A Terrifying Assassin",
+      "description": "Turn the tables on Verdugo, the right hand of Salazar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/d535a386cae1754986b4e65eb4f5117f0a44e2bf.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_6",
+      "getglobalpercentage": 30.5,
+      "difficulty": 2
+    },
+    {
+      "name": "The Castellan Falls",
+      "description": "Defeat Salazar, and make your escape from the castle.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/575ddd64da5865192854eb482674a3452666dc53.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_7",
+      "getglobalpercentage": 36.4,
+      "difficulty": 2
+    },
+    {
+      "name": "The Ties That Bind",
+      "description": "Defeat Krauser, your former partner, in battle. ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/453600b596f2e772647f880abb3bb885c7310277.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_8",
+      "getglobalpercentage": 34.2,
+      "difficulty": 2
+    },
+    {
+      "name": "We're Going Home",
+      "description": "Defeat Saddler in battle, and escape from the nightmare.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/26151f284478f3f072779d148034ac9095ce53c0.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_9",
+      "getglobalpercentage": 33.7,
+      "difficulty": 2
+    },
+    {
+      "name": "A Heart of Steel",
+      "description": "Clear the game on the highest difficulty.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/c0d108be3dbb9d9b74d8beeec12612e7e00cd39f.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_10",
+      "getglobalpercentage": 11.4,
+      "difficulty": 3
+    },
+    {
+      "name": "What Are They Worth?",
+      "description": "Acquire all of the bottle caps in the game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/2d33a3cfab8ef05afa0a20114d0f52d2c39de2fe.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_11",
+      "getglobalpercentage": 14.8,
+      "difficulty": 3
+    },
+    {
+      "name": "The S Stands for Stylish!!",
+      "description": "Acquire all of the costumes in the game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/254700/bde9e0381a03ee7e7f141283a22f0841d3e24c8b.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_12",
+      "getglobalpercentage": 17.1,
+      "difficulty": 3
+    }
+  ]
+}

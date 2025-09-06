@@ -1,0 +1,153 @@
+{
+  "name": "Cuisine Royale",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 884660,
+  "achievements": [
+    {
+      "name": "Ready to fight!",
+      "description": "Loot your first gun",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/edb42d6a52e7bc0d81ae765f2f180f97f0832c59.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "achievement_ready_to_fight",
+      "getglobalpercentage": 51.6,
+      "difficulty": 1
+    },
+    {
+      "name": "First blood",
+      "description": "Get your first kill",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/114bf6c2035261b346aeebfe60fe9e913d30efa6.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "achievement_first_blood",
+      "getglobalpercentage": 37.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Dark gods champion",
+      "description": "Win your first battle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/afbebf730e863f2ca2112279d1c7e0d0af8640d2.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "achievement_the_dinner_is_served",
+      "getglobalpercentage": 16.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Veteran",
+      "description": "Play 100 hours in battles",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/a05e76c10e8d98715dc5457b77cb70d234cf5bda.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "achievement_veteran",
+      "getglobalpercentage": 0.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Head hunter",
+      "description": "Do 4 headshot kills in one game",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/8eb26307c5f5758fb01ba2cc3b70ebcc812dab49.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "achievement_head_hunter",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Gunslinger",
+      "description": "Kill 3 enemies at the same time. All kills should be within 10 seconds time from first to last one",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/f41e6056d85ad415773fec6b0f3ce2b64bd8ed5b.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "achievement_gunslinger",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Bomberman",
+      "description": "Kill 3 players with grenades in one battle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/d540d1ceaccaf3af9fa75c1585d184ab41615bb1.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "achievement_bomberman",
+      "getglobalpercentage": 0.2,
+      "difficulty": 4
+    },
+    {
+      "name": "War machine",
+      "description": "Get at least one hit with each of listed weapon type in one battle: rifle, assault rifle, submachine, semiauto, shotgun",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/e552c18f6fe3a9a34618298e43522d42366c2e86.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "achievement_war_machine",
+      "getglobalpercentage": 0.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Unstoppable",
+      "description": "Kill 7 players in one battle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/c58d58b8d41f3237c7dcbd915f520892e16bd6bc.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "achievement_unstoppable",
+      "getglobalpercentage": 4.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Equilibrium",
+      "description": "Kill 4 enemies at the same time. All kills should be within 10 seconds time from first to last one",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/4d094295f4af98d92803a9d66194f0dc272a95a5.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "achievement_equilibrium",
+      "getglobalpercentage": 0.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Hoarder",
+      "description": "Loot at least one of each Regular, Premium, Tactical and Royale fridges in one battle. You have to take out all the items from the fridge for it to count",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/28607d8e6157e12f5d6f745922431cf18b233c06.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "achievement_hoarder",
+      "getglobalpercentage": 0.1,
+      "difficulty": 4
+    },
+    {
+      "name": "The invisible man",
+      "description": "Win a battle without killing anyone",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/25c3e2a53562ba668b715b0e38d43a320dfd69d4.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "achievement_the_invisible_man",
+      "getglobalpercentage": 5.2,
+      "difficulty": 3
+    },
+    {
+      "name": "The king",
+      "description": "Win 3 games in a row",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/884660/16ac9d6d99885a9ede2efa11386bb4756a2cd8b2.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "achievement_the_king",
+      "getglobalpercentage": 1.3,
+      "difficulty": 4
+    }
+  ]
+}

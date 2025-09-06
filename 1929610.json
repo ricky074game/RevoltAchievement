@@ -1,0 +1,219 @@
+{
+  "name": "The Shivers Within",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1929610,
+  "achievements": [
+    {
+      "name": "SUPERNATURAL",
+      "description": "Read EMF Level 5.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/87d0ac5ad7a7bad5a23132cb7bc94ee2a6b9059c.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "EMF_LEVEL5_READING1",
+      "getglobalpercentage": 55.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Metaphysical Intelligence Intern",
+      "description": "Exorcise the ghost once.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/256ebbd7fd3948d8ceae454e3d8831d1069bf48f.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "MII_INTERN",
+      "getglobalpercentage": 59.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Metaphysical Intelligence Rookie",
+      "description": "Exorcise the ghost 5 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/b42b68c907006c59b495065b0e518299a64a779a.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "MII_ROOKIE",
+      "getglobalpercentage": 32.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Hail Mary",
+      "description": "Purchase Two Crucifix",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/811197f877fc56f160b27ce6f269936aa7037b0d.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "PURCHASE_CRUCIFIX_01",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    },
+    {
+      "name": "THE INEBRIATED",
+      "description": "Buy the Pub.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/3996795b8f59b95d6bda26d58be745caca906520.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "PURCHASE_PUB",
+      "getglobalpercentage": 12.0,
+      "difficulty": 3
+    },
+    {
+      "name": "The Light Keeper",
+      "description": "Buy the Lighthouse.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/a554976127c972003240963c176cfabd7679b13c.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "PURCHASE_LIGHTHOUSE",
+      "getglobalpercentage": 8.4,
+      "difficulty": 3
+    },
+    {
+      "name": "The Descent Into Madness...",
+      "description": "Play on the Abandoned House map.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/627c791323e22c155140d2d720371c14b2f66112.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "PLAY_ABANDONEDHOUSE",
+      "getglobalpercentage": 94.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Health Care Hauntings",
+      "description": "Play on the Hospital map",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/57ce6dc6efa0c415c3823b51a6c861330241e18c.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "PLAY_HOSPITAL",
+      "getglobalpercentage": 43.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Cyclone Street Surveyor",
+      "description": "Play on the Cyclone Street map.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/46104b678f02d25657f170065885c3fbd544ebe7.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "PLAY_CYCLONESTREET",
+      "getglobalpercentage": 58.6,
+      "difficulty": 1
+    },
+    {
+      "name": "This Isn't Over!",
+      "description": "Die once.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/c9e61addfa97d9f888c46b29b729cfd8cb2d8dbf.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "DIE_01",
+      "getglobalpercentage": 79.8,
+      "difficulty": 1
+    },
+    {
+      "name": "The Phoenix: Rebirth",
+      "description": "Revive your friend with a Tarot Card.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/3eccaa1b3b50ede2f4101a8cf6bd67f7f8dfd09e.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "REVIVE_FRIEND",
+      "getglobalpercentage": 11.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Ghost Chaser",
+      "description": "Correctly identify the ghost once.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/dd0ab3f527f3ed2165b6df9b2a309e64ce0b1769.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "IDENTIFY_CORRECT_GHOST",
+      "getglobalpercentage": 78.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Paranormal Journalist",
+      "description": "Correctly identify the ghost 3 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/795ab3beca44563ea12986d4250e0a04ae28e130.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "IDENTIFY_CORRECT_GHOST_02",
+      "getglobalpercentage": 60.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Paranormal Photographer",
+      "description": "Take Two Photos Of The Ghost.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/7aa4f6be292631443d1fdd9a9bbbe2531c41ee6f.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "SOLID_PICTURE_GHOST",
+      "getglobalpercentage": 31.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Deerscent Into Madness",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/5b886b5977949eb1dfad3b46ef04db413bb66290.jpg",
+      "hidden": 1,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "DEER_CULT",
+      "getglobalpercentage": 6.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Madmen Hunters",
+      "description": "Play on the Bedlam map",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/3d30790d516b829dfc94e64ce51cabe6991d668d.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "PLAY_BEDLAM",
+      "getglobalpercentage": 21.2,
+      "difficulty": 2
+    },
+    {
+      "name": "The Fried Ghost",
+      "description": "Exorcise the ghost in the Bedlam",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/dc68673de850a5b65b271e8e27acd7bf7d178a62.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "EXORCISE_BELDAM",
+      "getglobalpercentage": 7.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Good or Evil?",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/5a8f00f85e2a66313e21b3d0bf324b587e358c6d.jpg",
+      "hidden": 1,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "SUZIE_STORY1",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Desolate Lunacy in the Far East",
+      "description": "Play on the Kurosawa House map",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929610/fffa45ee140bcf12d1facea6307ed3839aabfacc.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "PLAY_KUROSAWA_HOUSE",
+      "getglobalpercentage": 25.9,
+      "difficulty": 2
+    }
+  ]
+}

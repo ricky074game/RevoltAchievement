@@ -1,0 +1,208 @@
+{
+  "name": "Duck Game",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 312530,
+  "achievements": [
+    {
+      "name": "Duck Gamer",
+      "description": "Spawn 100 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/8166b2baf181a168914ae01ce79ff4514bfa1c3b.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "play100",
+      "getglobalpercentage": 63.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Arcade Master",
+      "description": "Get best trophy in all challenges.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/f1c9b5f2b635f9501434fc88f870963fdbc72424.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "chancy",
+      "getglobalpercentage": 2.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Ritual Duck Gamer",
+      "description": "Spawn 1000 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/c529a37269bde93f96c85d3c7541a88a5b665c97.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "play1000",
+      "getglobalpercentage": 24.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Pillow Maker",
+      "description": "Kill 1000 ducks with any one profile.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/003a2f2014b85e8a6344d89a0b642d653261ba41.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "kill1000",
+      "getglobalpercentage": 36.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Endurance",
+      "description": "Play through a match that goes to 50 points.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/d71554c643b0c8bb5a48c2eb8084074c342137e1.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "endurance",
+      "getglobalpercentage": 10.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Outgoing",
+      "description": "Win 10 online matches.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/dee70303d15e0a09af4d89a1bba30794b0157dea.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "online10",
+      "getglobalpercentage": 19.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Basement Dweller",
+      "description": "Unlock the arcade basement.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/8cf57b992db30bcd48ae9fff5a85ff7f9444209d.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "basement",
+      "getglobalpercentage": 4.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Power User",
+      "description": "Play on 10 different custom maps.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/9d672a41169b0f2b7ea3f54c7214b9e50641fd76.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "editor",
+      "getglobalpercentage": 32.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Draw Breaker",
+      "description": "Break 10 draws.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/9ae210db82b68debcba7e766dffa83127b3c347e.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "drawbreaker",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Hot Stuff",
+      "description": "Spend 15 minutes on fire with any one profile.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/522098461cfbb8193afe6de422cf008315e8a55c.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "fire",
+      "getglobalpercentage": 4.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Flat Top Intervention",
+      "description": "Crush 50 ducks.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/b0c082e1be30ce8b73b94635534dab2332bd4441.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "crate",
+      "getglobalpercentage": 22.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Books are Fun",
+      "description": "Win a round in a 4 player match by converting all players to your team.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/a17924fb79d33b5b81c3b10adbbafeaadbfea374.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "book",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Never Mined, I won",
+      "description": "Win a round while standing on a mine.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/311d8f9f171b3eff595d3037893b711be0a58932.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "mine",
+      "getglobalpercentage": 5.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Dr. Death",
+      "description": "Kill 3 ducks at the same time with the Death Ray.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/0898ddb4db4836a6fbd7a816eaf9d3cd5db8d700.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "laser",
+      "getglobalpercentage": 3.4,
+      "difficulty": 4
+    },
+    {
+      "name": "<3",
+      "description": "Finish 50 whole games.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/c319c0c6fa1ad8f5c0b00e019cc82e9be9b7fd2f.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "finish50",
+      "getglobalpercentage": 16.3,
+      "difficulty": 3
+    },
+    {
+      "name": "That's My Boy",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/ddbe6800f244e77e9197aad4b1c3cf10192880c8.jpg",
+      "hidden": 1,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "myboy",
+      "getglobalpercentage": 10.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Jukebox Hero",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/b7b8bcd429830cce77c021d7f5ec7ba0be730e0e.jpg",
+      "hidden": 1,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "jukebox",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Complete Gamester (1674)",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312530/5d3e1672f9bbbfff62ee4cfa9b90652e10d2bb27.jpg",
+      "hidden": 1,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "kingme",
+      "getglobalpercentage": 1.3,
+      "difficulty": 4
+    }
+  ]
+}

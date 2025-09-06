@@ -1,0 +1,131 @@
+{
+  "name": "Spellbreak",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1399780,
+  "achievements": [
+    {
+      "name": "Banishing Beginnings",
+      "description": "Exile 1 player",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/852c733542208f070860205185ad62a6ce5c4d06.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_1_EXILE",
+      "getglobalpercentage": 69.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Elite Exiles",
+      "description": "Exile 5 players in a single match",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/684de6b2a5f52dd8a76dbe35183fa3ab57c2a5c3.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_5_EXILE",
+      "getglobalpercentage": 39.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Fracture Failure",
+      "description": "Fall into the Fracture",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/8f477ca2a011d427f928355a44565b241a53b709.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_FRACTURE_FALL",
+      "getglobalpercentage": 18.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Eager Elementalist",
+      "description": "Unlock 1 class afterglow",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/6929368339b09d90bbad0e190c4861585659d77d.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_EAGER_ELEMENTALIST",
+      "getglobalpercentage": 2.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Master of Magecraft",
+      "description": "Unlock 6 class afterglows",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/a8d8056723b5b2502ad9392f2dda552b13c50308.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_MASTER_OF_MAGECRAFT",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Talented Taskmastery",
+      "description": "Unlock 12 talents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/a5d0c463886e5c85ff358c10bab4dd37d6990f68.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_12_TALENT",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "To the Rez-cue!",
+      "description": "Revive a teammate",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/78d327f62706c35bc7ef72ca3037d03c23a84cba.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_1_REVIVE",
+      "getglobalpercentage": 26.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Stalwart Savior",
+      "description": "Revive a total of 20 teammates",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/af85ac20beb73c9ab3bcbeae559668c82de5c91c.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_20_REVIVE",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Maniacal Alchemist",
+      "description": "Exile a player with an elemental combination",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/a7e5dc42c944c38c9230d3f361986d8f6732e1bc.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_ELEMENT_COMBO",
+      "getglobalpercentage": 61.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Top Ten",
+      "description": "Place in the top 10 in Battle Royale",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/13b723c7234421e1344bf9e326c81454a1fede48.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_BATTLE_ROYALE_TOP_10",
+      "getglobalpercentage": 66.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Hollow Lands Champion",
+      "description": "Win a Battle Royale",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399780/83c52e457c0bff9b4d9e9954c31adf27243e0b51.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_BATTLE_ROYALE_WIN",
+      "getglobalpercentage": 32.5,
+      "difficulty": 2
+    }
+  ]
+}

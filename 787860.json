@@ -1,0 +1,263 @@
+{
+  "name": "Farming Simulator 19",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 787860,
+  "achievements": [
+    {
+      "name": "Longplay",
+      "description": "Reach 10 hours of playing time in a single savegame",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/96fb169b57b18ea2e43c973a4bf995a31306fe96.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "2",
+      "getglobalpercentage": 43.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Lucrative Labor",
+      "description": "Own a bank account with 10 million ingame money",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/050cf4de62c74d89119e1131809bf7c683cbc811.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "3",
+      "getglobalpercentage": 39.4,
+      "difficulty": 2
+    },
+    {
+      "name": "A Good Deed",
+      "description": "Complete 1 mission",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/cd6956e1343aa5f893f8c55d314180fe2fdcb5e5.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "4",
+      "getglobalpercentage": 34.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Helping Out",
+      "description": "Complete 50 missions",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/def65349e7163fb2b7743aa0e1141ce24d6867d5.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "5",
+      "getglobalpercentage": 4.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Legendary Aide",
+      "description": "Complete 100 missions",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/7a5acdf70a78d970b2717f53992da8f5959dc2d4.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "6",
+      "getglobalpercentage": 2.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Backyard Gardener",
+      "description": "Cultivate 1 hectare",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/2dd39f678cd8f44974c81dbaa0c8dfb011372c2c.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "7",
+      "getglobalpercentage": 48.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Starting Small",
+      "description": "Sow 1 hectare",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/1d067a70c13d42fb931b41b24f1191494f1a704b.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "8",
+      "getglobalpercentage": 54.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Happy Plants",
+      "description": "Fertilize 1 hectare",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/ed63b988a6491aac7f69f1cffdea9e4bfbfcd9a1.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "9",
+      "getglobalpercentage": 49.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Reap What You Sow",
+      "description": "Harvest 1 hectare",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/53a9837325c2dfc58300dd19cb3dcc1cdf6aa08b.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "10",
+      "getglobalpercentage": 58.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Fervent Farmer ",
+      "description": "Cultivate 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/4010f71e710ac0360ea57f554efeabf585dfb9d4.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "11",
+      "getglobalpercentage": 27.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Plant Prosperity",
+      "description": "Sow 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/427a77afbd1a94751fadccf0a3313bfdd2bec8a2.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "12",
+      "getglobalpercentage": 34.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Delighted Plants",
+      "description": "Fertilize 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/8af9e2c4261cd6945c2cd95c854bede4eca0b371.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "13",
+      "getglobalpercentage": 35.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Ample Yield",
+      "description": "Harvest 10 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/c05c3d5b8fe4ff68b50a9ed87794e3883f658d94.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "14",
+      "getglobalpercentage": 37.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Chief of Cultivation",
+      "description": "Cultivate 100 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/a9e180254ff6af6d8857163e3aeb8e154b5162ab.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "15",
+      "getglobalpercentage": 7.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Serial Sower",
+      "description": "Sow 100 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/6ff0d5ff0d2bcd8bd1108b9ba08c26faefc7a1bf.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "16",
+      "getglobalpercentage": 11.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Ecstatic Plants",
+      "description": "Fertilize 100 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/79700586a752d1b2ef91f49556ea0092d1941637.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "17",
+      "getglobalpercentage": 16.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Humongous Harvest",
+      "description": "Harvest 100 hectares",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/5a4010fe5e2d464e48ee7e1e2f38f83243e4b208.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "18",
+      "getglobalpercentage": 13.1,
+      "difficulty": 3
+    },
+    {
+      "name": "I Saw That Coming!",
+      "description": "Cut down 1 tree",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/009c4d7b833764befc8b0122eb71f55e92458aa9.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "19",
+      "getglobalpercentage": 44.9,
+      "difficulty": 2
+    },
+    {
+      "name": "More Wood!",
+      "description": "Cut down 25 trees",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/61beada89060a3fa89d88ee4c5e7307734c96a80.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "20",
+      "getglobalpercentage": 16.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Milk Magnate",
+      "description": "Breed 20 cows",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/0efd8fbb354bd4741a764d7f810319ce0bd1e395.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "21",
+      "getglobalpercentage": 4.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Wool Commander",
+      "description": "Breed 30 sheep",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/df06f6b7041cca113bcacebbe6c04c5d6b0d9359.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "22",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Pink Progress",
+      "description": "Breed 50 pigs",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/38b5937589b8282b597302fcbb3c05bc7ddef93c.jpg",
+      "hidden": 0,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "23",
+      "getglobalpercentage": 6.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Egg Lord",
+      "description": "Breed 100 chickens",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/787860/b5e0bffe29710242144c78a4090ba2a5f5887e7c.jpg",
+      "hidden": 0,
+      "id": 22,
+      "unlocked": false,
+      "apiName": "24",
+      "getglobalpercentage": 6.8,
+      "difficulty": 3
+    }
+  ]
+}

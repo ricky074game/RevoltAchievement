@@ -1,0 +1,9 @@
+{
+  "name": "Totally Accurate Battlegrounds",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 823130,
+  "achievements": []
+}

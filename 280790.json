@@ -1,0 +1,9 @@
+{
+  "name": "Creativerse",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 280790,
+  "achievements": []
+}

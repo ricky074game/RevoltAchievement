@@ -1,0 +1,164 @@
+{
+  "name": "A Way Out",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1222700,
+  "achievements": [
+    {
+      "name": "Freedom",
+      "description": "You freed someone from captivity.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/322eaf07c2992233410f5fead7ccee5fabcc2bab.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_1",
+      "getglobalpercentage": 43.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Take A Breather",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/f570c6782e8f26b3b42d09af5cc3ac313bc20f18.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_2",
+      "getglobalpercentage": 3.5,
+      "difficulty": 4
+    },
+    {
+      "name": "In Sync",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/9a9a7b8dd9f8eccccbdb0cb66f076262dec65062.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_3",
+      "getglobalpercentage": 7.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Timeless Treasure",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/bba593c409f86f449e2dff2dc86a4802d6fd77cf.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_4",
+      "getglobalpercentage": 3.4,
+      "difficulty": 4
+    },
+    {
+      "name": "No Cheating",
+      "description": "You exposed some infidelity.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/e9ba19dfff8ce76de46cd60100ea888ba69bf94a.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_5",
+      "getglobalpercentage": 12.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Break From Reality",
+      "description": "You played a videogame with a friend.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/455d876f31e77e134d1dba96bdecdf26b278ec58.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_6",
+      "getglobalpercentage": 33.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Mayday!",
+      "description": "You almost took to the skies.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/0ae4a01843ecfbaed4d412ce8fb4b32b715e69d1.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_7",
+      "getglobalpercentage": 8.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Managed Anger",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/85a0c302a47e0af0c80bfeaa2c1a4e3b274e64a7.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_8",
+      "getglobalpercentage": 2.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Live the Dream",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/88e446b607376dee63ce2ed9d9704be8bfb72053.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_9",
+      "getglobalpercentage": 3.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Backseat Mechanic",
+      "description": "You helped fix the bike.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/a6e97a376164b92a8ca41565748fa53a050aced2.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_10",
+      "getglobalpercentage": 52.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Take It For A Spin",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/1040218dcefa99ba80219406d1d4417011e94c32.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_11",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "You Started It",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/8d2c218eb9adb1aa5c38ce97ed6f81e1dcdcd567.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_12",
+      "getglobalpercentage": 11.4,
+      "difficulty": 3
+    },
+    {
+      "name": "The Dip",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/ff9745eec3e3be8aa5a9a0a555089e6e64cdd2db.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_13",
+      "getglobalpercentage": 8.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Home Run",
+      "description": "You are clearly good with a bat.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222700/632561b5f3e72b5043ec28eb54569d69c3b69f54.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "Achievement_GOSCC_14",
+      "getglobalpercentage": 23.3,
+      "difficulty": 2
+    }
+  ]
+}

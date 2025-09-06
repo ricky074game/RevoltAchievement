@@ -1,0 +1,208 @@
+{
+  "name": "Amnesia: The Dark Descent",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 57300,
+  "achievements": [
+    {
+      "name": "Alchemist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/d4940f19e6ee4fed0e2ecb6927676bf7dd740256.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Alchemist",
+      "getglobalpercentage": 18.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Escape Artist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/7cbd6fff96159a1a58724b8b5c5e739b2f08691b.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "EscapeArtist",
+      "getglobalpercentage": 14.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Descendant",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/f903028531513488e185db46d8b85a5625e2a235.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "Descendant",
+      "getglobalpercentage": 11.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Pipeworker",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/6a90c75c85428a1f55f3e4699607a9923dd1ff75.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Pipeworker",
+      "getglobalpercentage": 9.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Restorer",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/6ade50c2114a5c50e781e4f08d24c4497549abc5.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "Restorer",
+      "getglobalpercentage": 8.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Survivor",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/6553b1db27ef38646ac791d455d7a549649d8c3c.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "Survivor",
+      "getglobalpercentage": 6.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Sacrifice",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/5fb9a1064bbd8dd9aa1bcaef0c7d9992792529a7.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "Sacrifice",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Benefactor",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/96e37a79077bf51ef9fa6e4ae2a8381a9e84babc.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "Benefactor",
+      "getglobalpercentage": 6.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Illuminatus",
+      "description": "Picked up every tinderbox in Amnesia: The Dark Descent.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/d7467c986193e4efa5fb6a4d735b929d5369c035.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "Illuminatus",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "NOPE",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/08a287947def98b45bc5aea5656156a3cf1b31d0.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "NOPE",
+      "getglobalpercentage": 22.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Quitter",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/74f2bd859818ba9011f1ff025d88e05ed5e4766f.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "Quitter",
+      "getglobalpercentage": 4.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Egotist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/423febca9cbb7349fa6d0adf253196677a9fec35.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "Egotist",
+      "getglobalpercentage": 2.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Altruist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/0cebf45fe0bdd57ad77cd0781ab755bdb7194475.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "Altruist",
+      "getglobalpercentage": 2.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Vacillator",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/571a02abb493bb44d68384a0c6b7d868d919fe28.jpg",
+      "hidden": 1,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "Vacillator",
+      "getglobalpercentage": 2.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Still Alive",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/2edb1fd6bbb8e91e47c5b7311fb608685100da37.jpg",
+      "hidden": 1,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "StillAlive",
+      "getglobalpercentage": 2.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Master Archivist",
+      "description": "Read all notes in all games.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/7d9c1bc7bd6e23aca7f484b49a5cc278327b23a9.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "MasterArchivist",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Insanity",
+      "description": "Achieved all other achievements.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/7f14a8a03f8b6d9bae85167db006cd126ccc5faf.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "Insanity",
+      "getglobalpercentage": 2.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Masochist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57300/ed959b02319e6f7528f174e9a0b3d31435e24d66.jpg",
+      "hidden": 1,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "Masochist",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    }
+  ]
+}

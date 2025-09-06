@@ -1,0 +1,142 @@
+{
+  "name": "ValveTestApp204360",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 204360,
+  "achievements": [
+    {
+      "name": "Melee Is Best",
+      "description": "Defeat any end boss without using any magic.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/a70982120497710c9073d41ce4b666522fbec23a.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_MELEEISBEST",
+      "getglobalpercentage": 47.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Kay Eye Ess Ess",
+      "description": "Collect all 4 princesses' kisses in a multiplayer game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/2d6079d9839b913c263b04addce2b80b0e90e54e.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_KISS",
+      "getglobalpercentage": 4.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Traditional",
+      "description": "Complete the game using any character.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/b16f1fb46ef9b7456032b53bb58f55bfd4596dc1.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_TRADITIONAL",
+      "getglobalpercentage": 21.4,
+      "difficulty": 2
+    },
+    {
+      "name": "The Traitor",
+      "description": "Defeat any boss by playing one of his own minions.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/cec6631e15a809787c6a1f65164e46c84b160240.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_THETRAITOR",
+      "getglobalpercentage": 7.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Deer Trainer",
+      "description": "Navigate the Abandoned Mill without hitting any obstacles.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/78339a8e62f9891dfd97d205c090ac28c6d0a627.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_DEERTRAINER",
+      "getglobalpercentage": 22.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Conscientious Objector",
+      "description": "Complete the Home Castle through Barbarian Boss areas without attacking any foes.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/4e46c6ad4029efe324e24a4cde7184bea1fa8512.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_CONOBJECTOR",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Maximum Firepower",
+      "description": "Using a catapult, fling a knight with maximum power.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/c7025e363d2899c7b4984c58d553d692de9c7acf.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_MAXFIREPOWR",
+      "getglobalpercentage": 27.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Animal Handler",
+      "description": "Collect all the animal orbs.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/9c546b6a060c7092c93a308e315f38f2d468727d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_ANMLTRAINER",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Arena Master",
+      "description": "Win 40 Arena Online Matches.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/129acacff51fa3e5f7f1167c2847828bdad1eda1.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_ARENAMASTER",
+      "getglobalpercentage": 1.4,
+      "difficulty": 4
+    },
+    {
+      "name": "The Final Countdown",
+      "description": "Survive until 2:30 in a Back Off Barbarian match.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/e5ef4ab7952566494b02109edd263cc567a4cf98.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_GLORK",
+      "getglobalpercentage": 1.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Treasure Hunter",
+      "description": "Find and dig up ten buried items.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/2b893729cd1e2190587c752825691c1e7b9efa8f.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_TREASURHNTR",
+      "getglobalpercentage": 23.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Medic!",
+      "description": "In a 4 player game, resuscitate each of your fallen comrades at least once.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/c9ec9f3f637725701493a07e522342e9b84ee9b1.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_MEDIC",
+      "getglobalpercentage": 10.2,
+      "difficulty": 3
+    }
+  ]
+}

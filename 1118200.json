@@ -1,0 +1,197 @@
+{
+  "name": "People Playground",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1118200,
+  "achievements": [
+    {
+      "name": "Creator",
+      "description": "Spawn 1000 items",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/00c9f1cea2137aa6e4fea0d15855246ff38786ee.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "SPAWN_ALL_ITEMS",
+      "getglobalpercentage": 64.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Murderer",
+      "description": "Kill a person",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/0615eac61ae59813cd7ef20f19b306d7ff4360ae.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "KILL_PERSON",
+      "getglobalpercentage": 96.4,
+      "difficulty": 1
+    },
+    {
+      "name": "Serial killer",
+      "description": "Kill at least three people",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/8ecefc8483e401b9933c27cc57e6965ad6204086.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "KILL_10_PEOPLE",
+      "getglobalpercentage": 95.4,
+      "difficulty": 1
+    },
+    {
+      "name": "Mass murderer",
+      "description": "Kill 100 people",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/1bf12515c75b925e8776b0ece5e8a6c3059772c6.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "KILL_100_PEOPLE",
+      "getglobalpercentage": 80.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Massacre",
+      "description": "Kill 1000 people",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/c6cf456ccb24259e4494e24fae2e8919e17a6adc.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "KILL_1000_PEOPLE",
+      "getglobalpercentage": 51.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Genocide",
+      "description": "Kill 10k people",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/197971abb58eb8d09228fb3d8cf0b5b081bd099e.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "KILL_10000_PEOPLE",
+      "getglobalpercentage": 20.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Extinction",
+      "description": "Kill a million people",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/eb80d2c4e4e03a183f1bca5f642af7afe1a9fccd.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "KILL_1M_PEOPLE",
+      "getglobalpercentage": 4.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Pacifist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/182ef2ab201c8425f280cf26be3573ae8bbd7299.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "PACIFIST",
+      "getglobalpercentage": 12.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Uncharted territory",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/d0170b2668597b9a3f8488ce130eb60674c0dbde.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "WDJZM",
+      "getglobalpercentage": 15.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Faraday malfunction",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/bce21fb3bf5f9efa03f04f6bfd5ce119d4dbc579.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "SGNR",
+      "getglobalpercentage": 13.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Inverse teleportation",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/7dfbc8c84d8253792dfa173dcb5d04947ca81b63.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "KEYPAD",
+      "getglobalpercentage": 13.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Radiant",
+      "description": "Inject a radioactive substance into the bloodstream of a human",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/ea1c2570a60638216021144bda483d56a7064579.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "GLOWING_HUMAN",
+      "getglobalpercentage": 31.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Black hole",
+      "description": "Create a black hole",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/7e0eb57d21bee77b05f3504f7df9852e52a0dc37.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "BH",
+      "getglobalpercentage": 34.4,
+      "difficulty": 2
+    },
+    {
+      "name": "My insides hurt",
+      "description": "Detonate an organism filled with an explosive liquid",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/d33ae20e0bd36d8c1c20691b0b21924fd6ef9e7a.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "INSIDES_HURT",
+      "getglobalpercentage": 38.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Volume unclamped",
+      "description": "Use the jukebox to burst heads",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/a88e05bed94ba8a3b4964b5f827cb84b38e25750.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "JUKEBOX_HEAD_EXPLOSION",
+      "getglobalpercentage": 22.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Guardian EMP",
+      "description": "Save a human from a sticky grenade by activating an EMP right before it's too late",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/1f818c5eb9c70873eb9f5fb9aa9f169c8e5afd8d.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "EMP_STICKY_GRENADE",
+      "getglobalpercentage": 19.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Potion seller",
+      "description": "Create exotic liquid",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1118200/b8d0cf6d3f35bbfc1d9abf2ca204f791b2440377.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "CHEMIST",
+      "getglobalpercentage": 23.5,
+      "difficulty": 2
+    }
+  ]
+}

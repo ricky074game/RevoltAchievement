@@ -1,0 +1,241 @@
+{
+  "name": "Braveland",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 285800,
+  "achievements": [
+    {
+      "name": "First Follower",
+      "description": "Peasants have joined you.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/1c56c2ad933b2835d3a17aedd0e9778e960d5c37.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "first_follower",
+      "getglobalpercentage": 21.4,
+      "difficulty": 2
+    },
+    {
+      "name": "New Horizons",
+      "description": "Page on Facebook or Twitter visited.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/c8dc4cf86dec6af05ef0a2bfe686491167aaa6de.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "social",
+      "getglobalpercentage": 13.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Flawless Victory",
+      "description": "You defeated the army without losing a single warrior.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/068f5535959b7da5fdc6c65ae30be296454d15b2.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "flawless",
+      "getglobalpercentage": 21.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Crime and Punishment",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/c1fa67ecf89226ea0cb2a74b509c7cb7ae0a499b.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "fromm_dead",
+      "getglobalpercentage": 19.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Woe from Wit",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/f9df5086320a09aa253908e22dd0eb9b1805d7ff.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "arakin_dead",
+      "getglobalpercentage": 16.4,
+      "difficulty": 3
+    },
+    {
+      "name": "War and Peace",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/3bb2e726896bccbce64e96926382c48bf982eabf.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "sigurd_dead",
+      "getglobalpercentage": 15.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Champion",
+      "description": "Game completed without using the easy level of difficulty.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/45b1c0f69afc30851c1fc2953c80bcebf7058eb3.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "champion",
+      "getglobalpercentage": 14.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Legend",
+      "description": "Game completed using only the hard level of difficulty.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/9ca024e414c78bda40770f6842d758ceb34078c5.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "legend",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Lucky",
+      "description": "Treasure chest collected.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/754416166c9bd7249b7ed81445441f4fa4611c33.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "chest",
+      "getglobalpercentage": 19.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Treasure Hunter",
+      "description": "Three treasure chests collected.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/919f917353d5886f530d6060248dd68fecfc2f72.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "chest_3",
+      "getglobalpercentage": 14.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Shopping",
+      "description": "Equipment item on.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/3a399d306eb6639e54fd7625740b5d5a4c9bc5f8.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "equipped_1",
+      "getglobalpercentage": 19.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Equipped",
+      "description": "All four equipment items on.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/99cbf5fd94f5d10b19d289098f8f9c1a6a4650ae.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "equipped_2",
+      "getglobalpercentage": 16.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Juggernaut",
+      "description": "The best equipment of all four types on.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/21cc1e38177fdd58cb21c1e59f4db5f69d9e3572.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "equipped_3",
+      "getglobalpercentage": 14.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Student",
+      "description": "Warrior ability learned.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/fd087212bfc132fd2c7d6eb2927135794a63d7f0.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "skill_1",
+      "getglobalpercentage": 20.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Bachelor",
+      "description": "Two warrior abilities learned.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/db510d45ff4608b32cdbb6226483cef16302daf7.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "skill_2",
+      "getglobalpercentage": 19.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Professor",
+      "description": "All warrior abilities learned.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/9f06d11f5772bc09e1deb4aaa4544539eda60575.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "skill_3",
+      "getglobalpercentage": 15.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Faster Than The Wind",
+      "description": "Acceleration spell used 10 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/9682c8bacf05282ee139e30f35dea26792f1b176.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "speed",
+      "getglobalpercentage": 13.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Burn Heretic!",
+      "description": "1000 damage inflicted to the enemies with Fire Arrow.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/eefca36a606ac5800fa4211b10940f0fbd75d5b1.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "fire_arrow",
+      "getglobalpercentage": 15.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Defender",
+      "description": "Defense spell used 10 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/b8986a2fd887e67821cf0bfd16a1b38e9929746a.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "defense",
+      "getglobalpercentage": 13.3,
+      "difficulty": 3
+    },
+    {
+      "name": "To Arms!",
+      "description": "100 units encouraged.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/ecd7f098ba8f092769ad9d0481823d66d1c37239.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "inspiration",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Firebender",
+      "description": "Rain of Fire spell learned.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285800/a8da54355a36829fcfffbf8e24b789f700a73ee1.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "fire_rain",
+      "getglobalpercentage": 15.4,
+      "difficulty": 3
+    }
+  ]
+}

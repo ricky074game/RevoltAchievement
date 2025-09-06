@@ -1,0 +1,9 @@
+{
+  "name": "ValveTestApp203190",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 273350,
+  "achievements": []
+}

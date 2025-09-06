@@ -1,0 +1,65 @@
+{
+  "name": "BeamNG.drive",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 284160,
+  "achievements": [
+    {
+      "name": "Senseless Destructor",
+      "description": "Destroy everything",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/284160/c1f9a4011ae3e4b5e0161f8c6736e2a11cfb7bd5.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "CHAPTER1_COMPLETE",
+      "getglobalpercentage": 12.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Beginner's Racing License",
+      "description": "Dodge some cones",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/284160/a2f99230dec914acd04ec313b07e0d752983f403.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "DRIVERTRAINING_COMPLETE",
+      "getglobalpercentage": 8.0,
+      "difficulty": 3
+    },
+    {
+      "name": "A Rocky Start",
+      "description": "Experience the start of the story",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/284160/b2e0fb86240a1c8fa8ece74b700a14ccfb6dc4fe.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "CHAPTER2_COMPLETE",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Outstanding Performance",
+      "description": "That's it! All scenes perfectly in the can!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/284160/c6c0a9ed8791bdc0bf1ddca76e2be7590ededdb5.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "BUS_COMPLETE",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Kilometer Kickoff",
+      "description": "Drive 1000km. You're officially on the road!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/284160/c414964835240e6f4fc784227e63692cdba6a425.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "KILOMETER_KICKOFF",
+      "getglobalpercentage": 19.4,
+      "difficulty": 3
+    }
+  ]
+}

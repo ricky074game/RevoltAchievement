@@ -1,0 +1,9 @@
+{
+  "name": "BattleBit",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 671860,
+  "achievements": []
+}

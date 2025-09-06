@@ -1,0 +1,142 @@
+{
+  "name": "",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 942970,
+  "achievements": [
+    {
+      "name": "Delusion",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/d287b7280006f74cdab0d3608c07ec1ad8b6688d.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_ASHTRAY",
+      "getglobalpercentage": 38.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Auditory Hallucination",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/142de52fcf28f1977443998fb0d8a580751e550a.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_MEDICINE",
+      "getglobalpercentage": 31.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Amnesia",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/fcc378d6a1cb4ba0cc9461c46e60546e5d67d06f.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_PSY",
+      "getglobalpercentage": 27.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Sound Chaser",
+      "description": "Checked each room in the five maps.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/44ba213c8377057ac63bcf8a9af18d697fb3d8ce.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_ALLROOMWALKED",
+      "getglobalpercentage": 25.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Twins",
+      "description": "Passed the first test without fast-forwarding and rewinding the audio or using the progress bar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/88aaeea6f8b5d9622726314a0158b8e12ede4c7a.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOTOOLS_R1",
+      "getglobalpercentage": 96.2,
+      "difficulty": 1
+    },
+    {
+      "name": "Empty Frame",
+      "description": "Passed the second test without fast-forwarding and rewinding the audio or using the progress bar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/20d67381e530f6e8087f27a526d64ea3116e02c1.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOTOOLS_R2",
+      "getglobalpercentage": 43.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Raven",
+      "description": "Passed the third test without fast-forwarding and rewinding the audio or using the progress bar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/61966c7afec2a1598348fcf15d3632bad47b2180.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOTOOLS_R3",
+      "getglobalpercentage": 26.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Theater",
+      "description": "Passed the fourth test without fast-forwarding and rewinding the audio or using the progress bar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/46bef5321d1769a9c7fdedb95e4ca0c2c0d61b89.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOTOOLS_R4",
+      "getglobalpercentage": 17.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Mental Hospital",
+      "description": "Passed the fifth test without fast-forwarding and rewinding the audio or using the progress bar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/948966ce2ce58346dc86f352085c725e61c7f89c.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOTOOLS_R5",
+      "getglobalpercentage": 20.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Sole Audience",
+      "description": "Listened to Emily humming a snatch of a song from end to end.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/f7970f85d77e5ed803a5d2449723c79c884e31f2.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_SNOWSINGER",
+      "getglobalpercentage": 19.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Director",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/7e42dfc1b51c41af8ba3ced39ca90b520e0d9406.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DLC_1",
+      "getglobalpercentage": 21.7,
+      "difficulty": 2
+    },
+    {
+      "name": "NEXT Case",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942970/b150143d1f18b352dc45481f8311abd5f4cfd6dd.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DLC_2",
+      "getglobalpercentage": 20.3,
+      "difficulty": 2
+    }
+  ]
+}

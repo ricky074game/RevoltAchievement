@@ -1,0 +1,21 @@
+{
+  "name": "ValveTestApp260",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 730,
+  "achievements": [
+    {
+      "name": "A New Beginning",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "PLAY_CS2",
+      "getglobalpercentage": 34.4,
+      "difficulty": 2
+    }
+  ]
+}

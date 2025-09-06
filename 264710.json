@@ -1,0 +1,197 @@
+{
+  "name": "Subnautica",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 264710,
+  "achievements": [
+    {
+      "name": "Getting Your Feet Wet",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/89b61cdeb0e1b6d22532245ce394f00d0a4277e1.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DiveForTheVeryFirstTime",
+      "getglobalpercentage": 88.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Extinction Event Avoided",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/1c59192a1e1ce720cd3dc77a1ea4e663f1f5516f.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "RepairAuroraReactor",
+      "getglobalpercentage": 36.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Ancient Technologies",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/2f259d67e1dc3ef2b5e5ddc7be831913f31cb487.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "FindPrecursorGun",
+      "getglobalpercentage": 44.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Thermal Activity",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/7c1974d7b0f21d2468fe5b5502f199f5a29d9db3.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "FindPrecursorLavaCastleFacility",
+      "getglobalpercentage": 18.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Follow the Lost River",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/8ab1258816b3ac7335e8a47117c96873bc48ae0c.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "FindPrecursorLostRiverFacility",
+      "getglobalpercentage": 23.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Fourteen Thousand Leagues Under the Sea",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/66edf908be6a6173f888b5310cf2428a0b40a4e8.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "FindPrecursorPrisonFacility",
+      "getglobalpercentage": 18.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Optimal Health",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/5d53afaee44fab645a077d1fcb9ad4bfde5b1e55.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "CureInfection",
+      "getglobalpercentage": 17.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Leave Only Time Capsules",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/aa59a1fe5fbb7817c019ebc4231192bc46b2b135.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "DeployTimeCapsule",
+      "getglobalpercentage": 13.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Seaside Living with an Ocean View",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/3c47b1e46f21afed1a296d4fe383722a7d312223.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "FindDegasiFloatingIslandsBase",
+      "getglobalpercentage": 43.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Follow the Degasi",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/530a49b76aad005d02e6cc3b6cf19b3fb60815e4.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "FindDegasiJellyshroomCavesBase",
+      "getglobalpercentage": 33.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Seamonsters",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/e67c2496dd850ae266c8222147a0b78fadaf0157.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "FindDegasiDeepGrandReefBase",
+      "getglobalpercentage": 23.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Settling in for the Long Haul",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/21fa099607c13201052f4ff3069586b03acc060f.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "BuildBase",
+      "getglobalpercentage": 54.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Personal Propulsion",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/86ebd72e1995e5e028d3349210a0a7edd35eb74a.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "BuildSeamoth",
+      "getglobalpercentage": 53.2,
+      "difficulty": 1
+    },
+    {
+      "name": "40-foot Sub For One",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/05ff8c856aff58c01afdc178391cf91d23590c46.jpg",
+      "hidden": 1,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "BuildCyclops",
+      "getglobalpercentage": 34.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Ordered the Prawn",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/404e5925552ad55132869fd9793e573afb3966a8.jpg",
+      "hidden": 1,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "BuildExosuit",
+      "getglobalpercentage": 32.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Go Among the Stars",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/473d07e72c5c13d2d24cb1b96c779654a919979c.jpg",
+      "hidden": 1,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "LaunchRocket",
+      "getglobalpercentage": 13.8,
+      "difficulty": 3
+    },
+    {
+      "name": "\"Man's Best Friend\"",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/7e5b3420b69b9077e7d068dc6f9c646725577599.jpg",
+      "hidden": 1,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "HatchCutefish",
+      "getglobalpercentage": 11.9,
+      "difficulty": 3
+    }
+  ]
+}

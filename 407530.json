@@ -1,0 +1,9 @@
+{
+  "name": "ARK: Survival Of The Fittest",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 407530,
+  "achievements": []
+}

@@ -1,0 +1,98 @@
+{
+  "name": "UntitledApp",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 299460,
+  "achievements": [
+    {
+      "name": "Collect 1000 berries",
+      "description": "Collect 1000 berries",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/5da512a30a703b6a168d0fab2bc0164f0ac4f7cc.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Avid Collector",
+      "getglobalpercentage": 6.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Complete the first level",
+      "description": "Complete the first level",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/373891e227cb1b1e3568a8392ffaefcbdf7395c8.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "First Level!",
+      "getglobalpercentage": 13.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlock the yellow leaf",
+      "description": "Unlock the yellow leaf",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/1784605f98b820f6312038c0a9a505e5ab966cf7.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "Hero of Sun",
+      "getglobalpercentage": 9.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlock the orange leaf",
+      "description": "Unlock the orange leaf",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/3d085caf27e446477d3c309d9be7384addf76638.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Hero of Fire",
+      "getglobalpercentage": 8.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlock the white leaf",
+      "description": "Unlock the white leaf",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/50480b9843b58cba68662cbc71ee4ba23289c2ef.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "Hero of Ice",
+      "getglobalpercentage": 6.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Collect 3000 berries",
+      "description": "Collect 3000 berries",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/2111936a828af828825abe54ed688b7282bb2437.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "Insane Collector",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Play with a friend!",
+      "description": "Play with a friend!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/3c3435b0cbf27b62684df1350fd3b82276f3d893.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "Woodle Beaver!",
+      "getglobalpercentage": 6.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Beat the game",
+      "description": "Beat the game",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/299460/3c96332c905759a16e350383150aad3bcf16edcc.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "Balance Restored!",
+      "getglobalpercentage": 7.0,
+      "difficulty": 3
+    }
+  ]
+}

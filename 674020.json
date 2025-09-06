@@ -1,0 +1,9 @@
+{
+  "name": "World War 3",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 674020,
+  "achievements": []
+}

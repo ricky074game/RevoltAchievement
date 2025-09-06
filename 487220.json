@@ -1,0 +1,65 @@
+{
+  "name": "Freebie",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 487220,
+  "achievements": [
+    {
+      "name": "10 points!",
+      "description": "Get score of 10!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/487220/281f4cb65a272efe92e4ec2c28dc6763f722ca84.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "NEW_ACH_1",
+      "getglobalpercentage": 7.9,
+      "difficulty": 3
+    },
+    {
+      "name": "20 points!",
+      "description": "Get score of 20!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/487220/fb311a47859d5b8cf31dd60814123cf14f5cb01d.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "NEW_ACH_2",
+      "getglobalpercentage": 6.5,
+      "difficulty": 3
+    },
+    {
+      "name": "30 points!",
+      "description": "Get score of 30!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/487220/f059ce2f6932117287ab025d5174323042db2d09.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "NEW_ACH_3",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "40 points!",
+      "description": "Get score of 40!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/487220/c7915cdf3ee0583aefb40b1f2df9b43f53400252.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "NEW_ACH_4",
+      "getglobalpercentage": 5.2,
+      "difficulty": 3
+    },
+    {
+      "name": "50 points!",
+      "description": "Get score of 50!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/487220/101f4789f91f85ade93c626b990e40126d4f65eb.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "NEW_ACH_5",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "name": "MorphShift Wars",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 319830,
+  "achievements": [
+    {
+      "name": "Builder",
+      "description": "Visit the hub.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/5620e6a8a46f36544d4265c5918ab01fa18e3e7a.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_ENTER_HUB",
+      "getglobalpercentage": 40.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Prototype Tester",
+      "description": "Visit the hub 50 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/73f1287f0f5bd760e1b2e8cd04ee2610189ae400.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_50_HUB_VISITS",
+      "getglobalpercentage": 35.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Test Pilot",
+      "description": "Visit the hub 100 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/5662a432aa4b9c8348285e7dd700c8400d98d130.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_100_HUB_VISITS",
+      "getglobalpercentage": 35.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Mechanical Engineer",
+      "description": "Visit the hub 250 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/6aac792fbf99627b6fa7b4b317f6d4311fb1fe56.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_250_HUB_VISITS",
+      "getglobalpercentage": 35.8,
+      "difficulty": 2
+    },
+    {
+      "name": "FireBall",
+      "description": "Kill your first enemy",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/7c36f0cddee22a7e87755697f10965389a8dbd9c.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_FIRST_KILL",
+      "getglobalpercentage": 37.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Bird Hunter",
+      "description": "Shoot down 10 enemies",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/886525a665636c5a33b76bedaf7412ea46f35a93.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_10_KILLS",
+      "getglobalpercentage": 36.7,
+      "difficulty": 2
+    },
+    {
+      "name": "No Mercy",
+      "description": "Kill 50 opponents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/06a51cda16763da9293eda4decd357396c166f98.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_50_KILLS",
+      "getglobalpercentage": 36.0,
+      "difficulty": 2
+    },
+    {
+      "name": "ACE",
+      "description": "Shoot down 100 enemies",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/919de56f31d45c089662d9d666c23b4a4a429651.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_100_KILLS",
+      "getglobalpercentage": 36.0,
+      "difficulty": 2
+    },
+    {
+      "name": "WarLord",
+      "description": "Kill 250 enemies",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/4a55d573d020c77268042967755c71533a452f61.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_250_KILLS",
+      "getglobalpercentage": 35.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Legend",
+      "description": "Destroy 500 enemy vehicles",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/57118854ed2f47d90dec33950e45b3678dd15dd3.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_500_KILLS",
+      "getglobalpercentage": 35.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Grim Reaper",
+      "description": "Send 1000 enemies to the \"otherside\"",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/af7c39fadf4b0483f378f57efaad3c7b801ae8ca.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_1000_KILLS",
+      "getglobalpercentage": 35.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Spy Hunter",
+      "description": "Complete mission 1",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/d22693a52e15e13a43102a15d91a5a4a8c1e80ac.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_MISSION1",
+      "getglobalpercentage": 36.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Diver",
+      "description": "Complete Mission 2",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/0ff0c4f37c34ab593a3c8795775e85802e980170.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_MISSION2",
+      "getglobalpercentage": 35.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Stealth Gunner",
+      "description": "Complete Mission 3",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/bffc3fe7f2fcb4248770f464e4bcbb87ead5d282.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ACH_MISSION3",
+      "getglobalpercentage": 33.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Collector",
+      "description": "Complete Mission 4",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/f2f43561e20da9b2b744ce87df333409768a5fd6.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ACH_MISSION4",
+      "getglobalpercentage": 33.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Moonlight Rider",
+      "description": "Complete Mission 5",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/f28e499fa7e035406ed8418c8629ceeaff1e39a2.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ACH_MISSION5",
+      "getglobalpercentage": 25.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Reef Pioneer",
+      "description": "Complete Mission 6",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/0e8815bc964e62856ef6a004ca1690f1ad012ce5.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ACH_MISSION6",
+      "getglobalpercentage": 25.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Interceptor",
+      "description": "Complete Mission 7",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/9f2585b5f1d2064740f855b8687710448a9d8af5.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ACH_MISSION7",
+      "getglobalpercentage": 25.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Tough Guy",
+      "description": "Complete Mission 8",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/51a5b7c0c1bf32457792b6ed9434af8afc19105d.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ACH_MISSION8",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Bastion",
+      "description": "Complete Mission 9",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/7f57689cb92b5e30934dd4e255b4381ae32271ac.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "ACH_MISSION9",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Hero",
+      "description": "Complete Mission 10",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/8c1006b913d265472fc330fecc7c275691944ad7.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "ACH_MISSION10",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Veteran",
+      "description": "Complete Mission 10 without a scratch",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319830/4b9ae1a8e52783da17a92d07519ce5de6886391a.jpg",
+      "hidden": 0,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "ACH_MISSION10_ALT",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    }
+  ]
+}

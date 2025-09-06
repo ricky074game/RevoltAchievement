@@ -1,0 +1,131 @@
+{
+  "name": "Hacknet",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 365450,
+  "achievements": [
+    {
+      "name": "Quickdraw",
+      "description": "Complete the tutorial earlier than normal",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "kill_tutorial",
+      "getglobalpercentage": 8.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Rude",
+      "description": "That's just impolite",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/fb047a4666cd44ddfc0c936013d9d2081c1fb24f.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "rude_response",
+      "getglobalpercentage": 6.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Hacknet",
+      "description": "Complete Bit's final request",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "progress_complete",
+      "getglobalpercentage": 9.8,
+      "difficulty": 3
+    },
+    {
+      "name": "CSEC",
+      "description": "Be granted an account within CSEC",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/ab55f17901da853fee72f03b7be862522b3f5dd6.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "progress_csec",
+      "getglobalpercentage": 19.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Entropy",
+      "description": "Be granted an account within Entropy",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/f8efc52503876eac7b059b849938e77af8ccf4ee.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "progress_entropy",
+      "getglobalpercentage": 31.6,
+      "difficulty": 2
+    },
+    {
+      "name": "PointClicker",
+      "description": "Purchase the final PointClicker upgrade",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/4374104b16075586059ba8f73606cc8860490033.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "pointclicker_basic",
+      "getglobalpercentage": 10.0,
+      "difficulty": 3
+    },
+    {
+      "name": "You better not have clicked for those...",
+      "description": "Have a truly absurd number of pointclicker points",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/4c0471f9dff1189d486d2ff809e978a445fbfd97.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "pointclicker_expert",
+      "getglobalpercentage": 8.8,
+      "difficulty": 3
+    },
+    {
+      "name": "TRUE ULTIMATE POWER",
+      "description": "Run Clock.exe",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "clock_run",
+      "getglobalpercentage": 6.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Makeover!",
+      "description": "Run ThemeSwitcher",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "themeswitch_run",
+      "getglobalpercentage": 15.9,
+      "difficulty": 3
+    },
+    {
+      "name": "To the Wire",
+      "description": "Disconnect from a traced system with less than half a second to spare",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "trace_close",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "/el Sec Champion",
+      "description": "Master of /el's friendly community",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365450/ab55f17901da853fee72f03b7be862522b3f5dd6.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "secret_path_complete",
+      "getglobalpercentage": 7.1,
+      "difficulty": 3
+    }
+  ]
+}

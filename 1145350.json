@@ -1,0 +1,9 @@
+{
+  "name": "Hades II",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1145350,
+  "achievements": []
+}

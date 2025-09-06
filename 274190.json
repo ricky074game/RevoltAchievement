@@ -1,0 +1,197 @@
+{
+  "name": "Broforce",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 274190,
+  "achievements": [
+    {
+      "name": "Area Liberated",
+      "description": "Finish the campaign",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/8369e04e47260329a574939a1ee8fc5cea5680ce.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "finish_campaign",
+      "getglobalpercentage": 26.1,
+      "difficulty": 2
+    },
+    {
+      "name": "A Very Particular Set OF Skills",
+      "description": "Finish campaign on Hard",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/bef8512c9e402fa65151579d8105a49a0e092b34.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "finish_campaign_hard",
+      "getglobalpercentage": 6.8,
+      "difficulty": 3
+    },
+    {
+      "name": "You're the disease, I'm the cure",
+      "description": "Finish the Ironbro campaign",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/f8a49249d29ba304d090e382e846768c3318440c.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "finish_hardcore",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "I'll give you a war you wouldn't believe",
+      "description": "Finish the Ironbro campaign on Hard",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/f01a30f910d15535d111b4bf4204d8594ff5a7eb.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "finish_hardcore_hard",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "There Can Bro Only One",
+      "description": "Finish the campaign without dying",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/4f1bfdda79db08e691ee6777f03f470711a8fa7c.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "campaign_no_deaths",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Hot Brotato",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/84326502f6e7504a3db9d1a3f0af88047bd048b7.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "hot_brotato",
+      "getglobalpercentage": 9.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Your eyes can deceive you",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/c14c10b7c73496353e0f4fdce244de08cf59339d.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "bronald_bradman",
+      "getglobalpercentage": 73.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Shaken, Not Stirred",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/3ed1330962b408e86ed40a61d904a620aa25af34.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "martini",
+      "getglobalpercentage": 27.0,
+      "difficulty": 2
+    },
+    {
+      "name": "The Last Supper",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/478bfd495e0996563768ca53f9390d6698fe25ad.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "turkey_dinner",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Rest In Pieces",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/250f73a0261294974d91d35c6626ffec4ab3691e.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "rest_in_pieces",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "You know how I said I'll kill you last?",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/8fbc83770c2efd0a2467a38064ce00881174dcef.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "throw_satan",
+      "getglobalpercentage": 5.2,
+      "difficulty": 3
+    },
+    {
+      "name": "I Must Be On Broadway",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/98622153789bd8ece43c8a33722bd9e26ac61442.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "broadway",
+      "getglobalpercentage": 12.7,
+      "difficulty": 3
+    },
+    {
+      "name": "No Ticket",
+      "description": "Throw an enemy off the sky fortress as Indiana Brones",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/963ebee2dd44bad73ca6386f81545083b31f0364.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "noticket",
+      "getglobalpercentage": 1.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Front Row Tickets To The Gun Show",
+      "description": "Have four players flex onscreen at the same time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/38116173024cf52dd41fdd19b1367212c20da472.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "gunshow",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "You're Fired",
+      "description": "Kill an enemy by launching them on a propane tank",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/253feda4d15bb8eec9226fed26bc47abf3364ddf.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "yourefired",
+      "getglobalpercentage": 76.3,
+      "difficulty": 1
+    },
+    {
+      "name": "I'll Be Back",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/c3ca4a841bcff55f8bd534fb4c4d52189abd656b.jpg",
+      "hidden": 1,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "illbeback",
+      "getglobalpercentage": 28.7,
+      "difficulty": 2
+    },
+    {
+      "name": "I did not want to resort to violence, but I did not have a choice",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274190/562732e594e18f7054d50d9be56789651dbc7ecf.jpg",
+      "hidden": 1,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "stevenseagull",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    }
+  ]
+}

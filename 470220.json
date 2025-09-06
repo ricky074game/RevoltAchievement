@@ -1,0 +1,142 @@
+{
+  "name": "UNO",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 470220,
+  "achievements": [
+    {
+      "name": "Welcome",
+      "description": "Complete the First UNO round.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/8bcc045d7c89165f7401f8096482fcbeffb7883c.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "UNO_Ach_1",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    },
+    {
+      "name": "A Good Start",
+      "description": "Win the First UNO game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/482004967427dd71cd49581416929ea29ab42056.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "UNO_Ach_2",
+      "getglobalpercentage": 4.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Be Heard",
+      "description": "Successfully Call UNO 10 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/a590bc29b42c9a02e47885fdbe7db388b666ec48.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "UNO_Ach_3",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Joker",
+      "description": "Successfully make opponent draw cards with Wild Draw Four 10 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/1d14b54f974c85c8f987b18a007c9762684bafd9.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "UNO_Ach_4",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Good Eye",
+      "description": "Successfully Challenge a missed UNO 15 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/85928e42436fdd7506dc1c9159ec5d88102988c1.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "UNO_Ach_5",
+      "getglobalpercentage": 1.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Our House",
+      "description": "Win 5 matches with at least 3 house rules.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/7238af83614a44ad140e4e141acfbb25f7c2e4b3.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "UNO_Ach_6",
+      "getglobalpercentage": 2.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Action",
+      "description": "Play Action Cards 100 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/beb8c8fa62ebdbe8d924722ded741f21ae930707.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "UNO_Ach_7",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Just a Machine",
+      "description": "Win 5 games against 3 AI.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/37a2dbcf864b73d8f5f5156b32be529136ae689d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "UNO_Ach_8",
+      "getglobalpercentage": 1.3,
+      "difficulty": 4
+    },
+    {
+      "name": "The Right Choice",
+      "description": "Change the Color with Action Cards 40 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/60f6c74f33225f5e9ad90d263f3f97c7f6c69e8b.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "UNO_Ach_9",
+      "getglobalpercentage": 3.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Nerves of Steel",
+      "description": "Win 20 Wild Draw Four challenges.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/4ce5a0ceb6cc6033a0d284dda7b786296f96fdc7.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "UNO_Ach_10",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Socializer",
+      "description": "Win 10 Online Games",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/bced16c04cf83806c633878f64655d3e2ed72880.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "UNO_Ach_11",
+      "getglobalpercentage": 1.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Flying Higher",
+      "description": "Win a game with more than 700 points.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/470220/9e2ad8592f0461cb585b0ac0d11901effc179119.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "UNO_Ach_12",
+      "getglobalpercentage": 0.6,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Manor Lords",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1363080,
+  "achievements": [
+    {
+      "name": "Survive the first year",
+      "description": "Face the winter and have your settlers not abandon you.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/ff76f7a4718585052766c6ce995a5bce2653d36a.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_SURVIVE_YEAR",
+      "getglobalpercentage": 79.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Defeat Hildebolt",
+      "description": "Defeat the baron in the \"Restoring the peace\" scenario.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/a38d082a54d54a8b909f379ed8884d79f178e6ae.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_DEFEAT_THE_BARON",
+      "getglobalpercentage": 16.1,
+      "difficulty": 3
+    },
+    {
+      "name": "The merchant",
+      "description": "Get to a \"small town\" settlement level without hunting or gathering berries.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/8c403286b216129cd9c47f9f3e0959d6c04584b6.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_THE_MERCHANT",
+      "getglobalpercentage": 1.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Full Retinue",
+      "description": "Employ 24 retainers.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/d425e3268d1116757ed9f23b10b7373c563e3b4a.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_FULL_RETINUE",
+      "getglobalpercentage": 16.3,
+      "difficulty": 3
+    },
+    {
+      "name": "For Whom the Bell Tolls",
+      "description": "Change the church bell sound.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/7de4b7018e450e8fa541bb98d7851ce22d6790a9.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_BELLS",
+      "getglobalpercentage": 63.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Cheerful Metropolis",
+      "description": "Reach 100% approval in a \"large town\".",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/1c9a77fe650477352dfbed54cacae138306aff67.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_LARGE_TOWN",
+      "getglobalpercentage": 13.2,
+      "difficulty": 3
+    },
+    {
+      "name": "The vigilantes",
+      "description": "Destroy a squad of brigands with a squad of militia in a non battle game mode.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/5f563a691615fe509e436a8ff37ef11491a89c00.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_VIGILANTES",
+      "getglobalpercentage": 35.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Mercenary Captain",
+      "description": "Beat \"Restoring the peace\" with Mercenary units only.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/79143821b4a5d99df16e1751b76dcdc044432694.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_MERCENARY_CAPTAIN",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Start the game",
+      "description": "Big success!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/4312653a78f03069b0406eafcbb7b91e9d8c9138.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_START",
+      "getglobalpercentage": 99.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Challenge accepted",
+      "description": "Beat \"Restoring the peace\" on \"Challenging\" difficulty preset.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/21dab1f36cd98a8a82c9e131fa1aec5286845d7e.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_CHALLENGE_ACCEPTED",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Restore the Peace",
+      "description": "Finish the \"Restoring the peace\" scenario",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/c067399ca345e625995e85f9cd8e701f3f0fd628.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_RESTORE_THE_PEACE",
+      "getglobalpercentage": 2.9,
+      "difficulty": 4
+    }
+  ]
+}

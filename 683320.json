@@ -1,0 +1,197 @@
+{
+  "name": "GRIS",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 683320,
+  "achievements": [
+    {
+      "name": "Red",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/0ab3b42637b2d42cb41e58ec08f06e1c554b81ca.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Z1_DISCOVER_RED",
+      "getglobalpercentage": 89.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Denial",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/f188808f73bd056384ba384c50c04467481eaec8.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "Z1_DENIAL",
+      "getglobalpercentage": 7.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Green",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/306abd4cfb176a4f9c734afa99cdf35086e29cfe.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "Z2_DISCOVER_GREEN",
+      "getglobalpercentage": 65.2,
+      "difficulty": 1
+    },
+    {
+      "name": "Anger",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/8d2ec20b3e476af3be1fada287155e264fe59803.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Z2_ANGER",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Blue",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7bd4e670a6f403d8507b10948f47b059bc950ab1.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "Z3_DISCOVER_BLUE",
+      "getglobalpercentage": 52.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Bargaining",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/a2b43b24acd2f83a149c92cb16a18ae79a4bd067.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "Z3_BARGAINING",
+      "getglobalpercentage": 7.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Yellow",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7cd00af83733b8fea182480e45a159cca39d739d.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "Z4_DISCOVER_YELLOW",
+      "getglobalpercentage": 45.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Depression",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/b8603c6709e52de4140c255a620a7e7818088edf.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "Z4_DEPRESSION",
+      "getglobalpercentage": 16.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Acceptance",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/a93d2e10b87021e934ecd7bf377cd9323dedea8e.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "Z5_ACCEPTANCE",
+      "getglobalpercentage": 25.3,
+      "difficulty": 2
+    },
+    {
+      "name": "The End",
+      "description": "Finish the game",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/babd54e574ed82137bfbc80a76a51a9c0987be90.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "Z6_ENDGAME",
+      "getglobalpercentage": 38.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Mementos",
+      "description": "Find all mementos",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/a528587aa8737fbe7f5037db73795c73ad51bbe5.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "Z6_ALLCOLLECTIBLES",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Childhood",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/bdeead7a90b6f5ce193777e0dcecec4d5e15f1c5.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "Z6_EXTRAENDING",
+      "getglobalpercentage": 5.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Sandstorm",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/e5b4e7fdf845edef105f1ca55b643d8c58f86923.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "Z2_AVOID_SANDSTORM",
+      "getglobalpercentage": 6.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Apples",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/b9cc1fd2030d765dc493e1853b70a31767adb3bb.jpg",
+      "hidden": 1,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "Z3_KODAMA_APPLES",
+      "getglobalpercentage": 12.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Eel",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/12a6b733baf805118a8551345ec08bba2ecc16bd.jpg",
+      "hidden": 1,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "Z4_AVOID_EEL",
+      "getglobalpercentage": 8.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Magic fowls",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/0f13c54c508f6ed74193fbae924ad1fd15a60916.jpg",
+      "hidden": 1,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "Z5_SING_SPECIAL",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Inuksuit",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/74a704db94bee84791862a6704a1fe0bd2ab9930.jpg",
+      "hidden": 1,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "Z2_INUKSUIT",
+      "getglobalpercentage": 8.4,
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Content Warning",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 2881650,
+  "achievements": []
+}

@@ -1,0 +1,230 @@
+{
+  "name": "Red Fox",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1343400,
+  "achievements": [
+    {
+      "name": "Burthorpe Lodestone",
+      "description": "Unlocked the lodestone at Burthorpe, the town of training",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/91a7620a26504cb4372d46a1b4fce2fb7bf9d757.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "cheevo_thas_burthorpe_hub",
+      "getglobalpercentage": 57.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Lumbridge Lodestone",
+      "description": "Unlocked the lodestone at Lumbridge, the city of stone",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/a07fdb8930e258c85cb8b818f63a7bf3711a88ea.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "cheevo_thas_lumbridge_hub",
+      "getglobalpercentage": 28.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Lumbridge Beginner Tasks",
+      "description": "Completed all the tasks in the Lumbridge beginner set",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/4c8dac33d21f7b8c12e90910f84120c7b7287e8e.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "cheevo_atlum_beginner_reward",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Lumbridge Medium Tasks",
+      "description": "Completed all the tasks in the Lumbridge Medium set",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/5086bcd73dfee3c55423483b83f0b5f0e4674351.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "cheevo_atlum_medium_reward",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Lumbridge Hard Tasks",
+      "description": "Completed all the tasks in the Lumbridge hard set",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/b27baba4586978b9541c21defa09a39a9e1a79bb.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "cheevo_atlum_hard_reward",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "A Lick of Paint",
+      "description": "Selected your chosen colour of kitten from Gertrude, using the ring of charos",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/ece4cfcd7615a96670890f2f9f58ea66e78fe4e7.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "cheevo_atvar_kitten_colour",
+      "getglobalpercentage": 2.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Anachronia Lodestone",
+      "description": "Unlocked the lodestone at Anachronia, the island of great beasts",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/f16982e16fee541642256ef22938d95a1f157813.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "cheevo_thas_dino_hub",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Always Prepared",
+      "description": "Claimed an anti-dragon shield from the Duke of Lumbridge",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/4a430a44d64e83e78b576b7413215d1520c418e9.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "cheevo_atlum_dragon_shield",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Sinking Fast",
+      "description": "Completed a sinkhole activity",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/0fe0c01fce8107fd8c969484ac9ad405dfc1291d.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "cheevo_atdun_easy_sinkhole",
+      "getglobalpercentage": 3.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Sir Mitt",
+      "description": "Climbed to the top of the white knights' castle and saw all there was to see",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/d5dc18c3166b071e1f2295d4efe2f1f63e6adad8.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "cheevo_atfal_climb_gen_store",
+      "getglobalpercentage": 8.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Treasure Seeker",
+      "description": "Finished 10 clue scrolls and claimed their loot",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/08feb65111bcc8d5bf08bfe4943131713b32d729.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "cheevo_minigame_clues_completed_III",
+      "getglobalpercentage": 4.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Something Barrowed",
+      "description": "Defeated the 6 (or 7) barrows brothers and claimed their loot 5 times over",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/560175fb976d310f2297371078b1e4377169b313.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "cheevo_barrows_kills_I",
+      "getglobalpercentage": 4.1,
+      "difficulty": 4
+    },
+    {
+      "name": "The Jack of Spades",
+      "description": "Gained access to the golden city of Menaphos by completing the Jack of Spades quest",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/d67a9206592ee7b79ebe3ee99bdb3fc019b479cd.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "quest_ozan3",
+      "getglobalpercentage": 6.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Castles in the Sky",
+      "description": "Stepped inside the portal at clan camp and visited a clan citadel floating in the sky",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/7fcfe6c12fbdb23a6569ec78d9181f6830cca0b7.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "cheevo_clan_visit_citadel",
+      "getglobalpercentage": 6.5,
+      "difficulty": 3
+    },
+    {
+      "name": "At One with Nature",
+      "description": "Crafted nature runes at the altar buried in the jungle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/99af5dfb8968ff7dfbfd0616669cdb80ecde7005.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "cheevo_atjun_hard_nature",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Embrace the Chaos",
+      "description": "Solved the Embrace the Chaos mystery within the Infernal Source archaeology site",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/d664a393b717921a6f17a0cdfb378e26f6611ca7.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "cheevo_archaeology_infernalsource_mystery_circle",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Uncharted",
+      "description": "Travelled to the Arc islands and visited 50 uncharted isles",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/44b67ee55a2eebad584162c6d7508c7d1643d4b5.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "cheevo_arc_islands_V",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Who's the Boss?",
+      "description": "Killed 1000 of RuneScape's bosses",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/8bfa42751ae82011e10c98f3ac1586fd2d4fe3b3.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "cheevo_total_kills_II",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Prifddinas",
+      "description": "Unlocked the lodestone at Prifdinnas, the city of the elves",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/734894dec9530c37a08ba6282613e17dee6c4f20.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "cheevo_thas_prifddinas_hub",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "99 with a flake",
+      "description": "Reached the highest level in a skill and unfurled a flag in the prestigious max guild garden",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343400/2e4675f13a29cefa0ef799ca9007a905820b6a14.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "cheevo_atelf_maxguild",
+      "getglobalpercentage": 3.3,
+      "difficulty": 4
+    }
+  ]
+}

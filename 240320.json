@@ -1,0 +1,9 @@
+{
+  "name": "Panzar",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 240320,
+  "achievements": []
+}

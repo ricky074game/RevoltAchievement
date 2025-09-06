@@ -1,0 +1,241 @@
+{
+  "name": "Catan Universe",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 544730,
+  "achievements": [
+    {
+      "name": "Apprentice",
+      "description": "Reach level 2.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/58cdd87a1d442d914ab91dd16fe6ee6a2d08d98c.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GENERAL_REACH_LEVEL_2",
+      "getglobalpercentage": 53.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Journeyman",
+      "description": "Reach level 5.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/c1cc76981530a6395d27c7dfdde6752994210f23.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "GENERAL_REACH_LEVEL_5",
+      "getglobalpercentage": 31.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Travelling journeyman",
+      "description": "Reach level 10.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/83d19736f149d89d8a4786b2547d0cbf146ff193.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "GENERAL_REACH_LEVEL_10",
+      "getglobalpercentage": 16.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Master",
+      "description": "Reach level 20.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/7890394798bb5e07d4a7675ace54c0607a68b7f9.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "GENERAL_REACH_LEVEL_20",
+      "getglobalpercentage": 8.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Twosome",
+      "description": "Add your first friend.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/e7fc363adf695709cd3d864007a3dd2118e5792e.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "GENERAL_FIRST_FRIEND",
+      "getglobalpercentage": 54.1,
+      "difficulty": 1
+    },
+    {
+      "name": "New me",
+      "description": "Change your looks with the avatar editor.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/f2deb1ffdcd42cb0cc3ba759f8037183411013c7.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "GENERAL_NEW_ME",
+      "getglobalpercentage": 53.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Good karma",
+      "description": "Reach karma level 4.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/a846e6547c8c6ef0d9523429743a04eb0b3f9040.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "GENERAL_GOOD_KARMA",
+      "getglobalpercentage": 26.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Dominance",
+      "description": "Win a game, where you have both the Longest Road as well as the Largest Army.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/e2ece099cb97f5de744715b8c750b38da91c82c0.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "GENERAL_DOMINANCE",
+      "getglobalpercentage": 27.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Scout",
+      "description": "Use your first ticket.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/416ed0926b69987b54d1f07344506691175758f6.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "GENERAL_SCOUT",
+      "getglobalpercentage": 28.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Strong together",
+      "description": "Create a guild or join one.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/99d697d0c75ae36e6f4fa71ca0cb7527ab20d71e.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "GENERAL_GUILD",
+      "getglobalpercentage": 4.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Old salt",
+      "description": "Win 5 games with the Seafarers expansion.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/9423f6d7454fe8af6ee3d6a0a243b25e2c34bacc.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "SEAFARER_WIN_5_GAMES",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Explorer",
+      "description": "Uncover 10 fog tiles in a game of Seafarer.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/82ff5c2dcf43a5b4218bb6eb7ef9ea9b520b5fc4.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "SEAFARER_DISCOVERER",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Pirate",
+      "description": "Move the pirate 5 times in a game of Seafarer.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/9631efa90df4e1ee88c50c3078d79d11fc4c0fa6.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "SEAFARER_PIRATE",
+      "getglobalpercentage": 2.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Squire",
+      "description": "Win 5 games with the Cities&Knights expansion.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/140a060a68e978241f07d17a55b1b60ca9358708.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "CAK_WIN_5_GAMES",
+      "getglobalpercentage": 4.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Architect",
+      "description": "Build 3 city walls in a game of Cities&Knights.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/1f6437dde8b65c5d5af1d4aa0b203f1297b72118.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "CAK_MASON",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Panderer",
+      "description": "Play the progress card 'Wedding' 10 times in your games.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/470e0771196dad8005f4bc2574358b6a128e6000.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "CAK_WEDDING_CRASHER",
+      "getglobalpercentage": 3.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Welcome at court",
+      "description": "Finish the introductory game of 'The Duel'.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/bef94083e5e1102dc7af9f15968216a0f91cdc8a.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "RIVALS_FIRST_GAME",
+      "getglobalpercentage": 4.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Road builder",
+      "description": "Build a road that is compromised of at least 12 sections (including ships).",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/2415e24295c761c6b66129ffae2bae54e1855a1a.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "COMMON_ROAD_BUILDER",
+      "getglobalpercentage": 31.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Villager",
+      "description": "Win a game without building a city.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/4dd8665475401f16d50016dafda57c65b9add40e.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "COMMON_VILLAGER",
+      "getglobalpercentage": 13.5,
+      "difficulty": 3
+    },
+    {
+      "name": "First steps",
+      "description": "Finish the tutorial of the base game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/1ed52f22fcfcda660e29e2a0ad8ab27f9976125e.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "CATAN_FIRST_STEPS",
+      "getglobalpercentage": 20.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Empire",
+      "description": "Colonize all islands in the Seafarer scenario \"The four islands\".",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544730/d161e4ed5757aa4990f42110435d354c3894dd0d.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "SEAFARER_EMPIRE",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    }
+  ]
+}

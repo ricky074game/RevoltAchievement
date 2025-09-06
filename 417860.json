@@ -1,0 +1,230 @@
+{
+  "name": "Emily is Away",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 417860,
+  "achievements": [
+    {
+      "name": "2002",
+      "description": "Complete Chapter 1",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/3aef14d61e39affa3e53685f4ea99e835162c6cc.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "CHAPTER1_COMPLETED",
+      "getglobalpercentage": 68.0,
+      "difficulty": 1
+    },
+    {
+      "name": "2003",
+      "description": "Complete Chapter 2",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/34240eb18a11b350d7806cb68ae0a83382c2a2d2.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "CHAPTER2_COMPLETED",
+      "getglobalpercentage": 63.3,
+      "difficulty": 1
+    },
+    {
+      "name": "2004",
+      "description": "Complete Chapter 3",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/c202ab607a8dd949bb98230fec9bffb2184452dd.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "CHAPTER3_COMPLETED",
+      "getglobalpercentage": 60.5,
+      "difficulty": 1
+    },
+    {
+      "name": "2005",
+      "description": "Complete Chapter 4",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/b37e1f1ddba048b120af2198c8017eb95814e47b.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "CHAPTER4_COMPLETED",
+      "getglobalpercentage": 58.4,
+      "difficulty": 1
+    },
+    {
+      "name": "2006",
+      "description": "Complete Chapter 5",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/5bdbf9ce531090a1ef800ff4efd5dcc0939fc8ad.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "CHAPTER5_COMPLETED",
+      "getglobalpercentage": 56.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Write Some Fiction",
+      "description": "Use the Elegy for a Dead World Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/5ac36c4fc8d13f26ddb46e5881e312e5e14a25c7.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ICON_ELEGY",
+      "getglobalpercentage": 9.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Best Friends with Gabe",
+      "description": "Use the Half-Life Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/a827e93c125645010a816646cff8c8fd63cc63c1.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ICON_HALFLIFE",
+      "getglobalpercentage": 10.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Stanley didn't unlock this",
+      "description": "Use the Stanley Parable Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/244c496832c890bf1f026b0f58fa211a5fe13d23.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ICON_STANLEY",
+      "getglobalpercentage": 10.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Hyrule Messenger",
+      "description": "Use the Zelda Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/7b64b081087e1da2070afcd10f7f81f23372d62f.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ICON_ZELDA",
+      "getglobalpercentage": 11.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Sole Survivor",
+      "description": "Use the Fallout Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/34a1fc3c4f4eb3994282d90f86c8daaa4851ee60.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ICON_FALLOUT",
+      "getglobalpercentage": 10.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Friendliness Petals for All",
+      "description": "Use the Undertale Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/ce5d80e3cd128021a1f48c0c8720d1abd67db43f.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ICON_UNDERTALE",
+      "getglobalpercentage": 11.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Much Unlock, Very Wow",
+      "description": "Use the Doge Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/7b1be90f6dd0c2b96ab64ca165eea85f636be91b.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ICON_DOGE",
+      "getglobalpercentage": 11.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Oh wow, What an achievement.",
+      "description": "Use the Kappa Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/d86c72b55edf2620c010504afb5f9187e77572ea.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ICON_KAPPA",
+      "getglobalpercentage": 10.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Binding of Instant Messengers",
+      "description": "Use the Isaac Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/4f8e88abf920348cebbf8851de469630127c2e41.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ICON_ISAAC",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Icefrog, Please Nerf",
+      "description": "Use the Dota Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/dd3b84312a0b957058b2278592ddde53d441254e.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ICON_DOTA",
+      "getglobalpercentage": 10.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Vid Spilum Endalaust",
+      "description": "Use the Sigur Ros Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/e59e5163ef866d8a24e8ada340edbe1be857b2f3.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ICON_SIGURROS",
+      "getglobalpercentage": 9.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Nyanyanyan",
+      "description": "Use the Nyan Cat Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/0d07f252e73925f9f5e0a3113bb44fb43e58eb0c.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ICON_NYANCAT",
+      "getglobalpercentage": 11.4,
+      "difficulty": 3
+    },
+    {
+      "name": "This Achievement is a Lie",
+      "description": "Use the Portal Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/335bb96ff975eddd40205f883c1f5f1bfbda3226.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ICON_PORTAL",
+      "getglobalpercentage": 10.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Looks like you Unlocked an Achievement",
+      "description": "Use the Clippy Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/7e0bc0b9b7f0f0d869247b4b686a968d2381d89f.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ICON_CLIPPY",
+      "getglobalpercentage": 10.1,
+      "difficulty": 3
+    },
+    {
+      "name": "ANDHISNAMEISJOHNCENA",
+      "description": "Use the John Cena Icon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/417860/c28230caf4f975a3b8dd09bf5373e48bf90afc38.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "ICON_JOHNCENA",
+      "getglobalpercentage": 14.2,
+      "difficulty": 3
+    }
+  ]
+}

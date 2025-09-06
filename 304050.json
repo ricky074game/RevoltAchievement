@@ -1,0 +1,219 @@
+{
+  "name": "Trove",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 304050,
+  "achievements": [
+    {
+      "name": "Unleash the Hydrakken!",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Normal Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/33fd6e98fbc0a08ed3f0f03ee0734e93e8a0f596.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "UnleashTheHydrakken",
+      "getglobalpercentage": 5.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Vanquish the Hydrakken! ",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Hard Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/c172a2fb4b8fd830489013b8e019bbd0bbc53ab2.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "VanqishTheHydrakken",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Burninate the Hydrakken!",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Ultra Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/e3d0ffdf753d889b2cecbbc5755442abe559a78a.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "BurninateTheHydrakken",
+      "getglobalpercentage": 1.6,
+      "difficulty": 4
+    },
+    {
+      "name": "The Doctor is In!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Normal Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/d42d1c1be46621a8612e3108b3b453c13a177a04.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "TheDoctorIsIn",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "The Prescription is Pain!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Hard Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/033794392504cbf078e8b8d1fc2e2b54aa7aa6fa.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ThePrescriptionIsPain",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    },
+    {
+      "name": "A Trovian a Day!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Ultra Difficulty",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/7b58f10f95a165466bbf9d36323a01c6362aca15.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ATrovianADay",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Stay Subclassy!",
+      "description": "Select a Subclass",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/ecec8450ee382312180e1d9f1d0dc7d90ca738b7.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "StaySubclassy",
+      "getglobalpercentage": 12.0,
+      "difficulty": 3
+    },
+    {
+      "name": "The Gem Forger",
+      "description": "Using the gem forge, upgrade a Stellar Gem stat to max ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/be9bb729235863520c7b8015552e5b66daef9c5d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "TheGemForger",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "A Builder's Focus",
+      "description": "Using the gem forge, upgrade all of the stats on a Stellar Gem to max ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/e7327646aa73f18e891db20f26dd7f7606003c18.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ABuildersFocus",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Perfection!",
+      "description": "Using the gem forge, upgrade all of the stats on nine Stellar Gems to max",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/7e67136de89d29fb0fda1ea17fcc948eebc0fa55.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "Perfection",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "The Next Step",
+      "description": "Achieve Geode Mastery 20",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/470a84eb6cb45f61e0dfe76e8589415ca15f8b37.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "TheNextStep",
+      "getglobalpercentage": 1.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Further Heights",
+      "description": "Achieve Geode Mastery 100",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/524bb0ae5d744c38a5568df57b744e2f4684fb97.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "FurtherHeights",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Starting Spelunker",
+      "description": "Get your first GAS module upgrade",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/2d23286bfa0129ead1080e008ce2bd2227837485.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "StartingSpelunker",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Super Spelunker",
+      "description": "Fully upgrade your GAS Module",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/3d3574ae900f4bed4959ef47df00ea2531ff377b.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "SuperSpelunker",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Top Bomber",
+      "description": "Win your first Bomber Royale match",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/90d69f403d01bf7e6a384dc0190e6c15268442ed.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "TopBomber",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Beaucoup Bombs",
+      "description": "Throw 5000 bombs in Bomber Royale",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/15d689b30fe54fee5888f0d5dadeccc6686d8943.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "BeaucoupBombs",
+      "getglobalpercentage": 7.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Plant's Best Friend",
+      "description": "Water 1,000 plants.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/85ae7da88d6e3b5fddf90d88604c66d723b96408.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "PlantsBestFriend",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Reap what you Sow",
+      "description": "Harvest from 50 plants.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/374bcee53194f9263e2098660908e11512cb8100.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ReapWhatYouSow",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Reduce, Reuse, Recompost",
+      "description": "Compost 10,000 items at the Compost Bin.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304050/138a97ee562c5ea0824cd503c12b3b1222139a15.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ReduceReuseRecompost",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    }
+  ]
+}

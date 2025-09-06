@@ -1,0 +1,43 @@
+{
+  "name": "ValveTestApp42710",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 42710,
+  "achievements": [
+    {
+      "name": "Date Night",
+      "description": "Watch a film or clip.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42710/f84f81208278703664dbd530e5e3c6c5c71daf13.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "MP_FILM_CREATED",
+      "getglobalpercentage": 24.1,
+      "difficulty": 2
+    },
+    {
+      "name": "In the Money",
+      "description": "Finish 5 Wager Matches \"in the money.\"",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42710/0dd80a8bb848350d4b8a0a18dafb270652068384.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "MP_WAGER_MATCH",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Ready for Deployment",
+      "description": "Reach rank 10 in Combat Training.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42710/02c69139d83d887e8bbad07330f7c076e4181a28.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "MP_PLAY",
+      "getglobalpercentage": 28.1,
+      "difficulty": 2
+    }
+  ]
+}

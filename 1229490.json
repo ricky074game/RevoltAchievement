@@ -1,0 +1,9 @@
+{
+  "name": "ULTRAKILL",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1229490,
+  "achievements": []
+}

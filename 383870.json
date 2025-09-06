@@ -1,0 +1,120 @@
+{
+  "name": "Firewatch",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 383870,
+  "achievements": [
+    {
+      "name": "\"Good first day.\"",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/8a202cd398617c88323ccb3281e42592d58a23ad.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "VG_DAY1",
+      "getglobalpercentage": 79.1,
+      "difficulty": 1
+    },
+    {
+      "name": "\"Back to work.\"",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/b6bea5bcc52fc70877540b744a053b3c61ce6c82.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "VG_DAY2",
+      "getglobalpercentage": 66.6,
+      "difficulty": 1
+    },
+    {
+      "name": "\"Someone's out here.\"",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/21c7283ea34a7bfa07bbfbd6fed9d9a1710cf1ca.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "VG_DAY76",
+      "getglobalpercentage": 59.3,
+      "difficulty": 1
+    },
+    {
+      "name": "\"Burn the place down.\"",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/9aa7f76717d34ad970e79df9e183e40632066cec.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "VG_DAY77",
+      "getglobalpercentage": 57.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Firewatch",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/b21ffdb64578c335b265981d08ebca26e7bd4d0f.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "VG_DAY79",
+      "getglobalpercentage": 55.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Bee Plot",
+      "description": "Got stung by a bee. It happens.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/5f54f5ad0e8688234c55cc2b5a806dee9b0de957.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "VG_BEE",
+      "getglobalpercentage": 45.7,
+      "difficulty": 2
+    },
+    {
+      "name": "The Life and Times of Raccoon Carter",
+      "description": "Got attacked by a raccoon; probably didn't get rabies.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/f50bbae81453adaacfe5094c604ba0f38e1d18de.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "VG_RACCOONATTACK",
+      "getglobalpercentage": 11.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Shutter Bug",
+      "description": "Filled a disposable camera with photos.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/cc20971907e718aa3e18183ed23fe612efe45983.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "VG_CAMERA",
+      "getglobalpercentage": 12.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Love Turts",
+      "description": "Adopted a turtle as a pet. The average lifespan of a box turtle is fifty years. It will outlive you.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/8f03712d30a4b6cd782360084fe2fc77e894475c.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "VG_TURTLE",
+      "getglobalpercentage": 25.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Ol' Shoshone",
+      "description": "Listened to the tape of \"Ol' Shoshone.\" Cavorted among the aspens.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383870/c9c3b1c39b4dcc9bbd80510230d01253bb9150f1.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "VG_OLSHOSHONE",
+      "getglobalpercentage": 7.4,
+      "difficulty": 3
+    }
+  ]
+}

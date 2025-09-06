@@ -1,0 +1,142 @@
+{
+  "name": "Telstar_APL",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1172470,
+  "achievements": [
+    {
+      "name": "The Player",
+      "description": "Reach player level 50",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "THE_PLAYER_0",
+      "getglobalpercentage": 23.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Decked Out",
+      "description": "Equip any 2 legendary equipment items at the same time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "DECKED_OUT_1",
+      "getglobalpercentage": 27.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Team Player",
+      "description": "Respawn a teammate",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "TEAM_PLAYER_2",
+      "getglobalpercentage": 39.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Fully Kitted",
+      "description": "Equip a fully kitted weapon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/8a11ed285547d9d5e04d3278c61255058da5cfce.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "FULLY_KITTED_3",
+      "getglobalpercentage": 40.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Jumpmaster",
+      "description": "Be the Jumpmaster 5 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "JUMPMASTER_4",
+      "getglobalpercentage": 47.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Well-Rounded",
+      "description": "Deal 5,000 damage with 8 different Legends",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "WELL_ROUNDED_5",
+      "getglobalpercentage": 16.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Kill Leader",
+      "description": "Become the Kill Leader",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "KILL_LEADER_6",
+      "getglobalpercentage": 40.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Apex Assault",
+      "description": "Win a game as an assault character",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "APEX_OFFENSE_7",
+      "getglobalpercentage": 32.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Apex Controller",
+      "description": "Win a game as a controller character",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "APEX_DEFENSE_8",
+      "getglobalpercentage": 18.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Apex Support",
+      "description": "Win a game as a support character",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "APEX_SUPPORT_9",
+      "getglobalpercentage": 27.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Apex Recon",
+      "description": "Win a game as a recon character",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/aab5291d3cad6c61b4c013494e3b87b9e59db9b1.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "APEX_RECON_10",
+      "getglobalpercentage": 33.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Apex Legend",
+      "description": "Win a game with 8 different Legends",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172470/b0f02c79abaea0b5be9a953d07d01dbbf0ebc45a.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "APEX_LEGEND_11",
+      "getglobalpercentage": 14.6,
+      "difficulty": 3
+    }
+  ]
+}

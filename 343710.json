@@ -1,0 +1,230 @@
+{
+  "name": "",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 343710,
+  "achievements": [
+    {
+      "name": "Dawn of the Bone God",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/b3bc3ffd4080743b3042bc7c564cce97680f6b1d.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "E_KHA_001",
+      "getglobalpercentage": 11.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Strange lights in the sky",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/d5899247ad9be21ea84ae9a466f2c974ae13e017.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "E_KHA_002",
+      "getglobalpercentage": 12.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Suffering for no reason",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/6ca4714ff9cf2f061fd6ed6c9380c6d30af1e10b.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "E_KHA_003",
+      "getglobalpercentage": 11.2,
+      "difficulty": 3
+    },
+    {
+      "name": "…and there will be nothing",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/12ee5da963db62376095e2057d0377e32324276f.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "E_KHA_004",
+      "getglobalpercentage": 11.2,
+      "difficulty": 3
+    },
+    {
+      "name": "There is no hope",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/3ee8bb09215c0da1e025bf73d42b1b9e981a9609.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "E_KHA_005",
+      "getglobalpercentage": 12.7,
+      "difficulty": 3
+    },
+    {
+      "name": "The most dangerous game",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/dcbafc4633700adb67811737e8014ba6921a2a8c.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "E_KHA_006",
+      "getglobalpercentage": 11.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Sacrificed",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/ba03f0914590dfdb226fc545ed614e641512e0a5.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "E_KHA_007",
+      "getglobalpercentage": 12.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Circle of life",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/54619655773e0caed106bc1e62c80f3139f18df9.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "E_KHA_008",
+      "getglobalpercentage": 23.4,
+      "difficulty": 2
+    },
+    {
+      "name": "In the name of the Father",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/2078658cd42c45144a00601e7135a7f89c0f2d01.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "E_KHA_009",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "The Incident",
+      "description": "You've reached the tent.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/11741bee5381e5b42e952fd60dc89c56b32f9b3e.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "E_KHA_010",
+      "getglobalpercentage": 10.6,
+      "difficulty": 3
+    },
+    {
+      "name": "What is he?",
+      "description": "You've encountered the anomaly.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/c9f7ed742d536613c40853ab6976ca9cff45284d.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "E_KHA_011",
+      "getglobalpercentage": 14.8,
+      "difficulty": 3
+    },
+    {
+      "name": "The end of all things",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/ffdfd89ac8471b8a88fac45e9a4f117d7af8f1e7.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "E_KHA_012",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "The runner",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/661f3556e639408f644a634b0bb0c021c9953f59.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "E_KHA_013",
+      "getglobalpercentage": 13.8,
+      "difficulty": 3
+    },
+    {
+      "name": "The truth is out there",
+      "description": "You've collected all reports.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/51c58b5b387322df2f29d0fc06de057a3e50c8ab.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "E_KHA_014",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "The Pulitzer",
+      "description": "You've collected all articles.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/10f26a638ee3586e18efff77035c5593fc02e051.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "E_KHA_015",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "The Witness",
+      "description": "You've collected all journal pages.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/fc3e099f9077907ea85afeae811cdff72c2d88e1.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "E_KHA_016",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Speleologist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/9b6a336a69a59cd0b5e79f5daa4f2be3e42b2545.jpg",
+      "hidden": 1,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "E_KHA_017",
+      "getglobalpercentage": 10.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Is it madness?",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/adb226fb210fe899da94e57d63fa07f6420afb8d.jpg",
+      "hidden": 1,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "E_KHA_019",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Globetrotter",
+      "description": "You've unlocked all safe spots.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/7ab101b4481baa6e83854215e4cffad8f4b186e4.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "E_KHA_020",
+      "getglobalpercentage": 9.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Survivalist",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343710/7d9d63ea34ddd4634829b248f7426fed51128eca.jpg",
+      "hidden": 1,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "E_KHA_021",
+      "getglobalpercentage": 9.1,
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Supermarket Simulator",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 2670630,
+  "achievements": [
+    {
+      "name": "Hardworking Cashier",
+      "description": "Completed 50 checkouts. That's a lot of change giving",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/323735de0e5bad50839eb9ffc0f10aa06647cea7.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "50_CHECKOUTS",
+      "getglobalpercentage": 91.4,
+      "difficulty": 1
+    },
+    {
+      "name": "You need a cashier",
+      "description": "Completed 100 checkouts all on your own. Consider hiring a cashier or two.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/c3142bac3be6462fdce3c074180f0353e83bc838.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "100_CHECKOUTS",
+      "getglobalpercentage": 87.8,
+      "difficulty": 1
+    },
+    {
+      "name": "The greatest!",
+      "description": "Purchased all expandings.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/5ad56e8c8f682ea972b7ec1e033107440aa0d245.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "PURCHASED_ALL_SECTIONS",
+      "getglobalpercentage": 3.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Good for Eye",
+      "description": "Paint 30 Walls",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/4b46137a8286c2275df192a48b0a5e3800ddeb8a.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "PAINT_WALLS",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "These Floors Are Made For Walking",
+      "description": "Replace 30 Floor",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/4c90b2ffe74ce1ab98541d1462cb694c9980dbbc.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "PAINT_FLOORS",
+      "getglobalpercentage": 3.3,
+      "difficulty": 4
+    },
+    {
+      "name": "That's a Big Change",
+      "description": "Change Door Position",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/a7c318ff2a2a0f0583f6d0dbe6bdf2044a363449.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "DOOR_POSITION",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Looking Good",
+      "description": "Change Front Style of The Door",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/c8b7688d00e6ca6dd3cbb2f0d2b71905dfb8c910.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "FRONT_STYLE",
+      "getglobalpercentage": 2.4,
+      "difficulty": 4
+    },
+    {
+      "name": "And the best store in town is...",
+      "description": "Change Store Name",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/910f2b86468f38f403d8d31b38cc2fea0ccdef39.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "DOOR_NAME",
+      "getglobalpercentage": 7.0,
+      "difficulty": 3
+    },
+    {
+      "name": "You Want It? We Got It!",
+      "description": "Own 4 Product Licence",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/d4c507705c4e8142759fd1ef7ea51982f4dfc09a.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "4_LICENCES",
+      "getglobalpercentage": 10.8,
+      "difficulty": 3
+    },
+    {
+      "name": "CEO of Organization",
+      "description": "Place 3 Category Sign",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/b8ba9bd808ede7cfdd16878f46cbf5ff1404a9fb.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "CATEGORY_SIGN",
+      "getglobalpercentage": 1.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Elevator",
+      "description": "Play a Song from Music Player",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/db3994dea0b3ea9a69862640a3a72d3e2a73e8c6.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "PLAY_MUSIC",
+      "getglobalpercentage": 6.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Don't Get Tired",
+      "description": "Hire 4 Restockers",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/2b60af45c5e29f71b74c2807b5c4966e935278e8.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "HIRE_RESTOCKER",
+      "getglobalpercentage": 5.4,
+      "difficulty": 3
+    },
+    {
+      "name": "They Know How To Count",
+      "description": "Hire 4 Cashiers",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/cac87e0b8274b550e25b217ea92c5ba1e71f9fc5.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "HIRE_CASHIER",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Economy 101",
+      "description": "Take A Loan From The Bank",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/553b91c4a92fce12956908f40c23477284a488d5.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "TAKE_LOAN",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Finally",
+      "description": "Pay Off a Loan Debt to The Bank in Full",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2670630/60fb02920b3a177804084bd62f793edd7790cb06.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "PAY_LOAN",
+      "getglobalpercentage": 7.6,
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Rec Room",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 471710,
+  "achievements": []
+}

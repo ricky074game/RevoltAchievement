@@ -1,0 +1,252 @@
+{
+  "name": "ATLAS",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 424840,
+  "achievements": [
+    {
+      "name": "Little Lost Things",
+      "description": "Kindness will be your undoing!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/2db89ed8020ab7a16715a9da8bb13d4aa377362b.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "LittleLostThings",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Kitchen Hand",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/c38cd433ab0da4286ed46469848d23d713a683d3.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "KitchenHand",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Highly Sprung",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/9ee4e9e87137337ba577e65cfdf9ae93352be052.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "HighlySprung",
+      "getglobalpercentage": 36.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Rascal",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/b1816b4d3d62b3ecdb51e084560dd6769ad6fcbf.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Rascal",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Light Up Your Life",
+      "description": "Not all lights can be trusted, but these should be quite safe!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/20f23da299c25e98b1fa8dbc8fefa5d05be467ef.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "LightUpYourLife",
+      "getglobalpercentage": 10.2,
+      "difficulty": 3
+    },
+    {
+      "name": "The Prison",
+      "description": "Look how the canary has flown its cage!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/28353a41c818fa0d905c12d84ae2e3e1bb5c0d9f.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ThePrison",
+      "getglobalpercentage": 51.1,
+      "difficulty": 1
+    },
+    {
+      "name": "The Lair",
+      "description": "Little lost things sometimes find their way home.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/852034c21dd269c8af8bea087b4c2654012be7aa.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "TheLair",
+      "getglobalpercentage": 36.4,
+      "difficulty": 2
+    },
+    {
+      "name": "The Kitchen",
+      "description": "The Chefs will miss you!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/1b42737e96c13204b504eb8f2c29841292e3b68d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "TheKitchen",
+      "getglobalpercentage": 31.8,
+      "difficulty": 2
+    },
+    {
+      "name": "The Guest Area",
+      "description": "Little fox among hungry wolves!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/7cd9b93aa76075f22fc7cf3db10f2e8a53819349.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "TheGuestArea",
+      "getglobalpercentage": 30.3,
+      "difficulty": 2
+    },
+    {
+      "name": "The Lady's Quarters",
+      "description": "A storm is coming. That coat should come in useful.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/f838ce2088c7426ba5a0f2372dce51c94ac62d96.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "TheLadysQuarters",
+      "getglobalpercentage": 29.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Elusive",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/e62c7dbe8ca52200d566cbc9653aace161666563.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "Elusive",
+      "getglobalpercentage": 23.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Six's Song",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/4b6a37eeefe5c86eff0dc348974b75268657647d.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "Glissando",
+      "getglobalpercentage": 4.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Hard to the Core",
+      "description": "What’s different about you? Why are you so brave?",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/22fa7ad777ad3c1ab87ed1fb40ecbfe99e5af5f5.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "HardToTheCore",
+      "getglobalpercentage": 1.5,
+      "difficulty": 4
+    },
+    {
+      "name": "So Close",
+      "description": "You'll do better next time.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/a0c70bba2099cce6bf78aa184c1a5d4121eb5ccf.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "SoClose",
+      "getglobalpercentage": 5.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Not Alone",
+      "description": "What's new with you?",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/c7db33d5aaba2e268e9fbae83e015c8209b33c51.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "NotAlone",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Fun & Games Ahead",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/c2b720b10b4aa7dc7b9e60227b3e9f4a0ec85887.jpg",
+      "hidden": 1,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "FunAndGamesAhead",
+      "getglobalpercentage": 2.4,
+      "difficulty": 4
+    },
+    {
+      "name": "End in Sight",
+      "description": "The final stretch will be largely uneventful.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/7f5188f88852ab6178037c9997d18159d930ac66.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "EndInSight",
+      "getglobalpercentage": 5.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Is Anybody Out There?",
+      "description": "I wish I could visit you there.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/267d9d54b3c37dfb8a33154fe28e1675f98d2d89.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "IsAnybodyOutThere",
+      "getglobalpercentage": 1.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Ashes in The Maw",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/ea3703cef4eb9de35bd838cd78ed2423d7b52c5d.jpg",
+      "hidden": 1,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "AshesInTheMaw",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": " We'll Meet Again",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/6da238756da99ad76f38665f1e3b3a618d15ca89.jpg",
+      "hidden": 1,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "WellMeetAgain",
+      "getglobalpercentage": 4.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Ashes to Ashes",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/59c5e01e76c8741c496893f6c5c416fd00395f0f.jpg",
+      "hidden": 1,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "AshesToAshes",
+      "getglobalpercentage": 2.2,
+      "difficulty": 4
+    },
+    {
+      "name": "I'm Losing You",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424840/89d625616f2464b90de855d2c9e7bfece8e3eef9.jpg",
+      "hidden": 1,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "ImLosingYou",
+      "getglobalpercentage": 2.1,
+      "difficulty": 4
+    }
+  ]
+}

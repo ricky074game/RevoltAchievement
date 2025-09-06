@@ -1,0 +1,9 @@
+{
+  "name": "Kards",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 544810,
+  "achievements": []
+}

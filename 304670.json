@@ -1,0 +1,120 @@
+{
+  "name": "UntitledApp",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 304670,
+  "achievements": [
+    {
+      "name": "Just Getting Started",
+      "description": "Complete the Alliance campaign.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/50d2ec8af3b115907ab22deeef2a315c0e951dc7.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "alliance_campaign",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    },
+    {
+      "name": "That Was Close",
+      "description": "Complete the Cyborg campaign.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/f7c3ec8cb2063fcae92a135c5045bf9803d058f0.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "cyborg_campaign",
+      "getglobalpercentage": 4.2,
+      "difficulty": 4
+    },
+    {
+      "name": "End Game",
+      "description": "Complete the Exile campaign.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/9f6fc49136077e85962ca0edb57932a6dfe96f3e.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "exile_campaign",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Destroyer",
+      "description": "Destroy 5,000 ships.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/8217149cd343733fc9b124a13329851d8334dad6.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "destroyer",
+      "getglobalpercentage": 1.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Overhealing",
+      "description": "Repair for 5,000 damage in a single mission.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/754394dc760c8704373122d44ff1bb4f73d0e708.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "overhealing",
+      "getglobalpercentage": 4.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Boom? Boom!",
+      "description": "Call down 10 nukes in a single mission.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/9a2d2b5b279c64396e35fca6110a4afdf44a09c8.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "boom_boom",
+      "getglobalpercentage": 3.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Half Way There",
+      "description": "Unlock 50% of all upgrades.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/a27f3ad284798f6a1a451cd7f9f84d2f4281f159.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "upgrades_50",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Completionist",
+      "description": "Unlock 100% of all upgrades.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/321b99162f736c0fc1ba9044f1cc15ce8b8aa01a.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "upgrades_100",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Mmm Eggs",
+      "description": "Win a Scramble vs Scramble skirmish.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/4f609976c65ad713ea4d432f41b418e11eef7d39.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "scrambled_eggs",
+      "getglobalpercentage": 2.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Greedy",
+      "description": "Saved over 1,000 resources in a single mission.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304670/dc22950cc841db4ae254669d712942d57b9b92a8.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "greedy",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    }
+  ]
+}

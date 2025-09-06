@@ -1,0 +1,263 @@
+{
+  "name": "Half-Life 2: Episode Two",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 420,
+  "achievements": [
+    {
+      "name": "Acid Reflex",
+      "description": "Kill an acid antlion worker.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_poisonantlion.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "EP2_KILL_POISONANTLION",
+      "getglobalpercentage": 89.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Get Some Grub",
+      "description": "Squish every antlion grub in Episode Two.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_allgrubs.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "EP2_KILL_ALLGRUBS",
+      "getglobalpercentage": 7.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Piñata Party",
+      "description": "Find and break every web cache in Episode Two.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_break_allwebs.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "EP2_BREAK_ALLWEBS",
+      "getglobalpercentage": 15.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Into the Breach",
+      "description": "Help Griggs and Sheckley hold off the antlion invasion inside the mine shaft.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_antlioninvasion.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_ANTLIONINVASION",
+      "getglobalpercentage": 82.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Twofer",
+      "description": "Defeat both antlion guards outside the White Forest.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_antlionguards.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_ANTLIONGUARDS",
+      "getglobalpercentage": 76.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Hit and Run",
+      "description": "Run over 20 enemies with the car in Episode Two.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_enemies_withcar.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "EP2_KILL_ENEMIES_WITHCAR",
+      "getglobalpercentage": 36.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Meet the Hunters",
+      "description": "Survive the Hunter ambush with Alyx.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_hunterambush.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_HUNTERAMBUSH",
+      "getglobalpercentage": 73.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Puttin' On a Clinic",
+      "description": "Defeat the chopper in Episode Two without any misses.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_chopper_nomisses.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "EP2_KILL_CHOPPER_NOMISSES",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Gunishment!",
+      "description": "Destroy the Combine Autogun in the junkyard.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_combinecannon.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "EP2_KILL_COMBINECANNON",
+      "getglobalpercentage": 72.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Cache Checker",
+      "description": "Find every radar cache in chapter Under The Radar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_find_allradarcaches.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "EP2_FIND_ALLRADARCACHES",
+      "getglobalpercentage": 46.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Pedal to the Metal",
+      "description": "Beat DOG in a race to the White Forest base.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_racewithdog.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_RACEWITHDOG",
+      "getglobalpercentage": 38.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Gordon Propelled Rocket",
+      "description": "Unlock the rocket launcher lambda cache in chapter Under The Radar.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_rocketcachepuzzle.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_ROCKETCACHEPUZZLE",
+      "getglobalpercentage": 59.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Quiet Mountain Getaway",
+      "description": "Survive the ambush at White Forest Inn.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_whiteforestinn.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_WHITEFORESTINN",
+      "getglobalpercentage": 71.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Little Rocket Man",
+      "description": "Send the garden gnome into space.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_put_iteminrocket.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "EP2_PUT_ITEMINROCKET",
+      "getglobalpercentage": 9.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Secondary Silo Secured",
+      "description": "Secure the launch doors on missile silo 2.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_missilesilo2.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_MISSILESILO2",
+      "getglobalpercentage": 69.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Neighborhood Watch",
+      "description": "Save all buildings outside the missile silo from destruction.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_outland12_nobuildingsdestroyed.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_OUTLAND12_NOBUILDINGSDESTROYED",
+      "getglobalpercentage": 8.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Defense of the Armament",
+      "description": "Save the missile silo from the Combine offensive.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_beat_game.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "EP2_BEAT_GAME",
+      "getglobalpercentage": 61.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Payback",
+      "description": "Kill a Hunter with its own flechettes.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/ep2_kill_hunter_withflechettes.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "EP2_KILL_HUNTER_WITHFLECHETTES",
+      "getglobalpercentage": 21.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Bone Breaker",
+      "description": "Kill 30 enemies with thrown physics objects.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/hlx_kill_enemies_withphysics.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "HLX_KILL_ENEMIES_WITHPHYSICS",
+      "getglobalpercentage": 24.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Deadly Harvest",
+      "description": "Kill an enemy by planting a hopper mine.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/hlx_kill_enemy_withhoppermine.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "HLX_KILL_ENEMY_WITHHOPPERMINE",
+      "getglobalpercentage": 69.2,
+      "difficulty": 1
+    },
+    {
+      "name": "Hot Potat0wned",
+      "description": "Kill a Combine soldier with his own grenade.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/hlx_kill_soldier_withhisgrenade.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "HLX_KILL_SOLDIER_WITHHISGRENADE",
+      "getglobalpercentage": 11.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Grave Robber",
+      "description": "Steal a Zombine's grenade.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/epx_get_zombinegrenade.jpg",
+      "hidden": 0,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "EPX_GET_ZOMBINEGRENADE",
+      "getglobalpercentage": 37.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Gnome Alone",
+      "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space. If you did not also receive the achievement 'Manufacturing Ascent', Newell has abandoned his plans to shoot Noam Chomsky into space.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/420/4e86a3e6272002037694ded4c3af1af6d59eb2c7.jpg",
+      "hidden": 0,
+      "id": 22,
+      "unlocked": false,
+      "apiName": "GLOBAL_GNOME_ALONE",
+      "getglobalpercentage": 27.9,
+      "difficulty": 2
+    }
+  ]
+}

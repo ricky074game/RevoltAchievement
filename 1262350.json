@@ -1,0 +1,153 @@
+{
+  "name": "SIGNALIS",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1262350,
+  "achievements": [
+    {
+      "name": "SYNCHRONIZITÄT",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/e5960d2b8e5ce0f78764b6fad99007dcb41ca8b2.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_1",
+      "getglobalpercentage": 89.8,
+      "difficulty": 1
+    },
+    {
+      "name": "BESCHLAGNAHMT",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/66d9a53b36cc07e66fad42353f4e3c8809efd76b.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_2",
+      "getglobalpercentage": 65.0,
+      "difficulty": 1
+    },
+    {
+      "name": "ABWÄRTS",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/829110b3335e1ecffcaa5814ee40b1bd4d712c48.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_3",
+      "getglobalpercentage": 54.8,
+      "difficulty": 1
+    },
+    {
+      "name": "LIMINALITÄT",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/c9225dd5ac0414e2cbe614b7458701997ecde88f.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_4",
+      "getglobalpercentage": 44.8,
+      "difficulty": 2
+    },
+    {
+      "name": "DAS ENDE",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/4506084f1867f0375d4e062c8da4255d0b9cc1b8.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_5",
+      "getglobalpercentage": 38.0,
+      "difficulty": 2
+    },
+    {
+      "name": "GESTALTZERFALL",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/79e47ab4ef29a3a2fc88fb4e28fdc01f71ddb8c2.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_6",
+      "getglobalpercentage": 35.6,
+      "difficulty": 2
+    },
+    {
+      "name": "VERSPRECHEN",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/9884dbca098cf6efac27b884c31d116aaeadb15c.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_7",
+      "getglobalpercentage": 30.8,
+      "difficulty": 2
+    },
+    {
+      "name": "SCHWERER AUSNAHMEFEHLER",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/7b960fecef172c1d105ab568dd5fe95b8c4ccf76.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_8",
+      "getglobalpercentage": 52.7,
+      "difficulty": 1
+    },
+    {
+      "name": "EINHORN",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/ee4a1ee14240bb1678d753b0e96e1784f7346b07.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_9",
+      "getglobalpercentage": 45.2,
+      "difficulty": 2
+    },
+    {
+      "name": "NITRO",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/768750b5ba5bed873c89080f688b8af31bf326bb.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_10",
+      "getglobalpercentage": 33.9,
+      "difficulty": 2
+    },
+    {
+      "name": "LÖCHER",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/a67759ea8ada45cab909d1bd6dfd7580d0e5d09b.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_11",
+      "getglobalpercentage": 7.0,
+      "difficulty": 3
+    },
+    {
+      "name": "ÜBERLEBEN",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/bb73f6a0bb6fd1ab83fef559be64bbfee2f3609b.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_12",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "ACHTUNG",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1262350/17315cf4732f11c33656f2278948bff3c06c9395.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_13",
+      "getglobalpercentage": 4.1,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1289310,
+  "achievements": [
+    {
+      "name": "Doomtaker",
+      "description": "Romance a demon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/2e36f259339eb3422655de540508df3265d50f6f.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "achiev_00",
+      "getglobalpercentage": 91.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Lifetaker",
+      "description": "Find some peace",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/f6c194aabf6f37c80d1dab63de4d7d679a929454.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "achiev_01",
+      "getglobalpercentage": 46.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Heaventaker",
+      "description": "Abandon your quest",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/dd5dfcf59e5e982c8b008660f732660132b1e63e.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "achiev_02",
+      "getglobalpercentage": 40.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Queentaker",
+      "description": "Survive the audience",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/ea3d78d7549ebbf22a3e139da4cabc20fd9e87d7.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "achiev_03",
+      "getglobalpercentage": 70.4,
+      "difficulty": 1
+    },
+    {
+      "name": "Gatetaker",
+      "description": "Reach the gate",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/0c4446503c2c91ef350591d9ddeef723027e1216.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "achiev_04",
+      "getglobalpercentage": 54.9,
+      "difficulty": 1
+    },
+    {
+      "name": "Sintaker",
+      "description": "Face your sins",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/ed0ec17e5bc6e542f3f2107a4d32a9d62cdd9699.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "achiev_05",
+      "getglobalpercentage": 42.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Pathtaker",
+      "description": "Disregard the key",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/a35e85194666a1df659ca923d9cbbf3a85ef4c57.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "achiev_06",
+      "getglobalpercentage": 39.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Abysstaker",
+      "description": "Make the steps",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/be6f033ac69cc76aef12e1740cda8fdaf972d71d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "achiev_07",
+      "getglobalpercentage": 31.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Puzzletaker",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/477219508723fc1005e218ca1ca12b23707dc01a.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "achiev_08",
+      "getglobalpercentage": 13.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Battletaker",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1289310/7f4183175dea84a0e3e99d4f796aa6f8a46aefc4.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "achiev_09",
+      "getglobalpercentage": 10.6,
+      "difficulty": 3
+    }
+  ]
+}

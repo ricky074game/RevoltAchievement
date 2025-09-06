@@ -1,0 +1,9 @@
+{
+  "name": "Undertale",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 391540,
+  "achievements": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Squad",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 393380,
+  "achievements": []
+}

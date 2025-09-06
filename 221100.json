@@ -1,0 +1,153 @@
+{
+  "name": "DayZ",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 221100,
+  "achievements": [
+    {
+      "name": "Bodily Needs",
+      "description": "Ate and drank something.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/421a04478fea3e23e31bf6eaf6ab013548c421ab.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_BodilyNeeds",
+      "getglobalpercentage": 24.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Geared",
+      "description": "Equipped a firearm, a melee weapon and a backpack.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/5774c79f9791165844b3b301dc6101864373305b.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_Geared",
+      "getglobalpercentage": 19.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Act of mercy",
+      "description": "Killed my first infected.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/6e6f90964daf90b48be3c3bcb9ab0dfb3043c012.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_ActOfMercy",
+      "getglobalpercentage": 31.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Field cook",
+      "description": "Cooked a steak on a stick.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/2fc0c1726b1e125139e52d1785623686d8171c43.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_FieldCook",
+      "getglobalpercentage": 7.2,
+      "difficulty": 3
+    },
+    {
+      "name": "I'm the firestarter",
+      "description": "Ignited fire using a matchbox, a road flare and a hand drill.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/01b253f506175f7385acb54263c8e29463c0dffe.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_ImTheFirestarter",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Babyface",
+      "description": "Shaved my face.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/51c1bad3aebace0c26b18cb24ec11f9c0ee913a5.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_Babyface",
+      "getglobalpercentage": 3.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Natural instincts",
+      "description": "Gutted a deer.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/3d5b450d9fffdf38100c8db557a9dd33661b9841.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_NaturalInstincts",
+      "getglobalpercentage": 3.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Marksman",
+      "description": "Killed a survivor at more than three hundred meters.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/d0850331ea7745c163e8fbd381077a8600e730ac.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_Marksman",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Pacify",
+      "description": "Killed an infected soldier.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/c5566ebbaa445b473e555fecb77e6fe8e3318b2b.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_Pacify",
+      "getglobalpercentage": 13.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Heal the world",
+      "description": "Applied bandages on other survivors thirty times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/73251bf5eb582d49e288c53c340ed9a2f5283275.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_HealTheWorld",
+      "getglobalpercentage": 0.4,
+      "difficulty": 4
+    },
+    {
+      "name": "You have the right...",
+      "description": "Handcuffed ten people.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/0ea500665f4c7a8b8de270a2766ada8f839fd5be.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_YouHaveTheRight",
+      "getglobalpercentage": 0.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Close and personal",
+      "description": "Killed fifteen survivors with any melee weapon.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/17c88f19d374d99f50e7c6222f9a09fa103dc632.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_CloseAndPersonal",
+      "getglobalpercentage": 0.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Lobotomy",
+      "description": "Killed twenty survivors or infected with a head-shot.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221100/d1183661daccfb93eb03d8d00bc9f26547753ebe.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_Lobotomy",
+      "getglobalpercentage": 7.0,
+      "difficulty": 3
+    }
+  ]
+}

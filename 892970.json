@@ -1,0 +1,9 @@
+{
+  "name": "Valheim",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 892970,
+  "achievements": []
+}

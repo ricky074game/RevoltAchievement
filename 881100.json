@@ -1,0 +1,164 @@
+{
+  "name": "Noita",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 881100,
+  "achievements": [
+    {
+      "name": "Victory",
+      "description": "Victory",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/0ce1e76c000037efd33d90d20bfa1b8c373b2e3a.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "BEAT_THE_GAME",
+      "getglobalpercentage": 9.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Reached Coal Pits",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "BIOME_EXCAVATION_SITE",
+      "getglobalpercentage": 72.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Reached Snowy Depths",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "BIOME_SNOWCAVE",
+      "getglobalpercentage": 59.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Reached Hiisi Base",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "BIOME_SNOWCASTLE",
+      "getglobalpercentage": 36.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Reached Underground Jungle",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "BIOME_RAINFOREST",
+      "getglobalpercentage": 22.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Reached The Vault",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "BIOME_VAULT",
+      "getglobalpercentage": 18.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Reached Temple of the Art",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "BIOME_CRYPT",
+      "getglobalpercentage": 14.0,
+      "difficulty": 3
+    },
+    {
+      "name": "The Gods Are Impressed",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "GODS_IMPRESSED",
+      "getglobalpercentage": 3.4,
+      "difficulty": 4
+    },
+    {
+      "name": "The Gods Are Afraid",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/08794789c5e8c3f1f85e3993fb36a4b49ac29b91.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "GODS_AFRAID",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "100% Enemy Progress",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/18c76ae26e6cb5c0743863e8e31a45b203ce7fa9.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "PROGRESS_ENEMIES",
+      "getglobalpercentage": 0.5,
+      "difficulty": 4
+    },
+    {
+      "name": "100% Spell Progress",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg",
+      "hidden": 1,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "PROGRESS_SPELLS",
+      "getglobalpercentage": 0.4,
+      "difficulty": 4
+    },
+    {
+      "name": "100% Perk Progress",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/4a730e833b0b3d1c626ea5036db56e81054b7d7b.jpg",
+      "hidden": 1,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "PROGRESS_PERKS",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "The Gods Are Enraged",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/1c0696634744b2caceaff11b4de1ab0dcf7ab4a7.jpg",
+      "hidden": 1,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "GODS_ENRAGED",
+      "getglobalpercentage": 6.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Gathered All The Knowledge",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/c888cdb9375f8dc2a7ef516ddfb7f2822917aecb.jpg",
+      "hidden": 1,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ALL_ORBS",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "name": "Realm Royale",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 813820,
+  "achievements": [
+    {
+      "name": "Novice Warrior",
+      "description": "Eliminate an enemy player as a Warrior.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/13c0b046293471ae7eff545610934437f4e66da0.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1602",
+      "getglobalpercentage": 20.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Master Warrior",
+      "description": "Get 50 eliminations as a Warrior.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/3093915d710613d24445424de5aa2b48bc0358c5.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1607",
+      "getglobalpercentage": 3.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Novice Engineer",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/7bd61f2bc48cccc13146e24451413a51ab984f00.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1603",
+      "getglobalpercentage": 2.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Master Engineer",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/4abd4716842b607c666dd3b898026b3016598a65.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1608",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Novice Assassin",
+      "description": "Eliminate an enemy player as an Assassin.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/d90943ec4e92e8778e59102046d5c8eafdafc9d3.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1604",
+      "getglobalpercentage": 25.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Master Assassin",
+      "description": "Get 50 eliminations as an Assassin.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/39b8076a605b886a7a3440158f8bd3f435a07113.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1609",
+      "getglobalpercentage": 5.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Novice Mage",
+      "description": "Eliminate an enemy player as a Mage.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/ceada43b12c9c83b816af35612e874892e70023f.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1605",
+      "getglobalpercentage": 18.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Master Mage",
+      "description": "Get 50 eliminations as a Mage.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/80d6ccff9781772a09ac1655928b3fe47efd0df7.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1610",
+      "getglobalpercentage": 3.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Novice Hunter",
+      "description": "Eliminate an enemy player as a Hunter.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/d53a96dca89a370f7f12122a5fe00eb835b2face.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1606",
+      "getglobalpercentage": 17.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Master Hunter",
+      "description": "Get 50 eliminations as a Hunter.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/c57241f0e35188965893a853ac43afbe6adf2781.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1611",
+      "getglobalpercentage": 3.5,
+      "difficulty": 4
+    },
+    {
+      "name": "20-Piece",
+      "description": "Loot Armor Potions 20 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/b812ab703270ceed173ccb2feaa6a6d44230a1c7.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1643",
+      "getglobalpercentage": 20.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Realm Royalty",
+      "description": "Get a Crown Royale.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/2468d872d732b628e9903b7f781d26667bd47ffe.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1644",
+      "getglobalpercentage": 18.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Royale Master",
+      "description": "Get 10 Crown Royales.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/42920617d70f77f5f9dcdb3a5888d5e56d84e455.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1645",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Master Smith",
+      "description": "Forge 100 Items.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/632f86ea854723d4116873c5d702a4efb5c4f2d8.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1646",
+      "getglobalpercentage": 7.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Geared Out",
+      "description": "Get a Legendary Item in every slot.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/724919bc7010e9326d06e7ecaacb29128461b54c.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1647",
+      "getglobalpercentage": 10.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Longshot Foghorn",
+      "description": "Chicken a player from more than 800 feet away.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/341a0a3ffce14b8f453aa2d862d601c5926840a2.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1657",
+      "getglobalpercentage": 6.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Jack of All Trades",
+      "description": "Get a Crown Royales with 3 different classes.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/734df110be931d9351641aaf0154b1851ecf9cb9.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1651",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Knife Edge Death Match",
+      "description": "Eliminate an enemy player with your dagger.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/e7f163fbdb1234166e39b2ce2c53112478a82df0.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1648",
+      "getglobalpercentage": 8.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Decimation",
+      "description": "Eliminate more than 10 players in a single match.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/a925903bc999bc30d5dc0ac15fba09ba78fb2f6d.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1649",
+      "getglobalpercentage": 5.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Absolute Unit",
+      "description": "Win a match as a team of 4 without losing a single player.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/7a10e179143cdf13681e6acbe333ee53038d4ad7.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1650",
+      "getglobalpercentage": 8.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Novice Smith",
+      "description": "Forge your first Legendary Weapon.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/a6dd1983c1e3eef5cdf55d7a674d6333803859df.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1642",
+      "getglobalpercentage": 20.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Great Eggscape",
+      "description": "Survive after becoming a chicken.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/813820/f3987bf6943241d2491ee35c958709be5404541c.jpg",
+      "hidden": 0,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "GOAL_ID_1641",
+      "getglobalpercentage": 34.1,
+      "difficulty": 2
+    }
+  ]
+}

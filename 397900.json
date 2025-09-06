@@ -1,0 +1,219 @@
+{
+  "name": "Business Tour",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 397900,
+  "achievements": [
+    {
+      "name": "Triple monopoly I",
+      "description": "Win 10 games with a triple monopoly",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/811fc0e0c7c77669a92397606106d02854a811cd.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_WON_TRIPLE_01",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Triple monopoly II",
+      "description": "Win 50 games with a triple monopoly",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/27496f1a452fa48af24736b66d7375777d8caa06.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_WON_TRIPLE_02",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Triple monopoly III",
+      "description": "Win 100 games using a triple monopoly",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/f245057a41d1ed01fff79a44fd218ef107cf9608.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_WON_TRIPLE_03",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Line monopoly I",
+      "description": "Win 5 times buying all cities on one side of the board",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/f332c140430aee970b9657c34e6e26953272e79d.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_WON_LINE_01",
+      "getglobalpercentage": 1.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Line monopoly II",
+      "description": "Win 25 times buying all cities on one side of the board",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/4df65c52e408fcaa8c3e25f37b0fa22c85f70244.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_WON_LINE_02",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Line monopoly III",
+      "description": "Win 50 times buying all cities on one side of the board",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/b7fb57574a6c5438d8c739de6639e8f9955883ef.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_WON_LINE_03",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Resort I monopoly",
+      "description": "Win 10 times buying every resort city",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/5672c75147614dca663f7ec47dfd3f8500246781.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_WON_RESORT_01",
+      "getglobalpercentage": 1.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Resort II monopoly",
+      "description": "Win 50 times buying every resort city",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/fb9ceed8e9755a155782af212b015b1f47f59167.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_WON_RESORT_02",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Resort III monopoly",
+      "description": "Win 100 times buying every resort city",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/e203ca8fb8dbb6cef8abb045593c325708ce0b18.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_WON_RESORT_03",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Leases I",
+      "description": "Win 10 times bankrupting all opponents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/64edfa99f171ad797a74ac64ba8b97dabd5d237e.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_WON_LASTPLAYER_01",
+      "getglobalpercentage": 4.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Leases II",
+      "description": "Win 50 times bankrupting all opponents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/5d8e3ddb7c600e27bcf5b8848b0a551bfdfdac9b.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_WON_LASTPLAYER_02",
+      "getglobalpercentage": 1.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Leases III",
+      "description": "Win 100 times bankrupting all opponents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/b6b1e0aa400bc1d2808780df99969b44306abb74.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_WON_LASTPLAYER_03",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Traveler I",
+      "description": "Go on the world tour 50 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/c7cfe9cb75264be315ba60f716a973a164e54ce3.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_TRAVELER_01",
+      "getglobalpercentage": 5.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Traveler II",
+      "description": "Go on the world tour 200 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/37e45c3673be77d8db1f89966e9b6d2e690d8696.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ACH_TRAVELER_02",
+      "getglobalpercentage": 1.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Traveler III",
+      "description": "Go on the world tour 500 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/59092a4f412a26920cb96a178a76bc9fa9520bab.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ACH_TRAVELER_03",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Electrician",
+      "description": "Turn the lights off 50 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/eec496fcfc3e5775550deb201905edb7a6d9ebf5.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ACH_LIGHT",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Lucky dog",
+      "description": "Escape Lost Island 50 times by rolling a pair on the first try",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/ede633b297dc1ce3d66cc303e7475169fbe44ffa.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ACH_LUCKY",
+      "getglobalpercentage": 1.9,
+      "difficulty": 4
+    },
+    {
+      "name": "View from above",
+      "description": "Increase the Rent Multiplier by 10",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/3d319bb411bd1f47d2932ef2286d3d42098ec3fe.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ACH_MULTIPLER",
+      "getglobalpercentage": 11.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Unfair game",
+      "description": "Roll three pairs in a row",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397900/1fbbccd36331b4bd96b9fcde36015bdedb442bb6.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ACH_PAIR_3X",
+      "getglobalpercentage": 28.7,
+      "difficulty": 2
+    }
+  ]
+}

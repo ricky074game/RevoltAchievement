@@ -1,0 +1,164 @@
+{
+  "name": "Outlast",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 238320,
+  "achievements": [
+    {
+      "name": "ILLUMINATED",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/79e16611e0a3d5c3ca7e616353b999d188cc12d6.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Achievement_0",
+      "getglobalpercentage": 48.5,
+      "difficulty": 2
+    },
+    {
+      "name": "FLUSHED",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/acbe4b399c5ec7114acd450ef0222f63f11be2d3.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "Achievement_1",
+      "getglobalpercentage": 37.6,
+      "difficulty": 2
+    },
+    {
+      "name": "SOAKED",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/4334f02468090d50ced2a9ea9753d7ad6891cbdb.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "Achievement_2",
+      "getglobalpercentage": 29.8,
+      "difficulty": 2
+    },
+    {
+      "name": "EMANCIPATED",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/a6af039af4722b37c5fd6a372e47a16a4dadaf7a.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "Achievement_3",
+      "getglobalpercentage": 26.2,
+      "difficulty": 2
+    },
+    {
+      "name": "EDUCATED",
+      "description": "Collect 15 documents and complete 15 recordings",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/672491c95e200c50364cfb07d6d54b4c219d3e70.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "Achievement_4",
+      "getglobalpercentage": 11.5,
+      "difficulty": 3
+    },
+    {
+      "name": "PUNISHED",
+      "description": "Finish the game",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/ba87792781917e925e94030e42d0c4bd91ca928b.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "Achievement_5",
+      "getglobalpercentage": 24.5,
+      "difficulty": 2
+    },
+    {
+      "name": "PULITZER",
+      "description": "Collect all documents and complete all recordings",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/5583cdc7c539173562c59e7c58191ebcfa54be3f.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "Achievement_6",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "LUNATIC",
+      "description": "Finish the game in Insane mode",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/f73f26c4509629f5f4b402515e3cc0681a4dffc5.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "Achievement_7",
+      "getglobalpercentage": 2.8,
+      "difficulty": 4
+    },
+    {
+      "name": "GAS LEAKER",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/b74e0ad5f9f57deae275c1b269e4346a07429d76.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "Achievement_8",
+      "getglobalpercentage": 13.3,
+      "difficulty": 3
+    },
+    {
+      "name": "SHOCKER",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/48da05a1e81ec7525568287f73b7c1fc86d5f4c1.jpg",
+      "hidden": 1,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "Achievement_9",
+      "getglobalpercentage": 12.7,
+      "difficulty": 3
+    },
+    {
+      "name": "WHISTLEBLOWER",
+      "description": "Finish the Whistleblower DLC",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/43a6fb44f91bc460fd17ac2da025c2f95ce9e816.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "Achievement_10",
+      "getglobalpercentage": 11.9,
+      "difficulty": 3
+    },
+    {
+      "name": "BOWELWHISTLER",
+      "description": "Finish the DLC in Insane mode",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/a9ebeb91730237d4a6e792ec48ed085c6d5f245a.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "Achievement_11",
+      "getglobalpercentage": 2.7,
+      "difficulty": 4
+    },
+    {
+      "name": "ARCHIVIST",
+      "description": "Collect all documents",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/543d5f5d6bb649f1e6f454e2a679788c9c34e029.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "Achievement_12",
+      "getglobalpercentage": 3.1,
+      "difficulty": 4
+    },
+    {
+      "name": "LEGACY",
+      "description": "Complete all recordings",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238320/d078b58c66f95d3d743b5f031eaf8e085790536b.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "Achievement_13",
+      "getglobalpercentage": 2.9,
+      "difficulty": 4
+    }
+  ]
+}

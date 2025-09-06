@@ -1,0 +1,21 @@
+{
+  "name": "Blade &amp; Sorcery",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 629730,
+  "achievements": [
+    {
+      "name": "Test",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/629730/",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_TEST",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    }
+  ]
+}

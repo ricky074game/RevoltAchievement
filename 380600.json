@@ -1,0 +1,197 @@
+{
+  "name": "Fishing Planet",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 380600,
+  "achievements": [
+    {
+      "name": "Tight Lines!",
+      "description": "Complete the Tutorial",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/8a09ed7aba5792e9fd3fa36b82be7087593f1fd6.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_F2P_TIGHT_LINES",
+      "getglobalpercentage": 50.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Bass Master",
+      "description": "Catch 250 Bass",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/efb4c993a743d55d80a97169fe88658f538eb618.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_F2P_BASS_MASTER",
+      "getglobalpercentage": 2.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Trout Master",
+      "description": "Catch 250 Trout",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/861056c191c7ec2d1e4e52946c9a4fa01783b4e0.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_F2P_TROUT_MASTER",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Pike Master",
+      "description": "Catch 250 Pike",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/3f7f22c3afbf0da371a53e06c5dbfc5b22a7f62b.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_F2P_PIKE_MASTER",
+      "getglobalpercentage": 1.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Panfish Overlord",
+      "description": "Catch 250 Panfish",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/3bd416fc66af1df100c88a6c5d5f508d887f642e.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_F2P_PANFISH_OVERLORD",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Catfish Master",
+      "description": "Catch 250 Catfish",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/7fb7013845b029a02545ae06c71761a2ca9afb18.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_F2P_CATFISH_MASTER",
+      "getglobalpercentage": 1.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Zander Chief",
+      "description": "Catch 250 Zander",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/17a11654ce71282e3b80cb5d13e806a1407a5326.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_F2P_WALLEYE_CHIEF",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Salmon Master",
+      "description": "Catch 250 Salmon",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/5bb2bda113beff6a3750a9809d24f5bb20c87c5b.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_F2P_SALMON_MASTER",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Carp Master",
+      "description": "Catch 250 Carp",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/272889f839747b90071a062943f4a7c4e8d3c6f8.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_F2P_CARP_MASTER",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Crappie Master",
+      "description": "Catch 250 Crappie",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/8bdc874cefcf7e47ba6cade36edcc3e3fb3027bd.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_F2P_CRAPPIE_MASTER",
+      "getglobalpercentage": 0.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Partaker",
+      "description": "Participate in 100 fishing competitions",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/02dffb1c6df02ca62fc4815b3170813d817b1910.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_F2P_PARTAKER",
+      "getglobalpercentage": 0.4,
+      "difficulty": 4
+    },
+    {
+      "name": "You’re In!",
+      "description": "Register in 12 fishing tournaments",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/3dcfd47f467c653434dd22de6616910ce17bb277.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_F2P_YOURE_IN",
+      "getglobalpercentage": 0.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Qualified Winner",
+      "description": "Won in 12 qualifying tournaments",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/0a177d7ace461372fd613087f70f6647bab9b07a.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_F2P_QUALIFIED_WINNER",
+      "getglobalpercentage": 0.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Almost There!",
+      "description": "Get to the final round of a tournament",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/11e94558ab1d323cb5ec3da37282760eb71ed2d9.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ACH_F2P_ALMOST_THERE",
+      "getglobalpercentage": 0.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Winning Streak",
+      "description": "Be in a competition’s Top-3 winners 5 times in a row",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/291bacafbdbcb480b75841971ee091feff744827.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ACH_F2P_WINNING_STREAK",
+      "getglobalpercentage": 0.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Trophy Collector",
+      "description": "Catch 1000 Trophy fish",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/2419d65052dbf5d9e9005295b46d233d4aa69840.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ACH_F2P_TROPHY_COLLECTOR",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Unique Gainer",
+      "description": "Catch 100 Unique fish",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380600/610ab31b206d26e0f96256a83fe2b70b8729a681.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ACH_F2P_UNIQUE_GAINER",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    }
+  ]
+}

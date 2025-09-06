@@ -1,0 +1,219 @@
+{
+  "name": "REIWA 1.5",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1755910,
+  "achievements": [
+    {
+      "name": "Welcome to the Stadium",
+      "description": "Play a game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/4c338f6e62f05dd160d6d07c88ce77483e6583f0.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_0",
+      "getglobalpercentage": 23.0,
+      "difficulty": 2
+    },
+    {
+      "name": "First Failure",
+      "description": "Get a Game Over screen.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/db8e0f927ffcfc2e77ca6f5109a4a33c5639e5ea.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_1",
+      "getglobalpercentage": 21.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Coin Consumer",
+      "description": "Insert nine or more coins in one play session.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/df429014388657972c4b1b538dba4af8ac64693a.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_2",
+      "getglobalpercentage": 16.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Core Gamer",
+      "description": "Play any of the games a total of 100 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/d8c5837737b942772f3af4e1626a8ffdb2d0b5b0.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_3",
+      "getglobalpercentage": 10.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Hardcore Gamer",
+      "description": "Play any of the games a total of 1000 times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/01b30376f52a2147ae057ff6e331a0b85bde995b.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_4",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Newbie",
+      "description": "Play for at least 10 hours.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/8149a8000e4dab8912c7c0aedf21c25d7ffcc058.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_5",
+      "getglobalpercentage": 10.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Serious Gamer",
+      "description": "Play for at least 100 hours.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/e2808fe9e4bde876cabfafc68c0ff06991ec9399.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_6",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Remedial Student",
+      "description": "Reach Class 5: Experimenter.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/c5726f778249d29e17b1af50db02ffeb6b95d738.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_7",
+      "getglobalpercentage": 11.1,
+      "difficulty": 3
+    },
+    {
+      "name": "C Average",
+      "description": "Reach Class 10: Jurist.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/69a1e7ead856924582f739a36e555ce361cb2f12.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_8",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Top of the Class",
+      "description": "Reach Class 15: Operator.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/915499836d4e6c1b5c1873ac59060530e34a5feb.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_9",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "CapcoMaster",
+      "description": "Reach Class 20: CapcoMaster.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/21049b640a4fc4f0d8a9cea5e4c03bb0a1fb5c67.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_10",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "If I Could Turn Back Time...",
+      "description": "Use the Rewind feature.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/8d302c59b2d50848f1b0bf70520cf8ad45477c01.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_11",
+      "getglobalpercentage": 18.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Tempo Conductor",
+      "description": "Use the Cycle Speed (Up/Down) or Max./Min. Speed (Hold) feature.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/d0c710a5735686f81543abc80a1757c4c68f74c7.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_12",
+      "getglobalpercentage": 17.6,
+      "difficulty": 3
+    },
+    {
+      "name": "First Taste of Victory",
+      "description": "Clear a game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/0136240dd5b19f126afaf6580b6fae63257dde82.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_13",
+      "getglobalpercentage": 13.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Technician",
+      "description": "Clear a game on the highest difficulty setting.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/200e46f7ca541bb5ba96f552273f8524b9e45c56.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_14",
+      "getglobalpercentage": 10.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Good Job!",
+      "description": "In one play session, gain 10,000 CASPO while playing Score Challenge or Timed Challenge mode.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/95f9db3983a2832e4e15b1e3bdfaa8d44f75ad6f.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_15",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Great Job!",
+      "description": "In one play session, gain 25,000 CASPO while playing Score Challenge or Timed Challenge mode.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/4be9b061d48097923f1da42546c9b7da539ac4ed.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_16",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Amazing Job!",
+      "description": "In one play session, gain 50,000 CASPO while playing Score Challenge or Timed Challenge mode.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/0bf3c5ef35bb712e53e7bb338d6ba974de7dfcfe.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_17",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Future High Score Lister",
+      "description": "Play a game in Score Challenge or Timed Challenge mode.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1755910/cad012c9f0d2a7adba100e78b4b5b50d665660cc.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "NEW_ACHIEVEMENT_1_18",
+      "getglobalpercentage": 1.6,
+      "difficulty": 4
+    }
+  ]
+}

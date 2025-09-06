@@ -1,0 +1,9 @@
+{
+  "name": "Lethal Company",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1966720,
+  "achievements": []
+}

@@ -1,0 +1,219 @@
+{
+  "name": "Ironsight",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 783770,
+  "achievements": [
+    {
+      "name": "Quadra Kill",
+      "description": "Achieve a Quadra Kill 25 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/393a8dae7c4e7589add10aff7b8527e1f57e4c7f.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "IS_ACH_001",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Penta Kill",
+      "description": "Achieve a Penta Kill 10 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/7dd4c0d75eac0391769f3d7327799a9ead216ee4.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "IS_ACH_002",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Hexa Kill",
+      "description": "Achieve a Hexa Kill 1 time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/f77466c9139ee0fb65272ed3c0cbc24df78804f2.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "IS_ACH_003",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Ultra Kill",
+      "description": "Achieve an Ultra Kill 1 time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/6e54a2dc95693936bc27d67653ac44e9d02d09bd.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "IS_ACH_004",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Monster Kill",
+      "description": "Achieve a Monster Kill 1 time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/63584f5c468446acea970789c80ff09deb856977.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "IS_ACH_005",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Infinity Kill",
+      "description": "Achieve an Infinity Kill 1 time",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/e0e8ca89759dcb7bb45e17e2edb1d1744741b3ff.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "IS_ACH_006",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Master Rifler",
+      "description": "Perform 100 Double Kills with an Assault Rifle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/ee301d467e8fc07bfb38fe23f299d12b9a964758.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "IS_ACH_007",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "SMG Shutdown",
+      "description": "Perform 125 Shutdowns with a Submachine Gun",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/23c117a313a54f71817178c83f5b50edb30a6493.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "IS_ACH_008",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Marksman Sniper",
+      "description": "Perform 150 Headshot Kills with a Sniper Rifle",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/14d45e3589524200e097b8f68b34d7e302f31550.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "IS_ACH_009",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Drone Destroyer",
+      "description": "Destroy 75 enemy drones with a Light Machine Gun",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/6c3451c5a5f864f4e9dbae54227b5e913cb634ea.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "IS_ACH_010",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "MVP Slayer",
+      "description": "Kill the enemy team's top player using a Secondary Weapon 25 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/f09c1b2a1cdcca00b7ca43e2737744ce6a831f31.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "IS_ACH_011",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Revenge Within Reach",
+      "description": "Use a Melee Weapon to kill the enemy who last killed you 50 times",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/e79ac79d57c26e16e96c41dfba12b0a3edb1cb38.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "IS_ACH_012",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Gold Weapon Collector",
+      "description": "Obtain 10 Gold weapon skins",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/05d8cc893131e31452e9db7e33fb9aeb11911797.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "IS_ACH_013",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Nebula Weapon Collector",
+      "description": "Obtain 3 Nebula weapon skins",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/294316cd772660c39149eb145f88e88e2c65e68b.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "IS_ACH_014",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Rose Gold Weapon",
+      "description": "Obtain a Rose Gold weapon skin",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/e55bcf85884704b07c72a7f282564777672e7b6e.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "IS_ACH_015",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Aquamarine Weapon Collector",
+      "description": "Obtain 5 Aquamarine weapon skins",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/f548a0ef5cae917dbd7076dae8038b0c8e8170d2.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "IS_ACH_016",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Collection Weapon",
+      "description": "Obtain a Collection weapon skin",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/7f3b8f07df46fdf39768533a2acf836286a98303.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "IS_ACH_017",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Secondary Sniper",
+      "description": "Eliminate 25 enemies with a pistol from a distance of 25 meters or more.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/7dd120d1714bcf5c8ef2666de0919b884b3802c7.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "IS_ACH_018",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Sniping From Safety",
+      "description": "Headshot 15 enemies with a sniper from a distance of 75 meters or more.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/783770/1600456061242161f7a0a209c9dd49f676f26d65.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "IS_ACH_019",
+      "getglobalpercentage": 0.0,
+      "difficulty": 4
+    }
+  ]
+}

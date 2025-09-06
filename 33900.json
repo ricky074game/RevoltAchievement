@@ -1,0 +1,9 @@
+{
+  "name": "ARMA 2",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 33900,
+  "achievements": []
+}

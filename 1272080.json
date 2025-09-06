@@ -1,0 +1,252 @@
+{
+  "name": "PAYDAY 3",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1272080,
+  "achievements": [
+    {
+      "name": "No One Cared Who I Was...",
+      "description": "Until I put on the mask.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/f555f7e37d23e97ede7b19cf5a790969ab699819.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_MASK_ON",
+      "getglobalpercentage": 86.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Guns Don't Kill People...",
+      "description": "Complete a heist after getting at least 50 turret kills on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/4307cf52e1e23eb99ebd8e73165c9e2c3d89481e.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACH_HEIST_KILL_SENTRY_TURRET",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Danger, High Voltage",
+      "description": "Stun 4 law enforcers by destroying a Zapper's battery pack on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/ceb7ae83259e80de8c78ee3727aa8297837b3156.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACH_TASER_BATTERY_ENEMY_STUNS",
+      "getglobalpercentage": 16.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlimited Power",
+      "description": "Have the EDGE, GRIT and RUSH buffs active at the same time.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/17cd12e39900a3f250503c546192b92bc54fe1b5.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACH_CORE_BUFFS_ACTIVE",
+      "getglobalpercentage": 27.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Kitted Out",
+      "description": "Unlock all mods to a primary weapon.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/47f6a24119a1fdd933ebf49856f4912d26e7dc02.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACH_PRIMARY_FULL_MOD_UNLOCK",
+      "getglobalpercentage": 13.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Arts and Crafts",
+      "description": "Customize a mask.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/8f75a446a82dc456b728aa58feae09c76375b09f.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACH_CUSTOMIZE_MASK",
+      "getglobalpercentage": 37.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Traffic Control",
+      "description": "Complete Road Rage without the truck having stopped until the end on Overkill.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/e6446d02eda8b77ab4e4fdf81ba73aba00d308b0.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACH_AT_TRUCK_NO_STOP",
+      "getglobalpercentage": 8.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Crowd Control",
+      "description": "Complete Road Rage without letting a single civilian flee, die or be traded on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/5bd08a5787c520f36e8681f283b052e778b1a20d.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACH_AT_CIVILIANS_GONE",
+      "getglobalpercentage": 6.0,
+      "difficulty": 3
+    },
+    {
+      "name": "True Connoisseur",
+      "description": "Steal the painting by Shanda Latrell in Under the Surphaze on Very Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/646b1081bbcf8c0e0429817c403251cef377ac24.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACH_AG_SHANDA_PAINTING_SECURED",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Art Critic",
+      "description": "Complete Under The Surphaze having stolen all art from the 7 exhibitions on Very Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/ba4baa9aa636ca273a371385d059cdfb01930879.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACH_AG_EXHIBITION_BAGS_SECURED",
+      "getglobalpercentage": 10.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Color Me Surprised",
+      "description": "Complete No Rest For The Wicked without letting a dye pack explode on Very Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/98eb74b8ffdc52cc612ac072148778565e3e69f2.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACH_BB_NO_DYE_PACKS_EXPLODED",
+      "getglobalpercentage": 23.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Just... One... More...",
+      "description": "Complete No Rest For The Wicked having opened all deposit boxes.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/9dc79119bf9dea729a8873ea59df26dbb88aaded.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACH_BB_OPEN_DEPOSIT_BOXES",
+      "getglobalpercentage": 63.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Tech Mogul",
+      "description": "On 99 Boxes secure both hi-tech devices at their maximum value on Very Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/1aed98668598ad3fe8d5475f458274f7d6d30efc.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACH_CD_MAX_HI_TECH_SECURED",
+      "getglobalpercentage": 9.4,
+      "difficulty": 3
+    },
+    {
+      "name": "No Stone Unturned",
+      "description": "Complete 99 Boxes having secured the maximum amount of bags on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/3260e57c10e749c686017eb62705a4c56b5a812a.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ACH_CD_MAX_PAYOUT",
+      "getglobalpercentage": 17.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Closing the Account",
+      "description": "On Gold and Sharke empty the vault of its valuables and secure all the loot on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/49c0b5c0485bba8945e384b92fec074531950f5f.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ACH_SB_MAX_PAYOUT",
+      "getglobalpercentage": 31.7,
+      "difficulty": 2
+    },
+    {
+      "name": "The Hard Way",
+      "description": "Complete Gold and Sharke in stealth without accessing the HR computer.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/9b1a8f0d3e6934173382dab8db0c9235825a20e6.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ACH_SB_NO_HR_COMPUTER",
+      "getglobalpercentage": 19.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Cleanin' It Out",
+      "description": "Complete Dirty Ice having secured all cleaned jewelry bags on Overkill.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/01e99d449b1523a50163e2fb58e4a9c79fa99f52.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ACH_JS_MAX_PAYOUT",
+      "getglobalpercentage": 7.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Smash and Grab",
+      "description": "Complete Dirty Ice within 120 seconds of spawning.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/2b55f183d2662b9c81dc22b96d608be0498899ea.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ACH_JS_SPEED_RUN",
+      "getglobalpercentage": 5.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Party Crasher",
+      "description": "Complete Rock The Cradle without having the VIP invitation in stealth on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/47777092c3b628bd281d7d9fb265054369b81c25.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ACH_NC_NO_ID_VIP_AREA",
+      "getglobalpercentage": 10.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Afterparty",
+      "description": "Complete Rock The Cradle after surviving 4 full assaults on Very Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/4a1ac4c97ee2b22328932fdfeeb80bc4ed4f087a.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "ACH_NC_SURVIVED_ASSAULTS",
+      "getglobalpercentage": 4.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Spec Ops",
+      "description": "Complete Touch The Sky in stealth without killing a single guard on Overkill.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/34af5843446805cc82d74d230c7e7cba10dae38b.jpg",
+      "hidden": 0,
+      "id": 20,
+      "unlocked": false,
+      "apiName": "ACH_PH_NO_GUARD_KILLS",
+      "getglobalpercentage": 4.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Insurance Policy",
+      "description": "Complete Touch The Sky with 4 active human shields on Hard or above.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1272080/ce57dca1548cac78d1ac2d8dc983551f259b8266.jpg",
+      "hidden": 0,
+      "id": 21,
+      "unlocked": false,
+      "apiName": "ACH_PH_HUMAN_SHIELD_EXTRACT",
+      "getglobalpercentage": 2.3,
+      "difficulty": 4
+    }
+  ]
+}

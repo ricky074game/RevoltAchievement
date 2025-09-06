@@ -1,0 +1,21 @@
+{
+  "name": "Mirror 2: Project X",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 1832640,
+  "achievements": [
+    {
+      "name": "Heros of Mirror 2",
+      "description": "The Co-Creator of Project X, Y and Z. ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1832640/8f2fcb9ad3166e69c2b63d8cd9f9c31f87464b43.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACV_09",
+      "getglobalpercentage": 96.8,
+      "difficulty": 1
+    }
+  ]
+}

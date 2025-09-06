@@ -1,0 +1,186 @@
+{
+  "name": "Chained Together",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 2567870,
+  "achievements": [
+    {
+      "name": "10 Wings",
+      "description": "Collect 10 Wings of Freedom scattered throughout the level",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/0f708f67b7441359701cd061883baaf86f4efc03.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "WINGS_ACHIEVEMENT",
+      "getglobalpercentage": 3.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Climb faster",
+      "description": "Reach the summit of the game in less than 1 hour and 50 minutes.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/237428ebc0705a0d976837244d52087f9dc29a8a.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "TIME_ACHIEVEMENT",
+      "getglobalpercentage": 2.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Lava mode",
+      "description": "Finish the lava mode",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/2d43132b1540bbb3d0d51958365aa765bcfd5a30.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "LAVA_ACHIEVEMENT",
+      "getglobalpercentage": 0.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Underworld",
+      "description": "Reach The Underworld",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/f9ab8106ce261ab0b4d13b27740faebea23979f5.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "UNDERWORLD_ACHIEVEMENT",
+      "getglobalpercentage": 94.0,
+      "difficulty": 1
+    },
+    {
+      "name": "Hell Cliffs",
+      "description": "Reach The Hell Cliffs",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/de9baf38f8068e79853189c0e13d6081608a5a51.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "HELLCLIFFS_ACHIEVEMENT",
+      "getglobalpercentage": 86.6,
+      "difficulty": 1
+    },
+    {
+      "name": "The Car Race",
+      "description": "Reach The Car Race",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/29b3e3fb3e011c9c9272aa4a8f01bcb9a3b2dcfb.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "THECARRACE_ACHIEVEMENT",
+      "getglobalpercentage": 78.0,
+      "difficulty": 1
+    },
+    {
+      "name": "The Mysterious Cave",
+      "description": "Reach The Mysterious Cave",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/c111d833c05bd1f6acc381c4f5ef6d666a1d3511.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "THEMYSTERIOUSCAVE_ACHIEVEMENT",
+      "getglobalpercentage": 73.8,
+      "difficulty": 1
+    },
+    {
+      "name": "The Subway Station",
+      "description": "Reach The Subway Station",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/c82a1c24b75df3e5625bb1f7b1a68d399dd884a1.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "THESUBWAYSTATION_ACHIEVEMENT",
+      "getglobalpercentage": 62.5,
+      "difficulty": 1
+    },
+    {
+      "name": "The City",
+      "description": "Reach The City",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/39346244c6063aebd670877fd26b288920ca20c0.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "THECITY_ACHIEVEMENT",
+      "getglobalpercentage": 52.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Over The Buildings",
+      "description": "Reach The Rooftops",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/759cf7badac1aba132275e696e5043e0f90fe7b8.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "OVERTHEBUILDINGS_ACHIEVEMENT",
+      "getglobalpercentage": 44.9,
+      "difficulty": 2
+    },
+    {
+      "name": "The Warehouse",
+      "description": "Reach The Warehouse",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/0e9a3b8373c40f3308cf967e567d8e03580d0c90.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "THEWAREHOUSE_ACHIEVEMENT",
+      "getglobalpercentage": 42.2,
+      "difficulty": 2
+    },
+    {
+      "name": "The Harbor",
+      "description": "Reach The Harbor",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/a51d7847e71e25e278c99042e0ba18b76bc9ac73.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "THEHARBOR_ACHIEVEMENT",
+      "getglobalpercentage": 40.2,
+      "difficulty": 2
+    },
+    {
+      "name": "The Temple",
+      "description": "Reach The Temple",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/3831383341a97fee67683d91c250ba2cdb88271b.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "THETEMPLE_ACHIEVEMENT",
+      "getglobalpercentage": 33.8,
+      "difficulty": 2
+    },
+    {
+      "name": "The Asian Shrine",
+      "description": "Reach The Asian Shrine",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/1d076650cdc26bc911a55402cd295965118c0654.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "THEASIANSHRINE_ACHIEVEMENT",
+      "getglobalpercentage": 33.2,
+      "difficulty": 2
+    },
+    {
+      "name": "The Deities",
+      "description": "Reach The Deities",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/a60baab4dc9397c75e47d4fbc2b2c2dbba00da70.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "THEDEITIES_ACHIEVEMENT",
+      "getglobalpercentage": 30.1,
+      "difficulty": 2
+    },
+    {
+      "name": "The Garden",
+      "description": "Reach The Garden",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2567870/58f33de0e2d43b8925c26934e758a51596fa259e.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "THEGARDEN_ACHIEVEMENT",
+      "getglobalpercentage": 27.6,
+      "difficulty": 2
+    }
+  ]
+}

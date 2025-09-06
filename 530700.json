@@ -1,0 +1,9 @@
+{
+  "name": "Project Argo (Prototype)",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 530700,
+  "achievements": []
+}

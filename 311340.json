@@ -1,0 +1,186 @@
+{
+  "name": "",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 311340,
+  "achievements": [
+    {
+      "name": "Downfall",
+      "description": "Clear the \"Ground Zeroes\" mission",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/814b58ecb92f12cd5ba1c0c67b2d99410db89d9e.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_PAZ_RESCUE",
+      "getglobalpercentage": 65.4,
+      "difficulty": 1
+    },
+    {
+      "name": "Reunion",
+      "description": "Reunite with Chico or Paz",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/0bebb7a00d65364a90ab7e77174a743b14607a60.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "TROPHY_CHALLENGE_CONTACT_CHICO_PAZ",
+      "getglobalpercentage": 76.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Genesis",
+      "description": "Clear a Side Op or Extra Op",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/4ace84103dbe2e5c24a172a26ced4548f0a3045a.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_SIDE_OPS",
+      "getglobalpercentage": 34.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Accomplished",
+      "description": "Clear all missions (including Side Ops and Extra Ops)",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/655f7404b4725e7ba575a745432aca86668a007a.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_ALL_MISSION",
+      "getglobalpercentage": 8.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Skilled",
+      "description": "Clear any mission (including Side Ops and Extra Ops) with a S-rank",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/74b00cec32ae4f865ea6f495e5561d3370acd3de.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_RANKS",
+      "getglobalpercentage": 11.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Hero",
+      "description": "Clear all missions (including Side Ops and Extra Ops) with a S-rank",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/2c1416d3b91e028def9ee07123d56e8f853142fb.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_RANKS_ALL",
+      "getglobalpercentage": 4.4,
+      "difficulty": 4
+    },
+    {
+      "name": "Rescue",
+      "description": "In the \"Ground Zeroes\" mission, rescue the prisoner to be executed and extract him via chopper",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/87880c32f713b997b9876aa8b3ae7cbf67fd165c.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "TROPHY_RESCUE_EXECUTED_HOSTAGE",
+      "getglobalpercentage": 12.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Depth",
+      "description": "Clear the \"Eliminate the Renegade Threat\" Side Op by extracting both targets",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/faa63ed700232d8c9e970ee4528348e20e576295.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "TROPHY_RESCUE_TWO_VIP",
+      "getglobalpercentage": 9.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Pacifist",
+      "description": "Clear the \"Intel Operative Rescue\" Side Op without killing a single enemy",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/cb4b5e2eb95798ee9fa84079c63f1852dc8ccbe7.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_NO_KILL",
+      "getglobalpercentage": 5.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Infiltration",
+      "description": "Clear the \"Classified Intel Acquisition\" Side Op while riding in the back of a truck",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/bc32a2c8d149357e688560c53a137c107417ec5e.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_ON_TRUCK",
+      "getglobalpercentage": 6.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Extraction",
+      "description": "In the \"Destroy the Anti-Air Emplacements\" Side Op, rescue and extract all prisoners via chopper",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/8ec37b15175809f714c8539dc5103a6b77bf9175.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "TROPHY_RESCUE_ALL_HOSTAGE",
+      "getglobalpercentage": 6.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Reminiscence",
+      "description": "Recreate all scenes in the \"Déjà-Vu\" Extra Op",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/c0ee7c274b871c277e6b514ab06bd2f0a3d67504.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_ALL_FLASH_BACK",
+      "getglobalpercentage": 9.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Hidden",
+      "description": "Clear the \"Jamais Vu\" Extra Op with 0 enemy combat statuses",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/e1860e1d84fa70a66c7bbb5656c34f126fce3a48.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "TROPHY_CLEAR_JAMAIS_VU",
+      "getglobalpercentage": 5.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlocked",
+      "description": "Unlock all trials",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/a81b8ee1a57937991f574a2fd8d1dd23c584d071.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "TROPHY_CHALLENGE_ACHIEVE",
+      "getglobalpercentage": 3.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Information",
+      "description": "Obtain all cassette tapes",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/7593c50dc331c3d3f1623b072e156d6f68218bd3.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "TROPHY_OBTAIN_ALL_TAPES",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Insignia",
+      "description": "Obtain all XOF unit patches",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311340/7dfdc7603fff2199f290d3270c83856c899db01e.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "TROPHY_OBTAIN_ALL_XOF",
+      "getglobalpercentage": 12.8,
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Keep Talking and Nobody Explodes",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 341800,
+  "achievements": [
+    {
+      "name": "Action Hero",
+      "description": "Defuse \"The First Bomb\".",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/6d5da645f8b57eecd4deae1535aa8d0db9c872fd.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "firstbomb",
+      "getglobalpercentage": 88.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Bomb Defusing 101",
+      "description": "Defuse all bombs in \"The Basics\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/9b23b4a518a2fe60a29ba4ad64217e3c05450a81.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "allthebasics",
+      "getglobalpercentage": 55.8,
+      "difficulty": 1
+    },
+    {
+      "name": "All in Moderation",
+      "description": "Defuse all bombs in the \"Moderate\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/e52091f8d5f53260889c35673efafd6de3f4e8a0.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "allmoderate",
+      "getglobalpercentage": 19.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Multitasker",
+      "description": "Defuse all bombs in the \"Needy\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/45ae972ab2ff3b4095baf41c37249d76f0f3cfee.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "allneedy",
+      "getglobalpercentage": 12.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Challenge Accepted",
+      "description": "Defuse all bombs in the \"Challenging\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/30673a0ef144ebf3ff78320b7308c1e5f75f63cb.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "allchallenging",
+      "getglobalpercentage": 4.4,
+      "difficulty": 4
+    },
+    {
+      "name": "To the Extreme!",
+      "description": "Defuse all bombs in the \"Extreme\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/b5c6f769344c58efe986ccafa5f86a5da37df111.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "allextreme",
+      "getglobalpercentage": 1.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Seasoned Traveller",
+      "description": "Defuse all bombs in the \"Exotic\" section.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/00f7b7da80563b8f89c581805bedde15a372a57b.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "allexotic",
+      "getglobalpercentage": 0.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Experience is the Best Teacher",
+      "description": "Disarm each type of module at least once.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/ac0f40573c5b9c833664dab13cef430fe9abbe02.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "disarmeachmodule",
+      "getglobalpercentage": 30.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Trust the Expert",
+      "description": "Disarm 100 modules.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/caf8018445790ca17db05567cece506991f6147e.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "100modulesdisarmed",
+      "getglobalpercentage": 26.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Bomb Squad",
+      "description": "Defuse 100 bombs.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/341800/60be72b0ec3ee7989030c76a72b162d5021a61b4.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "100defused",
+      "getglobalpercentage": 1.1,
+      "difficulty": 4
+    }
+  ]
+}

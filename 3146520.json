@@ -1,0 +1,186 @@
+{
+  "name": "WEBFISHING",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 3146520,
+  "achievements": [
+    {
+      "name": "First Steps",
+      "description": "Catch a fish!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/69f7e439b882a7b8539388f16f024f0e543aaedb.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "catch_single_fish",
+      "getglobalpercentage": 97.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Fishing Expert",
+      "description": "Catch 100 fish!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/f568325338b1a933a68b84b9559f72ac1b5303b7.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "catch_100_fish",
+      "getglobalpercentage": 67.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Spectral Secret",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/e330999a8058b224ea72502ae22d331e1f611b88.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "spectral_rod",
+      "getglobalpercentage": 39.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Journal Full!",
+      "description": "Catch all fish in NORMAL quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/86aef5e14cb9353e07d3b2eb6d255530c267062c.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "journal_normal",
+      "getglobalpercentage": 1.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Shining Journal Full!",
+      "description": "Catch all fish in SHINING quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/fc687c78fefe17fa582884133c275e9ea2c7d316.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "journal_shining",
+      "getglobalpercentage": 0.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Glistening Journal Full!",
+      "description": "Catch all fish in GLISTENING quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/1f0f13214314218dd87e045c62377b7938b7f04c.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "journal_glistening",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Opulent Journal Full!",
+      "description": "Catch all fish in OPULENT quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/9dd970c8f32b4f154408f2096b347f59b2ac5e65.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "journal_opulent",
+      "getglobalpercentage": 1.2,
+      "difficulty": 4
+    },
+    {
+      "name": "Radiant Journal Full!",
+      "description": "Catch all fish in RADIANT quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/bb71f5aaea518c37aa2f134ba6e73ca35c43f645.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "journal_radiant",
+      "getglobalpercentage": 1.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Alpha Journal Full!",
+      "description": "Catch all fish in ALPHA quality!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/e2f12cd6271043654f5681d79d07d4358121f48d.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "journal_alpha",
+      "getglobalpercentage": 0.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Big Wallet",
+      "description": "Have $10,000 in your pocket at the same time.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/7dd56a478ad46328ad48a952ad041ab0670f7b96.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "10k_cash",
+      "getglobalpercentage": 32.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Known Camper",
+      "description": "Increase your Camp Tier to 2",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/5c2cb50b675b67621b292c71db603e617d880d78.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "camp_tier_2",
+      "getglobalpercentage": 73.2,
+      "difficulty": 1
+    },
+    {
+      "name": "Memorable Camper",
+      "description": "Increase your Camp Tier to 3",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/5a7bb20deef35c01e0d46534028cc994d247ff55.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "camp_tier_3",
+      "getglobalpercentage": 50.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Favorite Camper",
+      "description": "Increase your Camp Tier to 4",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/a6ddaa2cd703b19cfc8c8c7f5af9163e983951ce.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "camp_tier_4",
+      "getglobalpercentage": 28.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Tenderfoot",
+      "description": "Reach Rank 5",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/60e3e3dad416f4216929f7e606308a8fec18eba3.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "rank_5",
+      "getglobalpercentage": 85.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Life Scout",
+      "description": "Reach Rank 25",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/93b4fe61ff4cb43e0be1fa1052bd4b0aa9ab48aa.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "rank_25",
+      "getglobalpercentage": 27.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Voyager",
+      "description": "Reach Rank 50",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3146520/ea182c79554bae23dab3a6d6e2bcf5aa11fa2955.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "rank_50",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    }
+  ]
+}

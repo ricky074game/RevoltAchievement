@@ -1,0 +1,230 @@
+{
+  "name": "Yu-Gi-Oh! Duel Links",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 601510,
+  "achievements": [
+    {
+      "name": "Ultimate Duelist",
+      "description": "Earn all achievements.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/30db853c1c180867d54fa83ab7a53fccf0532876.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "YgomAchievements001",
+      "getglobalpercentage": 3.0,
+      "difficulty": 4
+    },
+    {
+      "name": "Novice Duelist",
+      "description": "Win 5 Duels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/9f91d752229f9c37d8e38d2e44b351b351c95430.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "YgomAchievements002",
+      "getglobalpercentage": 49.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Fledgling Duelist",
+      "description": "Win 30 Duels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/dbe8b94e264648037711ba7d083a0f1f5ddfc0ab.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "YgomAchievements003",
+      "getglobalpercentage": 36.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Mid-Tier Duelist",
+      "description": "Win 50 Duels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/73f3e64d292d870b50d29f9bf88aba9c0df9672e.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "YgomAchievements004",
+      "getglobalpercentage": 33.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Advanced Duelist",
+      "description": "Win 100 Duels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/9afd9823a4ec11d5e792fef6c6c8cf8602934177.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "YgomAchievements005",
+      "getglobalpercentage": 28.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Duel King",
+      "description": "Win 300 Duels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/b9dd247ebe8b66c131a770a313494ebd0107d5bd.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "YgomAchievements006",
+      "getglobalpercentage": 20.8,
+      "difficulty": 2
+    },
+    {
+      "name": "Duelist Awakened",
+      "description": "Reach Stage 3.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/6eaac7678573366f917c42ac620163d2e61d4394.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "YgomAchievements007",
+      "getglobalpercentage": 67.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Single Novice",
+      "description": "Reach Stage 10.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/ec22ae62a218c13f300f0906c65ff7dd9ff0d938.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "YgomAchievements008",
+      "getglobalpercentage": 30.5,
+      "difficulty": 2
+    },
+    {
+      "name": "Single Duelist",
+      "description": "Reach Stage 20.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/969737d01874c7348f0babd933a528415e4d710e.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "YgomAchievements009",
+      "getglobalpercentage": 17.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Ultra Single Duelist",
+      "description": "Reach Stage 50.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/65d1f4ee6989f91c410e1c2a363bf95152b45dc3.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "YgomAchievements010",
+      "getglobalpercentage": 3.7,
+      "difficulty": 4
+    },
+    {
+      "name": "Damage Dealer",
+      "description": "Inflict a total of 1 million points of damage.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/b7d8f664add4b4dd486bfa971d9e1389c8dd7b3c.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "YgomAchievements011",
+      "getglobalpercentage": 24.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Rare Collector",
+      "description": "Collect 10 Prismatic Cards.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/68885111b587aaa34771bfc15348cce8f5418151.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "YgomAchievements012",
+      "getglobalpercentage": 24.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Super Rare Collector",
+      "description": "Collect 100 Prismatic Cards.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/03a17c1672cb9ad47636b488c3110ba019e9bcb9.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "YgomAchievements013",
+      "getglobalpercentage": 6.4,
+      "difficulty": 3
+    },
+    {
+      "name": "PvP Novice",
+      "description": "Win 30 PvP matches.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/2d85d4fcee62504dd4a2fd7aa2547f43e9671771.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "YgomAchievements014",
+      "getglobalpercentage": 21.2,
+      "difficulty": 2
+    },
+    {
+      "name": "PvP Duelist",
+      "description": "Win 100 PvP matches.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/42dc534136387db6f60c5a9aace3dd3cf85c9254.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "YgomAchievements015",
+      "getglobalpercentage": 14.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Card Collector",
+      "description": "Collect 300 types of cards.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/cc9fdf1d8bd52c7c6dd993c4339daf43ebb7650d.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "YgomAchievements016",
+      "getglobalpercentage": 31.2,
+      "difficulty": 2
+    },
+    {
+      "name": "Master of Destruction",
+      "description": "Destroy a total of 100 monsters.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/46dcee4b5cd65ef91bdd30ef78b212210389d234.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "YgomAchievements017",
+      "getglobalpercentage": 35.9,
+      "difficulty": 2
+    },
+    {
+      "name": "God of Destruction",
+      "description": "Destroy a total of 1000 monsters.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/e0bd91688b128ec5ef7ac48a8f1709992c3768ac.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "YgomAchievements018",
+      "getglobalpercentage": 20.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Summoner",
+      "description": "Successfully Summon a total of 100 monsters.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/bb4bfc979076ba8840ece1908c7e90b0559b6103.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "YgomAchievements019",
+      "getglobalpercentage": 37.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Creator God",
+      "description": "Successfully Summon a total of 1000 monsters.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601510/d3e9a9b7f6fcdaf779f49618af2007599b3264db.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "YgomAchievements020",
+      "getglobalpercentage": 21.4,
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Kingdoms and Castles",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 569480,
+  "achievements": [
+    {
+      "name": "Your First Hamlet",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/41485a81ab84aa317b20715b1ac43531aeb35516.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "first_hamlet",
+      "getglobalpercentage": 96.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Your First Village",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/2326c6f412b0b788f386f256c0fb5f76f1edc553.jpg",
+      "hidden": 1,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "first_village",
+      "getglobalpercentage": 86.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Your First Town",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/d70cfd8fe5639b76c9677db0132c5f95980e0726.jpg",
+      "hidden": 1,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "first_town",
+      "getglobalpercentage": 75.4,
+      "difficulty": 1
+    },
+    {
+      "name": "Your First City",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/d9faf22636a9da2a312cbbcd1fceb3b9a75f0946.jpg",
+      "hidden": 1,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "first_city",
+      "getglobalpercentage": 61.7,
+      "difficulty": 1
+    },
+    {
+      "name": "Humble Kingdom",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/a7b84cb871c63ac79f25370cdaa8a52295bdd046.jpg",
+      "hidden": 1,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "first_humblekingdom",
+      "getglobalpercentage": 29.3,
+      "difficulty": 2
+    },
+    {
+      "name": "Thriving Kingdom",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/0f6b8584b397f68938bce5eaafce814eaeb335a1.jpg",
+      "hidden": 1,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "first_thrivingkingdom",
+      "getglobalpercentage": 18.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Dignified Kingdom",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/163bea95b4508e001334bad07d5db7fafb6119ec.jpg",
+      "hidden": 1,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "first_dignifiedkingdom",
+      "getglobalpercentage": 12.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Magnificent Kingdom",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/cd6ecdd2bfe24325037823de55b2a41d3b5ea749.jpg",
+      "hidden": 1,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "first_magnificentkingdom",
+      "getglobalpercentage": 5.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Kingdom of the Gods",
+      "description": "",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/fe3602c935314c350b585ff563c2bd065ee84ff6.jpg",
+      "hidden": 1,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "first_kingdomofthegods",
+      "getglobalpercentage": 3.8,
+      "difficulty": 4
+    },
+    {
+      "name": "Tower of Babel",
+      "description": "Built a tower reaching for the heavens.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/732e27333835139bf92fcac88c27475d9dd2f9f1.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "towerofbabel",
+      "getglobalpercentage": 13.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Slayer of Dragons",
+      "description": "Dragons are no match for your might.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/cbd3c7aaef9cc378f60e2b07271472f6b103114b.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "first_dragonkill",
+      "getglobalpercentage": 48.9,
+      "difficulty": 2
+    },
+    {
+      "name": "Slayer of Ogres",
+      "description": "Ogres cannot match the strength of your kingdom.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/569480/674d562b5c3725353032028d780ffd50b8191a14.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "first_ogrekill",
+      "getglobalpercentage": 39.1,
+      "difficulty": 2
+    }
+  ]
+}

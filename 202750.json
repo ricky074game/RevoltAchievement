@@ -1,0 +1,142 @@
+{
+  "name": "ValveTestApp202750",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 202750,
+  "achievements": [
+    {
+      "name": "Escape the Taken to the motel.",
+      "description": "You reached the relative safety of the motel.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/a4bd45dd00c137b61b8b5fcb65fd44138fc0a8f7.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "1",
+      "getglobalpercentage": 78.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Rewrite reality for the first time.",
+      "description": "You rewrote reality and brought down the satellite.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/f49c3cd08873c0f930c2c55a63fdf84b4d27e471.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "2",
+      "getglobalpercentage": 67.6,
+      "difficulty": 1
+    },
+    {
+      "name": "Make sure Dr. Meadows can take another look at the skies.",
+      "description": "You secured the coolant tanks at the observatory.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/af6fd48dd7bd96044a989c26b128c24f79592199.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "3",
+      "getglobalpercentage": 43.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Rewrite reality for the last time.",
+      "description": "You used Mr. Scratch’s own trap to destroy him.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/2de03cd86d88496d33ed1a5a710bd914b80b5cef.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "4",
+      "getglobalpercentage": 40.1,
+      "difficulty": 2
+    },
+    {
+      "name": "Survive until dawn in any Arcade Mode level.",
+      "description": "You made it through the night and enjoyed a nice sunrise in one of the Arcade levels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/012d7f99782e891297ebc9fd42e664a0d0446e65.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "5",
+      "getglobalpercentage": 19.1,
+      "difficulty": 3
+    },
+    {
+      "name": "Get a six-minute survivor streak and over 100,000 points in an Arcade level.",
+      "description": "You got a six-minute survivor streak and over 100,000 points in an Arcade level.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/48efd2ec458cb0dbf173e40115e62a35f56c94f5.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "6",
+      "getglobalpercentage": 5.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Unlock all of the Nightmare Arcade Mode levels.",
+      "description": "You have unlocked all of the Nightmare Arcade Mode levels.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/f40e92e5b4c437565f73556b7ae91037108fe3fc.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "7",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Survive an Arcade level using nothing but the flashlight and handheld flares.",
+      "description": "You survived an Arcade level using nothing but the flashlight and handheld flares.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/f05b1f47c9e20c6b0fce10d0f336b3a53ea5d6a3.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "8",
+      "getglobalpercentage": 7.5,
+      "difficulty": 3
+    },
+    {
+      "name": "Get 70,000 points in any Nightmare Arcade level.",
+      "description": "You got 70,000 points in a Nightmare Arcade level.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/31e722fec56a18a985d556493a886837bc250397.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "9",
+      "getglobalpercentage": 5.7,
+      "difficulty": 3
+    },
+    {
+      "name": "Take out two Splitter spawns with a single shot.",
+      "description": "You took out two Splitter spawns with a single shot.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/191be088b68a36417df049d2d262188ccd7aecd8.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "10",
+      "getglobalpercentage": 29.0,
+      "difficulty": 2
+    },
+    {
+      "name": "Find all of the manuscript pages.",
+      "description": "You got every manuscript page in the game.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/e968f1cd905303bdb2b1fab61120a6d5bb49d024.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "11",
+      "getglobalpercentage": 11.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Defeat 2,000 Taken.",
+      "description": "You have defeated 2,000 Taken.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/202750/9830142466a14e11e8dc7f29793a85f3cda7ca5d.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "12",
+      "getglobalpercentage": 5.8,
+      "difficulty": 3
+    }
+  ]
+}

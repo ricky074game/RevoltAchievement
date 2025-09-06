@@ -1,0 +1,153 @@
+{
+  "name": "Half-Life 2: Episode One",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 380,
+  "achievements": [
+    {
+      "name": "Watch Your Head!",
+      "description": "Make it to the bottom of the Citadel's main elevator shaft in one piece.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_mainelevator.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_MAINELEVATOR",
+      "getglobalpercentage": 62.5,
+      "difficulty": 1
+    },
+    {
+      "name": "Containment",
+      "description": "Contain the Citadel core.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_citadelcore.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_CITADELCORE",
+      "getglobalpercentage": 60.2,
+      "difficulty": 1
+    },
+    {
+      "name": "Pacifist",
+      "description": "Contain the Citadel core without killing any stalkers.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_citadelcore_nostalkerkills.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_CITADELCORE_NOSTALKERKILLS",
+      "getglobalpercentage": 10.8,
+      "difficulty": 3
+    },
+    {
+      "name": "Car Crusher",
+      "description": "Use the cars to squash 15 antlions in Episode One.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_kill_antlions_withcars.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "EP1_KILL_ANTLIONS_WITHCARS",
+      "getglobalpercentage": 15.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Elevator Action",
+      "description": "Survive long enough to get on the parking garage elevator.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_garageelevatorstandoff.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_GARAGEELEVATORSTANDOFF",
+      "getglobalpercentage": 54.1,
+      "difficulty": 1
+    },
+    {
+      "name": "Live Bait",
+      "description": "Help Alyx snipe 30 enemies in Episode One.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_kill_enemies_withsniperalyx.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "EP1_KILL_ENEMIES_WITHSNIPERALYX",
+      "getglobalpercentage": 28.7,
+      "difficulty": 2
+    },
+    {
+      "name": "Attica!",
+      "description": "Destroy the gunship in the hospital attic.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_hospitalatticgunship.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_HOSPITALATTICGUNSHIP",
+      "getglobalpercentage": 51.3,
+      "difficulty": 1
+    },
+    {
+      "name": "Citizen Escort",
+      "description": "Don't let any citizens die when escorting them to the escape train.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_citizenescort_nocitizendeaths.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_CITIZENESCORT_NOCITIZENDEATHS",
+      "getglobalpercentage": 32.4,
+      "difficulty": 2
+    },
+    {
+      "name": "Escape From City 17",
+      "description": "Escape City 17 with Alyx.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_game.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_GAME",
+      "getglobalpercentage": 48.6,
+      "difficulty": 2
+    },
+    {
+      "name": "The One Free Bullet",
+      "description": "Finish the game firing exactly one bullet. Grenade, crowbar, rocket, and Gravity Gun kills are okay!",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/ep1_beat_game_onebullet.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "EP1_BEAT_GAME_ONEBULLET",
+      "getglobalpercentage": 9.3,
+      "difficulty": 3
+    },
+    {
+      "name": "Conservationist",
+      "description": "Kill five enemies with the same energy ball.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/hlx_kill_enemies_withoneenergyball.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "HLX_KILL_ENEMIES_WITHONEENERGYBALL",
+      "getglobalpercentage": 10.4,
+      "difficulty": 3
+    },
+    {
+      "name": "Think Fast!",
+      "description": "Kill an Elite Soldier with his own energy ball.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/hlx_kill_elitesoldier_withhisenergyball.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "HLX_KILL_ELITESOLDIER_WITHHISENERGYBALL",
+      "getglobalpercentage": 26.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Zombie-que",
+      "description": "Use flares to light 15 zombies on fire.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380/epx_kill_zombies_withflares.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "EPX_KILL_ZOMBIES_WITHFLARES",
+      "getglobalpercentage": 8.8,
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "name": "Fistful of Frags",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 265630,
+  "achievements": [
+    {
+      "name": "Frag Robber",
+      "description": "Kill some enemies severely injured by another player, while that player is still close to the victim",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/3520c5b490ddec46ef6d6fd7b4adc3e8fcd7a763.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_FRAG_ROBBER",
+      "getglobalpercentage": 26.6,
+      "difficulty": 2
+    },
+    {
+      "name": "Robin Hood",
+      "description": "Make headshots with bow from long range",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/4917c654d2cd74c20682630bfac9e93981587eac.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_ROBIN_HOOD",
+      "getglobalpercentage": 2.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Kick their asses",
+      "description": "Kick some enemies into water, fire or a large fall",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/624d080d068ef756c684865dd2143772b5b6dc5a.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_HURT_PRIDE",
+      "getglobalpercentage": 4.5,
+      "difficulty": 4
+    },
+    {
+      "name": "Dutch Courage",
+      "description": "Kill some enemies while being under whiskey's effect",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/6adf60e59513ccb4f62162782a1b66c8d6e8c845.jpg",
+      "hidden": 0,
+      "id": 3,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DUTCH_COURAGE",
+      "getglobalpercentage": 12.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Defuser",
+      "description": "Pick lit dynamite sticks thrown by other players",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/416e85f2842c81fe7f3c5b3d108aecd04800e45e.jpg",
+      "hidden": 0,
+      "id": 4,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DEFUSER",
+      "getglobalpercentage": 2.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Best Friends",
+      "description": "Kill a few Steam friends with bare hands",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/33c083590260b033ac484312ed24417c05589446.jpg",
+      "hidden": 0,
+      "id": 5,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_TRAITOR",
+      "getglobalpercentage": 5.3,
+      "difficulty": 3
+    },
+    {
+      "name": "More Dead Than Alive",
+      "description": "Get some frags while your health is lower than 15 HP ",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/cc76ef5531640e05ae74f9c92f6d39be3205992c.jpg",
+      "hidden": 0,
+      "id": 6,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DEAD_THAN_ALIVE",
+      "getglobalpercentage": 16.1,
+      "difficulty": 3
+    },
+    {
+      "name": "A Fistful of Dynamite",
+      "description": "Get some kills with explosive chain reaction effect (their own dynamite kills them)",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/955aacdb269f0a124c309fc6a77d3727dd88b977.jpg",
+      "hidden": 0,
+      "id": 7,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_CHAIN_REACTION",
+      "getglobalpercentage": 2.6,
+      "difficulty": 4
+    },
+    {
+      "name": "The Unforgiven",
+      "description": "Kill enemies ending their streak of 7 or more kills",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/bad3662e24f7b0259e112f0cab14cfdd7a811e86.jpg",
+      "hidden": 0,
+      "id": 8,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_UNFORGIVEN",
+      "getglobalpercentage": 5.6,
+      "difficulty": 3
+    },
+    {
+      "name": "Detonator",
+      "description": "Get some kills shooting at a lit dynamite",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/708f94499523dc9b8664df9d5728a4a94a9d6237.jpg",
+      "hidden": 0,
+      "id": 9,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_DETONATOR",
+      "getglobalpercentage": 2.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Overweighted",
+      "description": "Kill enemies while reaching 100% overencumber due weapon accumulation",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/d5f6e66316983406e89f7b9df0617ebb205be34e.jpg",
+      "hidden": 0,
+      "id": 10,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_OVERWEIGHTED",
+      "getglobalpercentage": 4.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Overpowered",
+      "description": "Kill enemies with dual Colt Walkers",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/5718f822517088b498d3028aa1765429f6852ca3.jpg",
+      "hidden": 0,
+      "id": 11,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_OVERPOWERED",
+      "getglobalpercentage": 3.2,
+      "difficulty": 4
+    },
+    {
+      "name": "My Name is Nobody ",
+      "description": "Your first kill in a game among other human players",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/40d4858d02d1d846b28df7cd1ad2119dc7ed2533.jpg",
+      "hidden": 0,
+      "id": 12,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_NOBODY",
+      "getglobalpercentage": 72.8,
+      "difficulty": 1
+    },
+    {
+      "name": "Level: Rancher",
+      "description": "Complete 25 games",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/6f4a72451c281c25853a9a70609ffbf26d97a8ed.jpg",
+      "hidden": 0,
+      "id": 13,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_RANCHER",
+      "getglobalpercentage": 12.9,
+      "difficulty": 3
+    },
+    {
+      "name": "Level: Gunfighter",
+      "description": "Complete 100 games",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/79f1590707f891493b410344823d287d72e3da77.jpg",
+      "hidden": 0,
+      "id": 14,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_GUNFIGHTER",
+      "getglobalpercentage": 3.9,
+      "difficulty": 4
+    },
+    {
+      "name": "Level: Legend",
+      "description": "Complete 500 games",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/bcbbb5799d41cb9e13c6349312887bc831490587.jpg",
+      "hidden": 0,
+      "id": 15,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_LEGEND",
+      "getglobalpercentage": 2.1,
+      "difficulty": 4
+    },
+    {
+      "name": "Hat-Shooter",
+      "description": "Drop 15 enemy player's hat by shooting over their heads",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/07929380fec443759637f45d23aacd821b095bd9.jpg",
+      "hidden": 0,
+      "id": 16,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_HATSHOT",
+      "getglobalpercentage": 12.0,
+      "difficulty": 3
+    },
+    {
+      "name": "Certified mobile cannon operator",
+      "description": "Complete the mobile cannon tutorial",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/e5c89068fca356f228f5dfb7450183d7ec761a78.jpg",
+      "hidden": 0,
+      "id": 17,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_MOBILE_CANNON_OPERATOR2",
+      "getglobalpercentage": 0.6,
+      "difficulty": 4
+    },
+    {
+      "name": "Sliding killer",
+      "description": "Kill 25 enemies while sliding",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/72db85f21d36822003dae80d435e896d6db23f54.jpg",
+      "hidden": 0,
+      "id": 18,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_SLIDING_KILLER",
+      "getglobalpercentage": 0.3,
+      "difficulty": 4
+    },
+    {
+      "name": "Bouncing around",
+      "description": "Kill 25 enemies by kick right after wall-jumping",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265630/ec0ddb54e122061eb42b34f97e9786683c49895f.jpg",
+      "hidden": 0,
+      "id": 19,
+      "unlocked": false,
+      "apiName": "ACHIEVEMENT_BOUNCING_AROUND",
+      "getglobalpercentage": 0.2,
+      "difficulty": 4
+    }
+  ]
+}

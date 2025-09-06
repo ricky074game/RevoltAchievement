@@ -1,0 +1,43 @@
+{
+  "name": "Getting Over It with Bennett Foddy",
+  "platform": "Steam",
+  "imageUrl": "",
+  "description": "",
+  "method": "Steam API",
+  "appid": 240720,
+  "achievements": [
+    {
+      "name": "Got Over It.",
+      "description": "You reached the top of the mountain.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/240720/f1b4b5f87784979773388b030c592d8f3746333b.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ASCENDED_ONCE",
+      "getglobalpercentage": 9.2,
+      "difficulty": 3
+    },
+    {
+      "name": "Got Over It, For Real This Time.",
+      "description": "Reached the top of the mountain twice.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/240720/b80331096aee2038cb89bbd98f184d15ebaae1c5.jpg",
+      "hidden": 0,
+      "id": 1,
+      "unlocked": false,
+      "apiName": "ASCENDED_TWICE",
+      "getglobalpercentage": 6.7,
+      "difficulty": 3
+    },
+    {
+      "name": "So Over It.",
+      "description": "Reached the top of the mountain fifty times.",
+      "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/240720/e6294887b1b99abcc6fc1a0c76bedea763ac64a8.jpg",
+      "hidden": 0,
+      "id": 2,
+      "unlocked": false,
+      "apiName": "ASCENDED_LOTS",
+      "getglobalpercentage": 2.6,
+      "difficulty": 4
+    }
+  ]
+}
