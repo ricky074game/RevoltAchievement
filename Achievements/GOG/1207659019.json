@@ -1,0 +1,230 @@
+{
+  "name": "The Whispered World: Special Edition",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1207659019,
+  "achievements": [
+    {
+      "name": "Ball Spot",
+      "description": "Learn the Ball Spot Form!",
+      "imageUrl": "https://images.gog.com/9b3b13c087a3779f17930a645ee2a56eff2d54f39c0250a1ec40d65768d1d66d_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_1",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "He\u0027s never gonna learn...",
+      "description": "If Sadwick will ever find the right way to Shana?",
+      "imageUrl": "https://images.gog.com/2b64c22df12bf4a8f92ba691bc5202368921e73e36e1aed44c085dda8e0c4a97_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_10",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Check Mate",
+      "description": "Solve the chess puzzle without skipping.",
+      "imageUrl": "https://images.gog.com/1da64c85219d5bb40d6e3a2e082e3e43db2110ff0aa47ab3c42b031738fa41fb_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_11",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Tubelicious!",
+      "description": "Solve the tube puzzle without skipping.",
+      "imageUrl": "https://images.gog.com/cf1d7bb482784efecc580e457a51908f142d2696a8b31f4cf9a8385cc4453bd4_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_12",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Shove Off!",
+      "description": "Solve the slider puzzle without skipping.",
+      "imageUrl": "https://images.gog.com/19d4880c1087b384f9fba2a2c92c85bde69c724d735c527f7757eeff5b8150ab_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_13",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Saving Time",
+      "description": "I don\u0027t like minigames!",
+      "imageUrl": "https://images.gog.com/5aa86ddbbc57864d14f36333d7d827c9d594e376c5313800cf263781ebd235c4_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_14",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Master of Disguise",
+      "description": "How often do you have to transform spot?!",
+      "imageUrl": "https://images.gog.com/f8ecbd0eb9d47d9fbabd3fb396e65336f77e08caed2d2b555c565b107a7fb522_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_15",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Walkthrough User",
+      "description": "Directly open the door.",
+      "imageUrl": "https://images.gog.com/ccb05cdc7a6dba798b0bd514200b0d4ee4bdd64601476ac8f6df4fdbfc12a5cb_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_16",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Master of the Spot Parcours",
+      "description": "This is the optimal solution.",
+      "imageUrl": "https://images.gog.com/88c6e48e2f908c80607ac0d86bb5e28834f473ccb97e426ccad782097b08845f_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_17",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Dinner is (almost) Ready!",
+      "description": "There still isn\u0027t any soup!",
+      "imageUrl": "https://images.gog.com/4be0f30c04e38361b454914f454d576f36232cb4b079bac8cc8db2b9acf6f480_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_18",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Honking Shoes",
+      "description": "Unlock the secret honking-shoe-mode!",
+      "imageUrl": "https://images.gog.com/077f3b0eb69ebfd8ffd0f91bd29a1ede79d80b1d12e1964a4773826e610bab6a_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_19",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Fire Spot",
+      "description": "Learn the Fire Spot Form!",
+      "imageUrl": "https://images.gog.com/f806e37de91f84cbdfbc9b851cfc0bc3c4befbe2b203acfadd7da937f1c39950_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_2",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Mirror, Mirror...",
+      "description": "There must be an alternative ending!",
+      "imageUrl": "https://images.gog.com/b19488bbf2b0414f84203003579ea632c410f9ee3871e8b12f07f58328143e23_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_20",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Five Spot",
+      "description": "Learn the Five Spot Form!",
+      "imageUrl": "https://images.gog.com/bc4726644130a5e3bad389c60a8465a7b42e072c55829768611262e925b04885_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_3",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Leaf Spot",
+      "description": "Learn the Leaf Spot Form!",
+      "imageUrl": "https://images.gog.com/2cca4086aba6fc0292173e5c1312590b3aee4d9ab0f77cfbd871f197780f935d_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_4",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Canonball Ride",
+      "description": "Finish Chapter 1!",
+      "imageUrl": "https://images.gog.com/fd6c9e8c80168400d311b23326a8e02b8f4b77bce1a594aaf525ef1a5aabb70d_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_5",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Kalida Awakes",
+      "description": "Finish Chapter 2!",
+      "imageUrl": "https://images.gog.com/60e0f5d217c55a195af94c3aa63c566889c1944db0c24b5447b17c42a5ee99ac_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_6",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Train to Corona",
+      "description": "Finish Chapter 3!",
+      "imageUrl": "https://images.gog.com/ec4d367cc67a500ae488a483761b6dcc004a20934e3e6acc611af73a2d3ab16c_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_7",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Boy in the Mirror",
+      "description": "Finish Chapter 4!",
+      "imageUrl": "https://images.gog.com/4dc9cacce5ff9aeb3fa26fe50a8afa93397bbd14d1eb04fdf2ab5763533836ee_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_8",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "For Whom the Bell Tolls",
+      "description": "Figure out the correct time on your own!",
+      "imageUrl": "https://images.gog.com/af1408e8617e54ef8fdbd439afb790f13a02200d74cce286d3a627786186a1ae_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "tww_achievement_9",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

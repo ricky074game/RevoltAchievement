@@ -1,0 +1,230 @@
+{
+  "name": "Ghost of a Tale",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1875167847,
+  "achievements": [
+    {
+      "name": "The Golden Suit",
+      "description": "Complete the full set of Duinlan\u0027s armour.",
+      "imageUrl": "https://images.gog.com/07b6840574301f974003797ceb6a3d9baf063cb9c209b3f357abcc48290701cc_gac_60.png",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_ARMOR_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Crash Diet",
+      "description": "Complete the game without ever eating to regain energy.",
+      "imageUrl": "https://images.gog.com/b790f4390832ff663132366e175e965c571a6155a3a6609f63a024d88f0e0608_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_DIET_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Dodgy Mouse",
+      "description": "Complete the game without getting hit by an enemy.",
+      "imageUrl": "https://images.gog.com/efe56df81bbf0cde56dcf96db5343481bf5c1560736f0ea81cc80e02c303b29c_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_DODGY_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "End to End",
+      "description": "Reach the end of the game.",
+      "imageUrl": "https://images.gog.com/9541cb868449b5368fac451f57d506a08e815359ae3235e41726972ab5ed19cb_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_END_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Arsonist",
+      "description": "Set fire to all inflammable items in Dwindling Heights.",
+      "imageUrl": "https://images.gog.com/3632b6766b70ac329bb41f6a289c1f02db748c8f073d4d476adf2a02157401ff_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_FIRE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Like a Ghost",
+      "description": "Complete the game without alerting any guards.",
+      "imageUrl": "https://images.gog.com/7de82a6dcd3c575de614ec62d3b7767ad9694ac46573953ee72d168435e7afdc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_GHOST_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Gusto and Fatale",
+      "description": "Complete all of Gusto and Fatale\u0027s quests.",
+      "imageUrl": "https://images.gog.com/a1ea810c46e06ebc0443601edbd2f73c0a5113787e35e6ca26b4ad87abde0947_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_GUSTOFATALE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Lake Shore",
+      "description": "Reach the desolate shore.",
+      "imageUrl": "https://images.gog.com/078b66486ef85764264546be88dd853db26e04132f23ebed5357bce39f95364b_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_LAKE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Lore Master",
+      "description": "Finish every secondary quest.",
+      "imageUrl": "https://images.gog.com/809d9d6ee544f89faa63b6532c6337a3056fe042d882f98ef09736325212e4e2_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_LORE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Lost Hope Found",
+      "description": "Discover Duinlan\u2019s tomb.",
+      "imageUrl": "https://images.gog.com/6c33c153b39c6cfef492b882dbc85c276189693d70024d3a75e9ababe8095126_gac_60.png",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_LOSTHOPE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Mushroom King",
+      "description": "Gather fifty-five mushrooms.",
+      "imageUrl": "https://images.gog.com/669284063d198b05122946392b55d22e07d240db44cb67b19041d40834b837d4_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_MUSHROOM_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "A Name to a Face",
+      "description": "Discover the name of every possible character in Dwindling Heights.",
+      "imageUrl": "https://images.gog.com/5d6e4ce13aa2a14c65f57f9f9ed25d957182112146925b9a7c7c83ac4f14beb3_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_NAME_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Scholar",
+      "description": "Unlock forty-five footnotes.",
+      "imageUrl": "https://images.gog.com/a21dc0e4b1257e192de099dcccc1050d872e1ba3130401c1778cab56f4ff1518_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_NOTES_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Pinnacle",
+      "description": "Reach the highest point in the highest tower.",
+      "imageUrl": "https://images.gog.com/39048b1b063d7298702bb828aedadb4b03d63e9f9ca025bd07c8e9a595eacddb_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_PINNACLE_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Play All",
+      "description": "Play all songs during the course of the game.",
+      "imageUrl": "https://images.gog.com/53e79585911a4ed31191ee5bd6bb3a195fc695950a5cff59d0d5952b6026e1ce_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_PLAY_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "The Draught",
+      "description": "Open all window shutters.",
+      "imageUrl": "https://images.gog.com/4ab9a31fd32750179f6dab86919deea17ce6b864ac87b8bb83ee667dfc686468_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_SHUTTERS_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "All Skilled Up",
+      "description": "Learn all skills in the adventure.",
+      "imageUrl": "https://images.gog.com/888979ce7f6dd991eb41663810164b00fac38e4fbd879b845595602c3925d26e_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_SKILL_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Arachnophobia",
+      "description": "Rid Dwindling Heights of all spiders.",
+      "imageUrl": "https://images.gog.com/861c50fa4dd461baf6203f31fde21da8a7d104c60f48313fef1c57e91d850517_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_SPIDER_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Handker-thief",
+      "description": "Steal all of the Rat Guards\u0027 handkerchiefs.",
+      "imageUrl": "https://images.gog.com/44298a474e253e99dbd4554e55caba33c42c1812e4f5146d37771692b6c5a962_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_THIEF_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Unbound",
+      "description": "Escape from Tilo\u2019s cell.",
+      "imageUrl": "https://images.gog.com/c979b7a78d5381febdd6032d3b0bb1f803437ca6ae545e0c6fa06732e0fde15f_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "GOAT_UNBOUND_00",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

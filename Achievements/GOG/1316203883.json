@@ -1,0 +1,153 @@
+{
+  "name": "Chicken Assassin: Reloaded",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1316203883,
+  "achievements": [
+    {
+      "name": "Completed Above The Sky",
+      "description": "Completed Above The Sky",
+      "imageUrl": "https://images.gog.com/724a1a121db4593f7c1626a26239fd2c7ff82c1c5fe83aa11437819b171dadf3_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_AboveTheSky",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Deep Below",
+      "description": "Completed the Deep Below",
+      "imageUrl": "https://images.gog.com/6c703ff3319de136acd12627db4fcbaea20186f209a979b11bc8b34321e0903a_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_DeepBelow",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Fight Club",
+      "description": "Completed the Fight Club",
+      "imageUrl": "https://images.gog.com/537a28af344cd16cdc37b75b74c1f4f95ec710019f952113874017782268c539_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_FightClub",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Grand Chase",
+      "description": "Completed the Grand Chase",
+      "imageUrl": "https://images.gog.com/84c6f04a92f375c65c37abfac0351b8543482412c142e9b502d9fdaabd0575ac_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_GrandChase",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the McAllister Origins",
+      "description": "Completed the McAllister Origins",
+      "imageUrl": "https://images.gog.com/6c326f31de19638e2085810ce2c1b1af2446d8cbd05a2e61e5fc14fb3976b45e_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_McAllisterOrigins",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Fill Out Mean McAllisters Mission Review",
+      "description": "Fill Out Mean McAllisters Mission Review",
+      "imageUrl": "https://images.gog.com/1cbe090ef60feb359b44f28a1e899153ea81d9b76e308a0c1f79aaa655b4ab54_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_MissionReport",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Octopussy Port",
+      "description": "Completed the Octopussy Port",
+      "imageUrl": "https://images.gog.com/297d7ee7dc49b36b37d2710433e93f764c8e92d6df0557a87e23b00f85956450_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_OctopussyPort",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Prison Break",
+      "description": "Completed the Prison Break",
+      "imageUrl": "https://images.gog.com/360eecd2c1c12e05664634c27b5c32de9586f8fce89cff7ebc8d7eff25679ba5_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_PrisonBreak",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Royal Casino",
+      "description": "Completed the Royal Casino",
+      "imageUrl": "https://images.gog.com/9773e9cc163ccccd912a58ee98341db231cbbd2781f6dca9a22694e7bf83ee17_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_RoyalCasino",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Street Riot",
+      "description": "Completed the Street Riot",
+      "imageUrl": "https://images.gog.com/3ae98bd386573ea8c2b5ea78cb090a97e97f4afce32b0b78eb4cda18e931f07b_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_StreetRiot",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Completed the Suicide Borderland",
+      "description": "Completed the Suicide Borderland",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_SuicideBorderland",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Even Chickens Tweet A Little",
+      "description": "Even Chickens Tweet A Little",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_Twitter",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Subscribe to McAllister TV",
+      "description": "Subscribe to McAllister TV",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ach_YouTube",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

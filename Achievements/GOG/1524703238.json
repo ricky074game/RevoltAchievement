@@ -1,0 +1,43 @@
+{
+  "name": "KAPIA Demo",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1524703238,
+  "achievements": [
+    {
+      "name": "Battle brother",
+      "description": "Complete conversation with Builder",
+      "imageUrl": "https://images.gog.com/1e313f846c0eadf08b17520ecee5d0422bc06ccf27000dcf8081e71fb63a32e2_gac_60.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "BATTLE_BROTHER_3",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Legendary boxer",
+      "description": "Win the boxing game",
+      "imageUrl": "https://images.gog.com/f758de4c34e03d056024a4d0b7f2c2debd2138639f5a34b96278054bfb3ec72f_gac_60.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "LEGNDARY_BOXER_1",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Robot master",
+      "description": "Control Robbi to computer",
+      "imageUrl": "https://images.gog.com/8d78142ab67113980e5085c77c9d6ba0f56a0db75dd7a74345290e61eaf104b4_gac_60.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ROBOT_MASTER_2",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

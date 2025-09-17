@@ -1,0 +1,54 @@
+{
+  "name": "Scott Whiskers: the Search for the Golden Cat Demo",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1821725950,
+  "achievements": [
+    {
+      "name": "Mr. Barney Barney IV",
+      "description": "A nice photo of Barney.",
+      "imageUrl": "https://images.gog.com/0ca27b26fe3e8b1251b4cd125863e90ad3f2ea95113ffe48d55123e485337733_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Barney",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Consuela",
+      "description": "A nice photo of Consuela.",
+      "imageUrl": "https://images.gog.com/242bd0f212fc427a4a518f60f4cdd0dde2c181b9434f93d6b05f1f8ad517c878_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Consuela",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Honorio",
+      "description": "A nice photo of Honorio.",
+      "imageUrl": "https://images.gog.com/53d69f7180b61bf9576a552303c0241dcf44ece2a74894f35bab9b09aefc8306_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "Honorio",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Surfer Dude",
+      "description": "A nice photo of Surfer Dude.",
+      "imageUrl": "https://images.gog.com/8b615f4d50a2ef1634fc082eb1c6edede4b5f7e7f86bdde8d18817e1bde37006_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "SurferDude",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Captain Blood Demo",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 2024112511,
+  "achievements": [
+    {
+      "name": "Captain Flint",
+      "description": "Find all chests.",
+      "imageUrl": "https://images.gog.com/2b47256c78a41b86407e2d7d05d86418b08b91a719d879ab49bea497106e9210_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_CAPTAIN_FLINT",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Caribbean Kong",
+      "description": "Kill 30 enemies with boxes.",
+      "imageUrl": "https://images.gog.com/7d2194b5aae84803fdc075121a19178e37a2732e40d3699cd4080cec9d36ba3c_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_CARIBBEAN_KONG",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Divekick",
+      "description": "Complete an episode using the same attack.",
+      "imageUrl": "https://images.gog.com/e730094511f641a686f17d5a50e3fc259edf3fee56b3afc5351ad6a22517bac5_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_DIVEKICK",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Exterminator",
+      "description": "Destroy all the boats in Episode 2.",
+      "imageUrl": "https://images.gog.com/cbbac3f654ba7924f94e456afe1a8e8e962b59a0e5e6c855e3eca6d6de4131a3_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_EXTERMINATOR",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "No mercy",
+      "description": "Defeat Bosun.",
+      "imageUrl": "https://images.gog.com/fe2d6e16009c08c6ecca3d3b55162d89c973056645cf86b57ed62ca81da920ac_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_NO_MERCY",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Pirate",
+      "description": "Kill 100 enemies.",
+      "imageUrl": "https://images.gog.com/775600d7be5e27f197bdd22fc4e4000418143b6c2c4b5c6e488676c84ec8960b_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_PIRATE",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Psycho",
+      "description": "Kill 27 civilians.",
+      "imageUrl": "https://images.gog.com/2fbbd913b3d5c1f287a0ac7899c0d1b8bcd533f4a984867a3b5a571c49a12029_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_PSYCHO",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "God of Slash",
+      "description": "Land 120 hits on pirates in a row.",
+      "imageUrl": "https://images.gog.com/ae05592fae3d73b9ba9b60ec3c6ad73615cda73867da85136603ac665112cc3e_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "ACH_SLASHER",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}

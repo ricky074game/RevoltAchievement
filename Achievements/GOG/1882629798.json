@@ -1,0 +1,76 @@
+{
+  "name": "Death and Taxes Demo",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1882629798,
+  "achievements": [
+    {
+      "name": "Morbid Curiosity",
+      "description": "Asked all questions in Day 5 lore hub",
+      "imageUrl": "https://images.gog.com/48d8e93fbb51318750287d2a43093775901ad1dbe8274729e0432d8671466fe7_gac_60.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_CURIOUS",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Rebel",
+      "description": "Got fired for insubordination",
+      "imageUrl": "https://images.gog.com/755d2e91afce66bd6f6ab07d99f2b2abca9f05cef63a6351bd8c8c667d9e0640_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_REBEL",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Grim Awakening",
+      "description": "Started a game",
+      "imageUrl": "https://images.gog.com/cfa050969219382f1ae789727c11034bdd56fd4e6b879dd4a37d3687e9ea609f_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_START",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Master of Chaos",
+      "description": "Left the world in bad shape after the trial period",
+      "imageUrl": "https://images.gog.com/3c5a42d2cb1285fa4ed090ed3015b925f7a4b4c892bb25c89a1206a7700e2fb0_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_TRIAL_FIRED",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Fate\u0027s Pet",
+      "description": "Got a raise",
+      "imageUrl": "https://images.gog.com/b91a961d216a159fc83d7e66914807ecd2276d9eee2aaaf96922b20e3a9bb697_gac_60.jpg",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_TRIAL_RAISE",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Master of Balance",
+      "description": "Left the world in good shape after the trial period",
+      "imageUrl": "https://images.gog.com/80f6e2611dac6c4e354b5dc53d2134d2a8da03a8ea2ea61119036f37a7e40066_gac_60.jpg",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "DNT_DEMO_TRIAL_SUCCESS",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}
