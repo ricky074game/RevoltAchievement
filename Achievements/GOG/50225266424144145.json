@@ -1,0 +1,175 @@
+{
+  "name": "GOG Galaxy Integration Demo",
+  "platform": "GOG",
+  "imageUrl": "",
+  "description": "",
+  "method": "GOG API",
+  "appid": 1767680123,
+  "achievements": [
+    {
+      "name": "Rematch?",
+      "description": "Finish a 2 player local game with a draw.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "draw2PRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Match made in heaven",
+      "description": "Finish online 2 player game with a draw.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "drawMPRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Launch the game!",
+      "description": "\u0022IT\u0022 WORKS!",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": true,
+      "apiName": "launchTheGame",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "You\u0027ll get him next time!",
+      "description": "Lose online 2 player game.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "loseMPRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put black ball!",
+      "description": "Put the black ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putBlack",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put blue ball!",
+      "description": "Put the blue ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putBlue",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put brown ball!",
+      "description": "Put the brown ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putBrown",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put green ball!",
+      "description": "Put the green ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putGreen",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put pink ball!",
+      "description": "Put the pink ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putPink",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put red ball!",
+      "description": "Put the \u0022red\u0022 ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putRed",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Put yellow ball!",
+      "description": "Put the yellow ball.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "putYellow",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Test",
+      "description": "TEst",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 1,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "test",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Couch wars!",
+      "description": "Finish 2 player local round.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "win2PRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "Around the world!",
+      "description": "Win a multiplayer match!",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "winMPRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    },
+    {
+      "name": "All by myself...",
+      "description": "Finish a single player game.",
+      "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
+      "hidden": 0,
+      "id": 0,
+      "unlocked": false,
+      "apiName": "winSPRound",
+      "getglobalpercentage": 0,
+      "difficulty": 0
+    }
+  ]
+}
