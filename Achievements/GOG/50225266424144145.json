@@ -34,7 +34,7 @@
       "imageUrl": "https://images.gog.com/4a0514f7c90f41948502894b264e89ecf6885cf0b050271867a661f476d3e8bc_gac_60.png",
       "hidden": 0,
       "id": 0,
-      "unlocked": true,
+      "unlocked": false,
       "apiName": "launchTheGame",
       "getglobalpercentage": 0,
       "difficulty": 0
